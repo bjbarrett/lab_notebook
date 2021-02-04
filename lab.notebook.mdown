@@ -1,0 +1,17 @@
+# 04 February 2021, Thursday
+
+I am going to try and start doing a lab notebook in Markdown. 
+Today is the day. 
+I think every day I will start by making a todo list, that I can copy/paste and manage at the end of the day and revisit on the next timestep should I be too ambitious.
+For refering to files, and progress I made, if I really want to be ambitionus about code, I can refer to other .Rmd documents or R scripts. 
+For this to be a living document I can refer to the actual commit number. 
+This document can also be version controlled as it is a plain txt file. 
+I will also ittalicize if I want, for example scientific names like 
+**Hurrah!**
+
+## To do list
+	- adress reviewer notes/make modifications for vervet EWA paper
+	- job refferal for Rebecca
+	- email Zoë snail paper/key s
+    - ~~github repository for this jaun~~
+
