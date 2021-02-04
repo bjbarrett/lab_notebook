@@ -3,15 +3,24 @@
 I am going to try and start doing a lab notebook in Markdown. 
 Today is the day. 
 I think every day I will start by making a todo list, that I can copy/paste and manage at the end of the day and revisit on the next timestep should I be too ambitious.
-For refering to files, and progress I made, if I really want to be ambitionus about code, I can refer to other .Rmd documents or R scripts. 
+For referring to files, and progress I made, if I really want to be ambitious about code, I can refer to other `.Rmd` documents or `.R` scripts. 
 For this to be a living document I can refer to the actual commit number. 
-This document can also be version controlled as it is a plain txt file. 
-I will also ittalicize if I want, for example scientific names like 
+This document can also be version controlled as it is a plain `.txt` file. 
 **Hurrah!**
 
 ## To do list
-	- adress reviewer notes/make modifications for vervet EWA paper
-	- job refferal for Rebecca
-	- email Zoë snail paper/key s
-    - ~~github repository for this jaun~~
+1. address reviewer notes/make modifications for vervet EWA paper
+2. ~~job referral for Rebecca~~
+3. email Zoë snail paper/key
+4. ~~init github repository for this jaun~~
 
+
+### Scientific Reports Vervet EWA review
+Main things for me to address:
+* explain why overfitting ain't no thing here to reviewer 2 who was very nice about it
+	* WAIC is the point
+	* parameters relative to the # of observations, not parameters. we had several thousand observations.
+	* varying effects help ensure
+	* blurb about # parameters relative to observations and why this is only true in linear models.
+* editor concern about previous experience going into a similar task. Could set attraction scores to that baseline if you have some data.
+* Reviewer 1 tell them that that graph is in supplemental and info is in table XX
