@@ -45,3 +45,13 @@ Main things for me to address:
 * editor concern about previous experience going into a similar task. Could set attraction scores to that baseline if you have some data.
 * Reviewer 1 tell them that that graph is in supplemental and info is in table XX
 
+# 05.03.2021
+
+Still working on revision. Need to reread paper and explain model comparison vs model selection as there is no truth and the universe is chaos.
+
+## To do list
+1. address reviewer notes/make modifications for vervet EWA paper
+2. email agouti yorrick
+3. Work on Uni K grant
+4. Email Shreya
+5. Shauhin code
