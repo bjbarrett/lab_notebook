@@ -14,8 +14,28 @@ This document can also be version controlled as it is a plain `.txt` file.
 3. email Zoë snail paper/key
 4. ~~init github repository for this jaun~~
 
+***
 
-### Scientific Reports Vervet EWA review
+# 05.02.2021
+
+## To do list
+1. address reviewer notes/make modifications for vervet EWA paper
+2. ~~email Zoë snail paper/key~~
+3. ~~Upload moar files to server~~
+4. email agouti yorrick
+5. Work on Uni K grant
+6. ~~read for alexander treff~~
+7. Email Shreya
+
+###Random Notes
+- get [this paper](https://doi.org/10.1098/rsbl.2020.0643) someday, paywalled
+- met with Alexander about fitting congitive models of movement/patch choice to data
+	- Il learning models as a function of angle/distance
+	- queries about outcome parameter and movemwnt decisions
+- Urs gave advie about stats class and habilitation, also i am teaching SL and CL module in April QTBE
+- Zoë mentioned some aspect of sex-biased niche differntiation for snail vs. almendra difference
+
+### Scientific Reports Vervet EWA review (*continued von gestern*)
 Main things for me to address:
 * explain why overfitting ain't no thing here to reviewer 2 who was very nice about it
 	* WAIC is the point
@@ -24,3 +44,4 @@ Main things for me to address:
 	* blurb about # parameters relative to observations and why this is only true in linear models.
 * editor concern about previous experience going into a similar task. Could set attraction scores to that baseline if you have some data.
 * Reviewer 1 tell them that that graph is in supplemental and info is in table XX
+
