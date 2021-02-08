@@ -1,4 +1,4 @@
-# 04 February 2021, Thursday
+## 04 February 2021, Thursday
 
 I am going to try and start doing a lab notebook in Markdown. 
 Today is the day. 
@@ -8,7 +8,7 @@ For this to be a living document I can refer to the actual commit number.
 This document can also be version controlled as it is a plain `.txt` file. 
 **Hurrah!**
 
-## To do list
+### To do list
 1. address reviewer notes/make modifications for vervet EWA paper
 2. ~~job referral for Rebecca~~
 3. email Zoë snail paper/key
@@ -16,9 +16,9 @@ This document can also be version controlled as it is a plain `.txt` file.
 
 ***
 
-# 05.02.2021
+## 05.02.2021
 
-## To do list
+### To do list
 1. address reviewer notes/make modifications for vervet EWA paper
 2. ~~email Zoë snail paper/key~~
 3. ~~Upload moar files to server~~
@@ -27,7 +27,7 @@ This document can also be version controlled as it is a plain `.txt` file.
 6. ~~read for alexander treff~~
 7. Email Shreya
 
-###Random Notes
+####Random Notes
 - get [this paper](https://doi.org/10.1098/rsbl.2020.0643) someday, paywalled
 - met with Alexander about fitting congitive models of movement/patch choice to data
 	- Il learning models as a function of angle/distance
@@ -35,7 +35,7 @@ This document can also be version controlled as it is a plain `.txt` file.
 - Urs gave advie about stats class and habilitation, also i am teaching SL and CL module in April QTBE
 - Zoë mentioned some aspect of sex-biased niche differntiation for snail vs. almendra difference
 
-### Scientific Reports Vervet EWA review (*continued von gestern*)
+#### Scientific Reports Vervet EWA review (*continued von gestern*)
 Main things for me to address:
 * explain why overfitting ain't no thing here to reviewer 2 who was very nice about it
 	* WAIC is the point
@@ -45,13 +45,32 @@ Main things for me to address:
 * editor concern about previous experience going into a similar task. Could set attraction scores to that baseline if you have some data.
 * Reviewer 1 tell them that that graph is in supplemental and info is in table XX
 
-# 05.03.2021
+## 06.02.2021
 
 Still working on revision. Need to reread paper and explain model comparison vs model selection as there is no truth and the universe is chaos.
 
-## To do list
+### To do list
 1. address reviewer notes/make modifications for vervet EWA paper
 2. email agouti yorrick
 3. Work on Uni K grant
 4. Email Shreya
 5. Shauhin code
+
+## 08.02.2021
+
+Today I'll check in with Charlotte about review comments. Things to highlight include
+	* add 2 figures
+	* supp revision, order of figures, missing phi
+	* use of term individual learning strategy-- replace with "single"
+	*order of MS for journal w/ regards to results
+
+### To do list
+1. ~~address reviewer notes/make modifications for vervet EWA paper~~
+2. email agouti yorrick
+3. Work on Uni K grant
+4. ~~Email Shreya~~
+5. Shauhin code
+6. Re-email imaging team for AI
+7. Exiftool some R2 videos
+8. Look at Michael stuff from past
+9. sims for Zoë
