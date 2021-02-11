@@ -101,7 +101,7 @@ Later I exif-tooled all videos in R2 and got renaming tables for Agouti. Code co
 
 # 10.02.2021
 
-##To do list
+## To do list
 1. Work on Uni K grant
 2. Shauhin code
 3. Look at Michael sims
@@ -109,7 +109,7 @@ Later I exif-tooled all videos in R2 and got renaming tables for Agouti. Code co
 5. Yorick email graph for Tamara et al
 6. Finish Revisions proofing
 
-Grace giving talk
+### Grace giving talk
 
 - brings up MVT and give up time based on travel time
 -individual heterogeneity
@@ -124,11 +124,16 @@ Grace giving talk
 
 # 11.02.2021
 
-##To do list
+## To do list
 1. Work on Uni K grant
 2. Shauhin code
 3. Look at Michael sims
 4. Zoë sims
 5. Yorick email graph for Tamara et al
 6. Finish Revisions proofing
+
+## ODS today
+	- [lintR](https://github.com/jimhester/lintr)
+	- 'session.info::sessioninfo'
+		- can slso use 'sessioninfo:save.session(...)' or 'sessioninfo:restore.session(...)'
 
