@@ -84,7 +84,7 @@ Did some scoring in Agouti, Yoda is the plain ale with no spots or dots and some
 8. Look at Michael Chimento stuff from past
 9. sims for Zoë
 
-#09.02.2021
+# 09.02.2021
 
 ## To do list
 
@@ -99,7 +99,7 @@ Did some scoring in Agouti, Yoda is the plain ale with no spots or dots and some
 Met w/ Odd and talked about data viz and proposal.
 Later I exif-tooled all videos in R2 and got renaming tables for Agouti. Code commited in tool data repostiory.
 
-#10.02.2021
+# 10.02.2021
 
 ##To do list
 1. Work on Uni K grant
@@ -122,7 +122,7 @@ Grace giving talk
 - give up time changing as a function of # monkeys on patch and when they arise
 -frequency dependece and group specific leaving time?
 
-#11.02.2021
+# 11.02.2021
 
 ##To do list
 1. Work on Uni K grant
