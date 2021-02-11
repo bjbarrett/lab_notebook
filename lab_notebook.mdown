@@ -84,12 +84,51 @@ Did some scoring in Agouti, Yoda is the plain ale with no spots or dots and some
 8. Look at Michael Chimento stuff from past
 9. sims for Zoë
 
-#08.02.2021
+#09.02.2021
 
 ## To do list
 
 1. Work on Uni K grant
 2. Shauhin code
-3. Exiftool some R2 videos
-4. Look at Michael
+3. ~~Exiftool some R2 videos~~
+4. Look at Michael sims
 5. Zoë sims
+6. ~~LaTeX Supp again~~
+7. Yorick email graph for Tamara et al
+
+Met w/ Odd and talked about data viz and proposal.
+Later I exif-tooled all videos in R2 and got renaming tables for Agouti. Code commited in tool data repostiory.
+
+#10.02.2021
+
+##To do list
+1. Work on Uni K grant
+2. Shauhin code
+3. Look at Michael sims
+4. Zoë sims
+5. Yorick email graph for Tamara et al
+6. Finish Revisions proofing
+
+Grace giving talk
+
+- brings up MVT and give up time based on travel time
+-individual heterogeneity
+-what about frequency depedndence of give up time
+- leave when one individual has its say or all individuals have theor day
+-can groups converge on a shared give up time if resource quality differs
+- P1 individuals differ in foraging behvior
+- individuals have different foraging gain curves (high rankers have earlier ODTs)
+- HOW DO YOU CALCULATE GROUP OPTIMAL?
+- give up time changing as a function of # monkeys on patch and when they arise
+-frequency dependece and group specific leaving time?
+
+#11.02.2021
+
+##To do list
+1. Work on Uni K grant
+2. Shauhin code
+3. Look at Michael sims
+4. Zoë sims
+5. Yorick email graph for Tamara et al
+6. Finish Revisions proofing
+
