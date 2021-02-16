@@ -70,7 +70,7 @@ Today I'll check in with Charlotte about review comments. Things to highlight in
 
 Emailed Shreya about folder structure, did not preced w/ image inventory csv unless it is needed
 
-Did some scoring in Agouti, Yoda is the plain ale with no spots or dots and some semblance of peak that looks likt Dashiki from Lomas. Really prominemt occipital bones and intense stare. There is a juv he often cooccurs with who is beginning to look reliably like his own monkey. [Commits and notes here](https://github.com/bjbarrett/camtrap_coiba/commit/72cb8ceadf45bcdddeb36f2e068e3db1b111b66e)
+Did some scoring in Agouti, Yoda(YOD) is the plain male with no spots or dots and some semblance of peak that looks likt Dashiki from Lomas. Really prominemt occipital bones and intense stare. There is a juv he often cooccurs with who is beginning to look reliably like his own monkey. [Commits and notes here](https://github.com/bjbarrett/camtrap_coiba/commit/72cb8ceadf45bcdddeb36f2e068e3db1b111b66e)
 
 
 ## To do list
@@ -126,14 +126,42 @@ Later I exif-tooled all videos in R2 and got renaming tables for Agouti. Code co
 
 ## To do list
 1. Work on Uni K grant
-2. Shauhin code
+2. ~~Shauhin code~~
 3. Look at Michael sims
 4. Zoë sims
 5. Yorick email graph for Tamara et al
-6. Finish Revisions proofing
+6. ~~Finish Revisions proofing~~
 
 ## ODS today
-	- [lintR](https://github.com/jimhester/lintr)
-	- 'session.info::sessioninfo'
-		- can slso use 'sessioninfo:save.session(...)' or 'sessioninfo:restore.session(...)'
+- [Slides](https://docs.google.com/presentation/d/1P-L5_Te_Js39Z_PloZlCb91C_u1MhL_b6BGqzLWBu2o/edit#slide=id.p)
+- [lintR](https://github.com/jimhester/lintr)
+- To save session info on packages etc.:
+	'
+	session.info::sessioninfo
+	sessioninfo:save.session(...)
+	sessioninfo:restore.session(...)
+	'
+## Talk w/ Magnus
+- he will try and forward contract to me, I have $$ written down for similat Lui Kotale project
+- don't sign NDA, write our own based off of ours
+- lead with footage wanting, might mean that we cannot otherwise
+- we are providing a service to them, we get to negotiate esp since we are not hurting for $$
 
+
+I was wondering if you might be able to clarify what we should do
+
+# 12.02.2021
+## Convo w/ BBC
+
+# 15.02.2021
+
+## To do list
+1. ~~Submit Uni K grant~~
+2. reviewer comments for charlotte
+3. Look at Michael sims
+4. Zoë sims
+5. Yorick email graph for Tamara et al
+6. Summary of BBC meeting, email folks
+7. ~~R3 exiftooled and servered~~
+
+# 16.02.2021
