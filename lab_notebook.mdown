@@ -165,3 +165,18 @@ I was wondering if you might be able to clarify what we should do
 7. ~~R3 exiftooled and servered~~
 
 # 16.02.2021
+My computer crashed today for real, so things got effed
+
+1. ~~reviewer comments for charlotte
+2. Look at Michael sims
+3. Zoë sims
+4. Yorick email graph for Tamara et al
+5. ~~Summary of BBC meeting, email folks
+
+# 17.02.2021
+
+1. New computer getting set up most of the day
+
+# 18.02.2021
+
+Installing Rstan on Big Sur a pain
