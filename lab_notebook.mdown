@@ -66,7 +66,7 @@ Today I'll check in with Charlotte about review comments. Things to highlight in
 	* add 2 figures
 	* supp revision, order of figures, missing phi
 	* use of term individual learning strategy-- replace with "single"
-	*order of MS for journal w/ regards to results
+	* order of MS for journal w/ regards to results
 
 Emailed Shreya about folder structure, did not preced w/ image inventory csv unless it is needed
 
@@ -171,7 +171,7 @@ My computer crashed today for real, so things got effed
 2. Look at Michael sims
 3. Zoë sims
 4. Yorick email graph for Tamara et al
-5. ~~Summary of BBC meeting, email folks
+5. ~~Summary of BBC meeting, email folks~~
 
 # 17.02.2021
 
@@ -180,3 +180,144 @@ My computer crashed today for real, so things got effed
 # 18.02.2021
 
 Installing Rstan on Big Sur a pain
+
+## Todo heute
+1. ~~Get computer in order~~
+2. Look at Michael sims
+3. ~~Zoë sims~~
+4. Yorick email graph for Tamara et al
+5. ~~Summary of our ODF week 2~~
+
+## ODS Git wit Kosmas
+
+### connected things to server 
+- PW in Instin email, use MPI login
+
+# 19.02.2021
+1. Look at Michael sims
+2. continue Zoë sims
+3. Yorick email graph for Tamara et al
+4. exiftool R4 videos
+
+# 22.02.2021
+
+1. Look at Michael sims
+2. continue Zoë sims
+3. Yorick email graph for Tamara et al
+4. ~~exiftool R4 + R5 videos, upload to server~~
+5. Zoe proposal (got throught first chunk)
+6. Proc-B review
+7. Charlotte graf
+
+# 23.02.2021
+
+1. Look at Michael sims
+2. continue Zoë sims
+3. Yorick email graph for Tamara et al
+4. ~~Zoe proposal (got throught first chunk)~~
+5. Proc-B review
+6. Charlotte graf
+
+# 24.02.2021
+
+1. Look at Michael sims
+2. continue Zoë sims
+3. Yorick email graph for Tamara et al
+4. Proc-B review
+5. ~~Charlotte graf~~
+6. Wataru feedback
+
+# 24.02.2021
+
+1. Look at Michael sims
+2. ~~continue Zoë sims~~
+3. ~~Yorick email graph for Tamara et al~~
+4. Proc-B review
+5. Wataru feedback
+6. follow up with tamara and meredith
+7. DAGS for conflict paper (in progress)
+
+## ODS- Komas
+
+- Use branch to edit
+in CL 
+'git branch <branch_name>'
+to toggle between different branches
+'git checkout'
+- use fork to create new
+
+
+
+# 24.02.2021
+
+1. Look at Michael sims
+2. Proc-B review
+3. Wataru feedback
+4. ~~follow up with tamara and meredith~~
+5. DAGS for conflict paper (in progress)
+6. ~~Exiftool R6~~
+
+## Conflict paper
+- figure 22, plot data where we actually have those number of guards.
+We also worked on the daggity website to get a DAG of Kristen's thoughts up and running. Here is below code. Challenge is that shes is unsure of some causal relationships.
+Here is daggity code for [maximally inclusive DAG](http://dagitty.net/dags.html?id=ZG_AQM). 
+'
+dag {
+bb="-4.208,-4.245,4.147,4.322"
+"C70/2070" [pos="-1.038,3.145"]
+"HW Conflict" [outcome,pos="-0.067,0.593"]
+BD [pos="-1.834,-0.093"]
+HHsize [pos="3.450,-3.531"]
+LSHs [pos="0.887,-2.142"]
+River [pos="1.520,3.608"]
+SD [pos="-3.512,1.627"]
+guards [exposure,pos="3.076,-0.857"]
+road [pos="-2.415,-2.286"]
+"C70/2070" -> "HW Conflict"
+"HW Conflict" <-> guards
+BD -> "C70/2070"
+BD -> "HW Conflict"
+BD -> LSHs
+HHsize -> LSHs
+HHsize -> guards
+LSHs -> "HW Conflict"
+LSHs -> guards
+River -> "C70/2070"
+River -> "HW Conflict"
+SD -> "HW Conflict"
+SD -> BD
+road -> "HW Conflict"
+road -> BD
+}
+'
+
+Here is dagitty code for [minimal one here](http://dagitty.net/dags.html?id=MS_Ur9).
+
+'
+dag {
+bb="-4.208,-4.245,4.147,4.322"
+"C70/2070" [pos="-1.038,3.145"]
+"HW Conflict" [outcome,pos="-0.067,0.593"]
+BD [pos="-1.834,-0.093"]
+HHsize [pos="3.450,-3.531"]
+LSHs [pos="0.887,-2.142"]
+River [pos="1.520,3.608"]
+SD [pos="-3.512,1.627"]
+guards [exposure,pos="3.076,-0.857"]
+road [pos="-2.415,-2.286"]
+"C70/2070" -> "HW Conflict"
+"HW Conflict" <-> guards
+BD -> "C70/2070"
+BD -> "HW Conflict"
+HHsize -> LSHs
+HHsize -> guards
+LSHs -> "HW Conflict"
+LSHs -> guards
+River -> "C70/2070"
+River -> "HW Conflict"
+SD -> "HW Conflict"
+SD -> BD
+road -> BD
+}
+'
+I need to learn DAGs and time series.
