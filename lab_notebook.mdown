@@ -261,7 +261,7 @@ to toggle between different branches
 - figure 22, plot data where we actually have those number of guards.
 We also worked on the daggity website to get a DAG of Kristen's thoughts up and running. Here is below code. Challenge is that shes is unsure of some causal relationships.
 Here is daggity code for [maximally inclusive DAG](http://dagitty.net/dags.html?id=ZG_AQM). 
-'
+```
 dag {
 bb="-4.208,-4.245,4.147,4.322"
 "C70/2070" [pos="-1.038,3.145"]
@@ -289,11 +289,11 @@ SD -> BD
 road -> "HW Conflict"
 road -> BD
 }
-'
+```
 
 Here is dagitty code for [minimal one here](http://dagitty.net/dags.html?id=MS_Ur9).
 
-'
+```
 dag {
 bb="-4.208,-4.245,4.147,4.322"
 "C70/2070" [pos="-1.038,3.145"]
@@ -319,5 +319,5 @@ SD -> "HW Conflict"
 SD -> BD
 road -> BD
 }
-'
+```
 I need to learn DAGs and time series.
