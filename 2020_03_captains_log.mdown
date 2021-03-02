@@ -1,0 +1,59 @@
+
+# 01.03.2021
+
+1. Look at Michael sims
+2. Proc-B review
+3. Wataru feedback
+4. DAGS for conflict paper (in progress)
+5. ~~overleaf for SR~~
+6. ~~calender update~~
+7. Agouti tools
+8. home to do list
+9. sloanea
+10. pick laptop
+11. ~~email about evelyn~~
+
+Addt this to my to read list [https://onlinelibrary.wiley.com/doi/epdf/10.1111/sjp.12072]
+
+## HW conflict
+- I added slope, and removed the question mark direct causal arrows.
+- We should break up C2070/70
+- ask kristen which roads she crated
+- if road is proxy for human distubance, it wou;f nr a consequence of that. wjhich directy affectd conf;lict. and other things. lets ignore for now.
+- did DAGs for Kristin's crop stuff too, but we need to chat
+
+# 02.03.2021
+
+1. Look at Michael sims
+2. Proc-B review
+3. Wataru feedback
+4. DAGS for conflict paper (in progress)
+5. ~~shreya feedback~~
+6. ~~Agouti tools~~
+7. home to do list
+8. sloanea
+9. ~~pick laptop~~
+
+## Agouti scoring.
+
+Begin [here](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/fb2aa4a4-b70c-44f6-8e65-7d33ef251266), seq 303, with tool 3. tool 4 is off anvil.
+- tool 3 knocked off anvil out of view https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/1bdd5ff7-a5a8-4358-845b-908f0d5122a5
+-  tool 3 back https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/c8220767-156f-45be-a438-568f2fc414be
+-tool3 falls off back left, bACK IN NEXT [seq 336](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/8aee6445-87c3-479a-9d1e-33e7e6491f75)
+- [SEQ 358](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/ce7cbcf0-9f12-4bf9-ab85-46a9d7cda916) tool 3 transported off
+- [seq 378](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/3c188ffa-d2fd-498d-8733-88948b6cb1d4) tool 5 brought nd lost?
+-[seq 389](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/d82cf240-b703-44c9-82e0-27e5b01748f1)tool 5, i think, brought back
+-[seq 394](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/cf1dfa78-a884-4505-bb24-900ca66403b9) tool 5  on right off anvil
+- seq[409]https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/23ad20af-3cef-4364-b71a-e76549b2866c) tool 6 brought, tool 5 still on anvil in back
+- [seq 419](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/76e517c9-201f-488e-9064-19766cf4e836) tool 5 puhed off to oberver right
+- [seq 422](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/62fdcbfb-9781-46c9-ba66-3501ce762f01) tool 5 back on
+- [seq 425](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/ad765e69-68bf-40df-9c8b-445120c5c6a5) 6, i think is back on by big male, 5 on right
+- [seq 428](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/8bcc6303-8dfb-42fe-95d2-ec280272651e) 6 on 5 knocked off
+- [seq 432](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/534da417-5f74-4bb2-a0a0-0fda86bff61a) 5 brought back, on back onf anvil 6 in front
+- pick up @ 436
+
+## back to DAGS fo TZA
+
+## papers
+check this out, 18 predictors, potential for clliders abound, but preregistered.
+https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24257
