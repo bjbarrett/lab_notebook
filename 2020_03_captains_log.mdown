@@ -39,21 +39,114 @@ Addt this to my to read list [https://onlinelibrary.wiley.com/doi/epdf/10.1111/s
 Begin [here](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/fb2aa4a4-b70c-44f6-8e65-7d33ef251266), seq 303, with tool 3. tool 4 is off anvil.
 - tool 3 knocked off anvil out of view https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/1bdd5ff7-a5a8-4358-845b-908f0d5122a5
 -  tool 3 back https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/c8220767-156f-45be-a438-568f2fc414be
--tool3 falls off back left, bACK IN NEXT [seq 336](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/8aee6445-87c3-479a-9d1e-33e7e6491f75)
+- tool3 falls off back left, bACK IN NEXT [seq 336](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/8aee6445-87c3-479a-9d1e-33e7e6491f75)
 - [SEQ 358](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/ce7cbcf0-9f12-4bf9-ab85-46a9d7cda916) tool 3 transported off
 - [seq 378](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/3c188ffa-d2fd-498d-8733-88948b6cb1d4) tool 5 brought nd lost?
--[seq 389](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/d82cf240-b703-44c9-82e0-27e5b01748f1)tool 5, i think, brought back
--[seq 394](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/cf1dfa78-a884-4505-bb24-900ca66403b9) tool 5  on right off anvil
+- [seq 389](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/d82cf240-b703-44c9-82e0-27e5b01748f1)tool 5, i think, brought back
+- [seq 394](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/cf1dfa78-a884-4505-bb24-900ca66403b9) tool 5  on right off anvil
 - seq[409]https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/23ad20af-3cef-4364-b71a-e76549b2866c) tool 6 brought, tool 5 still on anvil in back
 - [seq 419](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/76e517c9-201f-488e-9064-19766cf4e836) tool 5 puhed off to oberver right
 - [seq 422](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/62fdcbfb-9781-46c9-ba66-3501ce762f01) tool 5 back on
 - [seq 425](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/ad765e69-68bf-40df-9c8b-445120c5c6a5) 6, i think is back on by big male, 5 on right
 - [seq 428](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/8bcc6303-8dfb-42fe-95d2-ec280272651e) 6 on 5 knocked off
 - [seq 432](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/534da417-5f74-4bb2-a0a0-0fda86bff61a) 5 brought back, on back onf anvil 6 in front
-- pick up @ 436
+- [seq 436](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/4db46ab6-8083-48fd-b5a5-f07f3caaf110) 5 kocked off back, 6 in front
+- [seq 459](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/aa4af8f2-d895-448d-8030-8132ceff972b) 6 on leaf in front 5 on anvil brought back
+- [seq 498](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/ec0deb6a-1f0e-4366-a647-fa4c10881fe7) 5 used, 7 brought then dropped of to left
+- [seq 500?](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/8c8a3e2c-ca17-463f-bcbf-f395091f7a69) 7 (or 8?) brought back, 5 off in bottom left
+- [seq 503](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/8dc07b9d-5f10-4f97-9667-9128bde02d3d) 7 falls off screen
+- [seq 512](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/74fd3235-3d43-48b1-915d-ad809bf8ed66) 5 falls off front right
+- [seq 513](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/3406ccff-2c0d-4797-a89c-b0addcfa277a) 5 brought back on i think
+- [seq 518](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/a640e6b2-e772-422f-95df-090f13740b85) 5 fell off at some point to right
+- [seq 530](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/ebd1315a-a5ff-4145-b905-5f3cd9dfffea) 7 fractures, broight back in 528, a in large b is small, 5 on anvil
+- [seq 533](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/729287e6-5de5-4847-8a57-eb58267d64ce) 7a and 5 knocked off, 7b on
+- [seq 534](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/050e1918-5a1e-43a7-8720-5fb8a825a163) 7a back
+- [seq 540](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/1bcd88ae-8150-4fa0-8e65-0861b8e4e45e) 7b falls off somewhere
+- [sq 543](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/4fdbabc2-ebee-4d4c-8179-1904407d9bc5) 7a knocked off
+- [sq 545](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/d8316c45-c896-442d-94dc-bae7a39f3a54) 7a back
+- [sq 553](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/5daeb9ef-5e2a-4a5b-8e1e-ba87c0f7eb54) 7a falls off
+- [seq 566](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/9784aab8-7a2d-4787-a95c-3ae750c92f8a) 7a falls off bottom left oov, 5 back on
+
 
 ## back to DAGS fo TZA
 
 ## papers
 check this out, 18 predictors, potential for clliders abound, but preregistered.
 https://onlinelibrary.wiley.com/doi/10.1002/ajpa.24257
+
+# 03.03.2021
+
+Tobin got sent home from Kita today so only 3 hours of work. I cancelled Lucy and Tamara meeting
+
+1. Look at Michael sims
+2. Proc-B review
+3. Wataru feedback
+4. ~~DAGS for conflict paper (in progress)~~
+5. home to do list
+6. sloanea
+7. ~~Agouti to finish for tools~~
+
+## Agouti for tool sequences
+- [seq 530](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/ebd1315a-a5ff-4145-b905-5f3cd9dfffea) 7 fractures, brought back in 528, a in large b is small, 5 on anvil
+- [seq 533](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/729287e6-5de5-4847-8a57-eb58267d64ce) 7a and 5 knocked off, 7b on
+- [seq 534](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/050e1918-5a1e-43a7-8720-5fb8a825a163) 7a back
+- [seq 540](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/1bcd88ae-8150-4fa0-8e65-0861b8e4e45e) 7b falls off somewhere
+- [sq 543](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/4fdbabc2-ebee-4d4c-8179-1904407d9bc5) 7a knocked off
+- [sq 545](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/d8316c45-c896-442d-94dc-bae7a39f3a54) 7a back
+- [sq 553](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/5daeb9ef-5e2a-4a5b-8e1e-ba87c0f7eb54) 7a falls off
+- [seq 566](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/9784aab8-7a2d-4787-a95c-3ae750c92f8a) 7a falls off bottom left oov, 5 back on
+
+# 04.03.2021
+
+1. Look at Michael sims
+2. ~~Proc-B review asked for code and postponed~~
+3. Wataru feedback
+4. home to do list
+5. sloanea
+6. ~~tool deployment graphs~~
+7. ~~shreya ppt and email~~
+8. Animal Behavior Review ()
+
+## Proc B review as stats reviewer bat snifferz
+- line 103 "iinfructescences (“fruit” hereafter) samples "-- should it be infructescence samples?
+- line 107-108 "We controlled VOC abundances by dividing them by the weight of the sample and hours of collection time"
+	- wouldnd it be better to estimate this as a model? acount for weight as a covariate and hours as a exposure? what do you mean by control? do you have a time series of data and can you see if these get relesaed during bat foraging times?
+	- line 140 to 141 Finally, we calculated the proportion in the diet of each Piper species for each Carollia species as proportionPiperX =  (positive PiperX samples)/total number of samples; check for if this raw proportion is effed up
+	-  "Using the ripe fruit VOC abundance dataset and the “capscale” function from the R package194 vegan [32], we ran a constrained, redundancy (multi-dimensional scaling, MDSanalysis based 195 on Bray-Curtis distances. " is thie to run a PCA? thats what it seems like." say why.
+- 253-254- if yu are going to use p-values report them
+- why is diet data  Log10(percentange+1)? why is a log taken of percent? why add one your model will make shit predictions.
+- table 1 confuces me, particularly with the delta AIC table
+
+**emailed editor-- there is no code I A sked for it**
+
+## Elepahnt conflict paper.
+-i stumbled [on this](https://www.cambridge.org/core/journals/oryx/article/panic-at-the-disco-solarpowered-strobe-light-barriers-reduce-field-incursion-by-african-elephants-loxodonta-africana-in-chobe-district-botswana/2341B3ED382CE91DE519C609F2AC6965). coefficients suggest opposite of what they say. god example of collider bias to cite most likely, need to read and draw dag
+
+## Animal Behavior REivew
+I asked for an extension until the end of March.
+
+# 05.03.2021
+1. Look at Michael sims
+2. Wataru feedback
+3. home to do list
+4. sloanea
+5. Animal Behavior Review (postponed)
+
+## When is good results code
+239efha
+[invite link](http://whenisgood.net/y8baygz)
+[results](http://whenisgood.net/y8baygz/results/239efha)
+[edit](http://whenisgood.net/y8baygz/edit/239efha)
+
+
+#AI for earth innovation grant stuff
+[azure credits](https://ai4good.microsoftcrmportals.com/SignIn)
+[pilot program](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR47qADuFvdlCincAfH22va1UOVJITTBVSzdIUFVZODQ1NjJJUlMxWjFLQy4u) march 19
+
+##Sloanea project
+I ran some models with age/sex as a dummy variable, but I can make them better using the approach i did for ericas stuff.
+1) run models with group and IL varying eff using age. just do conform first
+2) add sex
+One issue is that we were averaging over individuals social cues. Point estimates can be misleading. Can we instead use a probability distribution of social cues, uniqur to each individual?
+
+I moved a bunch of things from dropbox to github, currently updating models to better syntax ala vervet. Stopped at IL model, need to remove age index variable and change to be more generalizable.
