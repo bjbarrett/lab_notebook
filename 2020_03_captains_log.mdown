@@ -39,12 +39,12 @@ Addt this to my to read list [https://onlinelibrary.wiley.com/doi/epdf/10.1111/s
 Begin [here](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/fb2aa4a4-b70c-44f6-8e65-7d33ef251266), seq 303, with tool 3. tool 4 is off anvil.
 - tool 3 knocked off anvil out of view https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/1bdd5ff7-a5a8-4358-845b-908f0d5122a5
 -  tool 3 back https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/c8220767-156f-45be-a438-568f2fc414be
-- tool3 falls off back left, bACK IN NEXT [seq 336](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/8aee6445-87c3-479a-9d1e-33e7e6491f75)
+- [seq 336](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/8aee6445-87c3-479a-9d1e-33e7e6491f75) tool3 falls off back left, bACK IN NEXT 
 - [SEQ 358](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/ce7cbcf0-9f12-4bf9-ab85-46a9d7cda916) tool 3 transported off
 - [seq 378](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/3c188ffa-d2fd-498d-8733-88948b6cb1d4) tool 5 brought nd lost?
 - [seq 389](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/d82cf240-b703-44c9-82e0-27e5b01748f1)tool 5, i think, brought back
 - [seq 394](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/cf1dfa78-a884-4505-bb24-900ca66403b9) tool 5  on right off anvil
-- seq[409]https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/23ad20af-3cef-4364-b71a-e76549b2866c) tool 6 brought, tool 5 still on anvil in back
+- [seq 409]https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/23ad20af-3cef-4364-b71a-e76549b2866c) tool 6 brought, tool 5 still on anvil in back
 - [seq 419](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/76e517c9-201f-488e-9064-19766cf4e836) tool 5 puhed off to oberver right
 - [seq 422](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/62fdcbfb-9781-46c9-ba66-3501ce762f01) tool 5 back on
 - [seq 425](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/ad765e69-68bf-40df-9c8b-445120c5c6a5) 6, i think is back on by big male, 5 on right
@@ -131,6 +131,7 @@ I asked for an extension until the end of March.
 3. home to do list
 4. sloanea
 5. Animal Behavior Review (postponed)
+6. send tree GPS
 
 ## When is good results code
 239efha
@@ -150,3 +151,26 @@ I ran some models with age/sex as a dummy variable, but I can make them better u
 One issue is that we were averaging over individuals social cues. Point estimates can be misleading. Can we instead use a probability distribution of social cues, uniqur to each individual?
 
 I moved a bunch of things from dropbox to github, currently updating models to better syntax ala vervet. Stopped at IL model, need to remove age index variable and change to be more generalizable.
+
+## Meredith and Tamara Meeting
+Aktion Itemz
+- Beign [here at seq 358](https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/ce7cbcf0-9f12-4bf9-ab85-46a9d7cda916) to double check tool number. We will all go forward and then re-id tools
+- for tools that fracture, the parent tool that is larger will retain the number. The smaller "tool" if it is uesd or not, will get a new number. in the comments when the tool appears make a note what it fractured off of.
+- think about AI and tool recongition for future
+- going forward, we can pick a sequence to jointly ID. Brendan suggests Cebus-02-01-R1 in Agouti for Brendan and Meredith to jointly score. WE can then see how it goes on two folks scoring the same sequence.
+]
+
+##Krisin Meeting
+ I drew out DAGS, and need to publish them and get double checked. Then we can select subset of regression models.
+
+ # 08.03.2021
+
+1. Look at Michael sims
+2. Wataru feedback
+3. Proc-B Review
+4. sloanea
+5. Animal Behavior Review (postponed till end of moth)
+6. send tree GPS tp Meredith
+7. Zoe draft
+8. get simple EWA models running for ST paper.
+9. ODS prep
