@@ -160,17 +160,131 @@ Aktion Itemz
 - going forward, we can pick a sequence to jointly ID. Brendan suggests Cebus-02-01-R1 in Agouti for Brendan and Meredith to jointly score. WE can then see how it goes on two folks scoring the same sequence.
 ]
 
-##Krisin Meeting
+## Kristin Meeting
  I drew out DAGS, and need to publish them and get double checked. Then we can select subset of regression models.
 
- # 08.03.2021
+# 08.03.2021
 
 1. Look at Michael sims
 2. Wataru feedback
 3. Proc-B Review
-4. sloanea
-5. Animal Behavior Review (postponed till end of moth)
+4. Sloanea
+5. Animal Behavior Review (postponed till end of month)
 6. send tree GPS tp Meredith
-7. Zoe draft
+7. Zoe draft read
 8. get simple EWA models running for ST paper.
-9. ODS prep
+9. ODS prep with Urs/watch video
+10. ~~meet with zoe~~
+11. ~~email JLA~~
+12. check results of poll
+13. ~~draft NDA (*emailed angie for draft*)~~
+14. start talk for AAPA
+15. ~~publish new websites for susan, share code with kate.~~
+		-awaiting feedback from susan if she actually wants a new map
+
+# 09.03.2021
+
+1. Send tree GPS tp Meredith
+2. ~~Zoe draft read~~
+3. get simple EWA models running for ST paper.
+4. ~~ODS prep with Urs/watch video~~
+5. check results of poll
+6. start talk for AAPA
+7. ~~publish new websites for susan~~
+8. Look at Michael sims
+9. Wataru feedback
+10. Proc-B Review
+12. Animal Behavior Review (postponed till end of month)
+13. ODS slides
+14. ODS code review sample
+
+# 10.03.2021
+
+1. Send tree GPS tp Meredith
+2. get simple EWA models running for ST paper.
+3. check results of poll
+4. start talk for AAPA
+5. Look at Michael sims
+6. Wataru feedback
+7. Proc-B Review (asked for extension)
+8. Animal Behavior Review (postponed till end of month)
+9. ~~ODS slides~~
+10. ODS code review sample
+
+## Lab Meeting
+
+### Kat Proposal
+1) intergroup encounters
+2) iodine consumption
+3) foragingstrategies
+5_ wanmba and kokolopori- tolerant, prolonged associations, no severe injuries
+
+LuiKotal- highly tolerant to agressive, few prolonged associations, severe injuries 2 infanticide cases
+
+1) what facors predict occurence of an IGE
+h1)large grups cpmpete mpre // asymetery 
+h2) high fuit abundance helps offser energetic costs/ food abundance increases less ig
+h3) ig encounters provide opportunities to gather social info/ more ige with potential immigrants
+h4) ice between the are risky/ lesscommon in overlap
+h5) females with infant avoid IGE / IGE less likely to occur as # females with infants increates
+
+Ch1) numeruica advantege, small grop vs large group likelihood of dispersal// concerns abour measurement
+for question 2 think about causal relationship between group size outcomes and # males and females
+
+Ch2 Iodiine-
+
+is iodine nutritionally constrainnig for chimps
+sea food is a constraint for humans, common in tropics, awy from coast
+kat wants to make an iodine map/rainfall
+
+Does it need to be a net cost, or relative slower intake compared to other available options
+
+# 11.03.2021
+
+Day care only till 12:30. All kinderpfleger were sick.
+
+1. Send tree GPS tp Meredith
+2. get simple EWA models running for ST paper.
+3. ~~start talk for AAPA~~
+4. ~~Sylvia meeting~~
+5. Look at Michael sims
+6. Wataru feedback
+7. Proc-B Review (asked for extension)
+8. Animal Behavior Review (postponed till end of month)
+10. ~~ODS code review sample~~
+11. change colors to rivers, csv of names and gps
+
+## Sylvia Meeting
+1. catch up on uploads stuff
+2. ask her questions about scoring
+3. hours remaining
+4. status of everything
+
+# 12.03.2021
+
+No childcare today. Babusels close. Showed up at office after noon.
+
+1. Send tree GPS tp Meredith
+2. get simple EWA models running for ST paper.
+3. ~~sylvia meet again~~
+4. ~~julia and lucy meeting~~
+5. Look at Michael sims
+6. Wataru feedback
+7. Proc-B Review (asked for extension)
+8. Animal Behavior Review (postponed till end of month)
+10. fix graphs for AAPA talk, at least write outline
+11. change colors to rivers, csv of names and gps
+
+# 15.03.2021
+
+1. Send tree GPS tp Meredith
+2. get simple EWA models running for ST paper.
+3. odd proposal read
+4. evelyn respond
+5. Look at Michael sims
+6. Wataru feedback
+7. Proc-B Review (asked for extension)
+8. Animal Behavior Review (postponed till end of month)
+9. change colors to rivers, csv of names and gps
+10. fix graphs for AAPA talk, at least write outline
+
