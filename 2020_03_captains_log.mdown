@@ -278,7 +278,7 @@ No childcare today. Babusels close. Showed up at office after noon.
 # 15.03.2021
 
 1. Send tree GPS tp Meredith
-2. get simple EWA models running for ST paper.
+2. ~~get simple EWA models running for ST paper.~~
 3. odd proposal read
 4. evelyn respond
 5. Look at Michael sims
@@ -286,5 +286,51 @@ No childcare today. Babusels close. Showed up at office after noon.
 7. Proc-B Review (asked for extension)
 8. Animal Behavior Review (postponed till end of month)
 9. change colors to rivers, csv of names and gps
-10. fix graphs for AAPA talk, at least write outline
+10. ~~fix graphs for AAPA talk, at least write outline~~
 
+## Sloanea stuff
+- Created a sex il and cue file, doing analysis on a subset of individuals for speed reasons
+- need to make no group models VE to see if it helps with speed
+1) age x sex cue model, freq model, globsl model
+2) sex freq model
+3) see if i can just estimate params for all individuals
+4) in future make a vector of initial attraction scores for each group per year tio initialize timesteps. this can be group mean 
+
+## Dominicks paper-- notes
+
+# 16.03.2021
+
+1. Send tree GPS tp Meredith
+2. global ST paper
+3. odd proposal read
+4. evelyn respond
+5. Look at Michael sims
+6. Wataru feedback
+7. Proc-B Review (asked for extension)
+8. Animal Behavior Review (postponed till end of month)
+9. ~~change colors to rivers,~~ csv of names and gps
+
+Age bias in econ03
+
+I ran age, cohot, kin, freq, il on servers. I am downloading.
+
+It will be worthwhile to get out the actual values we want in the GQ for these final models. Namely, all parameters for all individuals
+
+# 17.03.2021
+
+1. Send tree GPS tp Meredith
+2. global ST paper
+3. odd proposal read
+4. evelyn respond
+5. Look at Michael sims
+6. Wataru feedback
+7. Proc-B Review (asked for extension)
+8. Animal Behavior Review (postponed till end of month)
+9. csv of names and gps susan
+10. ~~MS AI for earth form~~
+11. Katrin email
+## sloanea
+1. age plots
+2. model preds
+3. sex plots
+4. code and run global model on server
