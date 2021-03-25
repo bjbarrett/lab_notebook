@@ -368,3 +368,72 @@ I am giving up on new results in this talk. I made
 11. Katrin email slides
 12. ~~rerecord Presentation for AAPA~~
 
+# 22.03.2021
+
+1. ~~CASCB presentation~~
+2. global ST paper
+3. agouti tool sequence
+4. exiftool more videos
+5. Look at Michael sims
+6. Wataru feedback
+7. Proc-B Review (asked for extension)
+8. Animal Behavior Review (postponed till end of month)
+9. csv of names and gps susan
+10. ~~zoe graph feedback~~
+11. ~~Katrin email slides~~
+12. ~~reply lucy et al email~~
+13. ~~ODS group~~
+14. apply for CASCB
+15. Bianca draft overview
+16. ~~start process of actual advising paperwork~~ emailed roland kissmehl
+
+# 23.03.2021
+
+1. ~~global ST paper~~
+2. agouti tool sequence
+3. exiftool more videos
+4. Look at Michael sims
+5. Wataru feedback
+6. Proc-B Review (asked for extension)
+7. Animal Behavior Review (postponed till end of month)
+8. ~~csv of names and gps susan~~
+9. apply for CASCB
+10. ~~Bianca draft overview~~
+
+# 24.03.2021
+
+1. agouti tool sequence
+2. exiftool more videos
+3. Look at Michael sims
+4. Wataru feedback
+5. Proc-B Review (asked for extension)
+6. Animal Behavior Review (postponed till end of month)
+7. apply for CASCB
+
+I attended CASCB retreat. Michael and Somja gave talks. So did this guy, Fabian Dvorak, an economist who wants to see the relative contibution of belief learning and frequency dependence.
+
+I started going over the anbehav review
+
+# 24.03.2021
+
+1. agouti tool sequence
+2. exiftool more videos
+3. Look at Michael sims
+4. Wataru feedback
+5. Proc-B Review (asked for extension)
+6. ~~Animal Behavior Review (postponed till end of month)~~
+7. apply for CASCB
+8. zoe feedback deux
+9. mapview of stuff at coiba
+ 
+## niche differentioation review notes Webb et al
+
+The stats are highly improved. Thanks for taking my suggestions seriously. Hopefully you found it improved the paper, and you learned some things! And thanks for the code repository RmD file. There was not data in there as it was directed to read data from your laptop hard drive (i.e. rotationTable <- as.data.frame(read.csv("~/Desktop/Manuscripts/Submitted/NicheDifferentiation/SupportingDocs/rotationDate16_17.csv")), so you might want to consider reuploading all of that to this github repository, and having someone else see if they can reproduce it on a different machine. The crate a DOI for it on something like Zenodo or Dryad. 
+One suggestion for graphs: 
+Axes on figure 3a and 4a should be revised. they are way too wide of a range, and would be made better if range was restricted or width of x axis was larger/"embiggend".
+Generally figure 3b and 4b are great ways to visualize the results of these models, and these interactions in particular. Its hard to interpret parameters in interaction models, and significance of a single parameter is not informative about the total effect size when predicting.
+A thing to think about. There could be problems with detecting individuals in the upper canopy. There might be bias towards detecting larger individuals and definitely a seasonal effect with detection due to leaf biomass. Data is likely not missing at random, which makes valid inference challenging. , but it depends on exact nature of sampling regime. I imagine point samples during/at the end of focal follows might be less biased than scan samples for this.
+It seems like you fruit ground models within the large SE could not be estimated using a frequentist approach, and it is good you did not interpret them. It you are curious what the result would be if the models converged it is somewhat straight forward to do in rSTAN. I have old code for this in a paper repository here for data where we had a lot of zeros (innovation rates per year per individual) at Lomas. I could fit it for you if you are curious in the future. Just let me know. https://github.com/bjbarrett/cebusinnovation2017/blob/master/innovation_map2stan_fits_git.r
+Also in my original comments on MS, I had (one of many) typos where i said something about "a more clever approach"  when I meant" a more clearer approach." I just wanted to clarify and not come off as too pompous.
+Cool paper, and carefully thought out. I'll cite it in the future.
+-Brendan Barrett
