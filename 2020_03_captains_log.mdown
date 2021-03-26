@@ -414,7 +414,7 @@ I attended CASCB retreat. Michael and Somja gave talks. So did this guy, Fabian 
 
 I started going over the anbehav review
 
-# 24.03.2021
+# 25.03.2021
 
 1. agouti tool sequence
 2. exiftool more videos
@@ -434,6 +434,22 @@ Axes on figure 3a and 4a should be revised. they are way too wide of a range, an
 Generally figure 3b and 4b are great ways to visualize the results of these models, and these interactions in particular. Its hard to interpret parameters in interaction models, and significance of a single parameter is not informative about the total effect size when predicting.
 A thing to think about. There could be problems with detecting individuals in the upper canopy. There might be bias towards detecting larger individuals and definitely a seasonal effect with detection due to leaf biomass. Data is likely not missing at random, which makes valid inference challenging. , but it depends on exact nature of sampling regime. I imagine point samples during/at the end of focal follows might be less biased than scan samples for this.
 It seems like you fruit ground models within the large SE could not be estimated using a frequentist approach, and it is good you did not interpret them. It you are curious what the result would be if the models converged it is somewhat straight forward to do in rSTAN. I have old code for this in a paper repository here for data where we had a lot of zeros (innovation rates per year per individual) at Lomas. I could fit it for you if you are curious in the future. Just let me know. https://github.com/bjbarrett/cebusinnovation2017/blob/master/innovation_map2stan_fits_git.r
-Also in my original comments on MS, I had (one of many) typos where i said something about "a more clever approach"  when I meant" a more clearer approach." I just wanted to clarify and not come off as too pompous.
+Also in my original comments on MS, I had (one of many) typos where i said something about "a more clever approach"  when I meant " a more clearer approach." I just wanted to clarify and not come off as too pompous.
 Cool paper, and carefully thought out. I'll cite it in the future.
--Brendan Barrett
+
+## Coiba mpap
+
+I started making Coiba master map, and I need to trim some tracks. its in tool repo.
+
+# 26.03.2021
+
+1. agouti tool sequence
+2. exiftool more videos
+3. Look at Michael sims
+4. Wataru feedback
+5. Proc-B Review (asked for extension)
+7. apply for CASCB
+8. zoe feedback deux
+9. ~~mapview of stuff at coiba~~
+ 
+ note-- converting track points to lines was very much a pain in the ass but it seemed to be related to projections
