@@ -437,7 +437,7 @@ It seems like you fruit ground models within the large SE could not be estimated
 Also in my original comments on MS, I had (one of many) typos where i said something about "a more clever approach"  when I meant " a more clearer approach." I just wanted to clarify and not come off as too pompous.
 Cool paper, and carefully thought out. I'll cite it in the future.
 
-## Coiba mpap
+## Coiba map
 
 I started making Coiba master map, and I need to trim some tracks. its in tool repo.
 
@@ -453,3 +453,30 @@ I started making Coiba master map, and I need to trim some tracks. its in tool r
 9. ~~mapview of stuff at coiba~~
  
  note-- converting track points to lines was very much a pain in the ass but it seemed to be related to projections
+
+# 29.03.2021
+1. agouti tool sequence
+2. exiftool more videos
+3. Look at Michael sims
+4. Wataru feedback
+5. Proc-B Review (asked for extension)
+7. apply for CASCB
+8. ~~zoe feedback deux~~
+9. shauhin
+
+# Proc-B Review
+
+I was primarily brought in as an outside statistical reviewer, but I would like to note that I think this is an interesting paper and is an important contribution to the literature, particularly as someone who works in the same/similar ecosystems and is familiar with Piper and Phyllostomid bats. I can tell alot of work went into to field and lab components. I dp hae a few questions about stats, and some recommendations.
+N of plamt species varies alot. 
+
+VOC abundances: 
+In the methods described beginning on line 93 were VOCs collected run on each infructesence, or were all infuctesences combined before being run through GCMS? 
+I have some concerns about variability between samples, and whether or not species for where there are only 1 or a few samples can give reliable VOC cues.
+If samples were run on individual infructesences, it might be worthwhile to know what the varaiblity beteen infructesences of a single species (i.e. Piper_colonense, Piper_peltatum, Piper_reticulatum, Piper_sanctifelicis) and if that can inform us if we can trust data from a single infructescense. If not, perhaps it should be mentioned as a possible limitation of study in discussion (for certain species). 
+
+On line 139-140 it says how the proportion in the diet of each piper species, for each carolla species was calculated. It seems as if that for each species, the number of fecal samples contatinng a particualr piper species was summed up and diveded by the total number of fecal samples collected per species.
+
+41 males and 24 non-lcatating adult females?
+
+I cannot provide feedback on the quality of the trees an phylogenetic reconstructions described in lines 176-190 as I have only dabbled in Bayeian phylogetic regression, but hopefully other reviewers can.  MDS function to see how how things (VOCs?) clustered together. Does clustering show a phylogenetic symbol, when using 3 continuous trait evolution models?
+line 206-207: "Phylogenetic regressions are typically used"- I assume you mean to investigate reciporical relationships petween VOC traits and consumption. And I think you mean that errore in the covariates (i.e. MDS axis and the proportion of poops caontaining seeds)                                                                                                                                                                                                                                                                                                                                                                                                                                
