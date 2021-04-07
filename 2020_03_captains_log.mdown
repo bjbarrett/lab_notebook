@@ -462,21 +462,68 @@ I started making Coiba master map, and I need to trim some tracks. its in tool r
 5. Proc-B Review (asked for extension)
 7. apply for CASCB
 8. ~~zoe feedback deux~~
-9. shauhin
+9. ~~shauhin~~
 
-# Proc-B Review
+# Proc-B Review bat scent
 
-I was primarily brought in as an outside statistical reviewer, but I would like to note that I think this is an interesting paper and is an important contribution to the literature, particularly as someone who works in the same/similar ecosystems and is familiar with Piper and Phyllostomid bats. I can tell alot of work went into to field and lab components. I dp hae a few questions about stats, and some recommendations.
-N of plamt species varies alot. 
+I was primarily brought in as an outside statistical reviewer, but I would like to note that I think this is an interesting paper and is an important contribution to the literature, particularly as someone who works in the same/similar ecosystems and is familiar with Piper and Phyllostomid bats. I can tell a lot of work went into to field and lab components. I do have a few questions about stats, and some recommendations.
 
-VOC abundances: 
-In the methods described beginning on line 93 were VOCs collected run on each infructesence, or were all infuctesences combined before being run through GCMS? 
+## VOC abundances: 
+In the methods described beginning on line 93 were VOCs collected run on each infructesence, or were all infructesences combined before being run through GCMS? 
 I have some concerns about variability between samples, and whether or not species for where there are only 1 or a few samples can give reliable VOC cues.
-If samples were run on individual infructesences, it might be worthwhile to know what the varaiblity beteen infructesences of a single species (i.e. Piper_colonense, Piper_peltatum, Piper_reticulatum, Piper_sanctifelicis) and if that can inform us if we can trust data from a single infructescense. If not, perhaps it should be mentioned as a possible limitation of study in discussion (for certain species). 
+If samples were run on individual infructesences, it might be worthwhile to know what the variability between infructesences of a single species (i.e. Piper_colonense, Piper_peltatum, Piper_reticulatum, Piper_sanctifelicis) and if that can inform us if we can trust data from a single infructesence. If not, perhaps it should be mentioned as a possible limitation of study in discussion (for certain species). 
 
-On line 139-140 it says how the proportion in the diet of each piper species, for each carolla species was calculated. It seems as if that for each species, the number of fecal samples contatinng a particualr piper species was summed up and diveded by the total number of fecal samples collected per species.
+## Largest Concern About Analysis: log( 1 + probability)
+On line 139-140 it says how the proportion in the diet of each piper species, for each Carollia species was calculated. It seems as if that for each species, the number of fecal samples containing a particular Piper species was summed up and divided by the total number of fecal samples collected per species. I have 2 concerns about how this was used. 
 
-41 males and 24 non-lcatating adult females?
+1) Uncertainty about these proportions does not appear to be articulated in the approach needed. Instead of regressing on the raw proportions as an outcome, using an aggregated binomial or a Bernoulli outcome (i.e 1/0 observation of presence of seed in each individual fecal sample) would communicate uncertainty better. The sample size of the bat fecal samples range from 84-123 for each species, which gives me less concern about using the raw proportions as an outcome, but it is always best practice to never regress on raw proportions.
 
-I cannot provide feedback on the quality of the trees an phylogenetic reconstructions described in lines 176-190 as I have only dabbled in Bayeian phylogetic regression, but hopefully other reviewers can.  MDS function to see how how things (VOCs?) clustered together. Does clustering show a phylogenetic symbol, when using 3 continuous trait evolution models?
-line 206-207: "Phylogenetic regressions are typically used"- I assume you mean to investigate reciporical relationships petween VOC traits and consumption. And I think you mean that errore in the covariates (i.e. MDS axis and the proportion of poops caontaining seeds)                                                                                                                                                                                                                                                                                                                                                                                                                                
+2) My larger concern in the use of log(prop.cas+1), log(prop.sow +1), log(prop.per +1) as outcome variables. Log(obd_data + constant) is/was a commonly used approach to deal with log(0) in data (often counts), but the addition of a constant is completely arbitrary and renders interpretation of effect sizes meaningless on a biological scale. If an additive constant, c, is used it should be chosen carefully given the data and the question at hand. There are a variety of issues written about the topic, and different proposed solutions, but they all depend om the question/data at hand.
+
+https://www.nature.com/articles/npre.2010.4136.1
+https://www.tandfonline.com/doi/full/10.1080/19466315.2017.1369900
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4120293/
+
+The use of mixture models like zero-inflated Poisson models and zero-augmented gamma models get rid of the temptation to log(x+constant transform things). 
+
+But, since your data in binomial/bernouli, and you are estimating proportions, it would be better to use a different outcome distribution and a logit link. 
+
+For example instead of this model. which was in your supplemental code:
+
+mds.1 <- MCMCglmm(cbind(MDS1, log(prop.cas+1), log(prop.sow +1), log(prop.per +1)) ~ trait -1, random = ~idh(trait):Species, rcov = ~us(trait):units, ginverse = list(Species = inv.phylo$Ainv), pr = TRUE, data = dat1, family = c("gaussian", "gaussian", "gaussian", "gaussian"), prior=prior.m4, pl=TRUE, nitt=25000, thin=20, burnin=5000)
+
+One would do this:
+
+mds.1.new <- MCMCglmm(cbind(MDS1, prop.cas, prop.sow , prop.per) ~ trait -1, random = ~idh(trait):Species, rcov = ~us(trait):units, ginverse = list(Species = inv.phylo$Ainv), pr = TRUE, data = dat1, family = c("gaussian", "binomial", "binomial", "binomial"), prior=prior.m4, pl=TRUE, nitt=25000, thin=20, burnin=5000)
+
+This is similar to you use of the Poisson distribution in model em.2.
+
+I did not have access to the CSV, "Carollia_pruneddiet_correct_names.csv" or "tree<-read.tree("time.tree.correct.names.phy")" , so I was unable to make sure I could run one of these models locally on my machine and give you working code. I would need to see how the datasets are structured. Also if you switch to Bernoulli/binomial you might need to make sure your priors are specified differently-- something equivalent to a Normal(0,1) for parameters on the log-odds scale is often a useful starting point so the model is not spending most of the time searching near infinity and negative infinity for parameter estimates.
+
+Similarly, for the 8 VOC models, one could do a multiple response model where the VOC  components are estimated as a zero augmented gamma instead of the log10(cym+1) transformation. A zero-augmented gamma is a mixture model of a  Bernoulli (0/1-- not observe/observe a positive VOC value ) and estimating the VOC value using a a gamma distribution conditional on a 1 being observed. This would not be possible in MCMCglmm however, and would have to be written in something like  STAN (and would fit quicker). However, this is perhaps a bit too technical and I think me telling the authors to learn a different programming language for a paper like this is unreasonable.
+
+I would be happy in the proportions were modeled as a binomial/Bernoulli with a logit link instead of being log(x + constant) transformed, in MCMCglmm but better tools exist.
+
+line 206-207: "Phylogenetic regressions are typically used"- I assume you mean to investigate reciprocal relationships between VOC traits and consumption. And I think you mean that error in the covariates (i.e. MDS axis and the proportion of poops containing seeds). I think adding a sentence or two about the advantages of a multi-response model would be useful for the reader, to explain what we gain from this approach.
+
+Also, I see that you cite an old version of Jarred Hadfield's course notes, but the course notes ask to cite this when refenceing the package:
+Hadfield JD (2010). “MCMC methods for Multi–response Generalised Linear Mixed Models: The MCMCglmm R Package.” Journal of Statistical Software, 33(2), 1–22.
+
+# 30.03.2021
+1. agouti tool sequence
+2. exiftool more videos
+3. Look at Michael sims
+4. Wataru feedback
+5. apply for CASCB
+
+I also did simulations with Zoe.
+
+# 31.03.2021
+
+Tobi had bad raction to vaccine. He is home sick today.
+
+1. agouti tool sequence
+2. exiftool more videos
+3. Look at Michael sims
+4. Wataru feedback
+5. apply for CASCB

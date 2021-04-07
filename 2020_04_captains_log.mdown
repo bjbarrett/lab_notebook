@@ -1,0 +1,29 @@
+
+# 06.04.2021
+
+Tobi was home sick on April 01, 02. Then we had Easter break, First real day working in a while.
+1. agouti tool sequence
+2. exiftool more videos
+3. ~~Look at Michael sims~~
+4. Wataru feedback
+5. apply for CASCB
+
+Today I went to Rado and met with Lucy's group. We did some EWA modelling eviews.
+I set up a [shared repository](https://github.com/bjbarrett/aplin_lab_ewa) for simulations and code. I need to add working stan code to work with EWA simulations. I fit a IL model to Julia's data and need to fit a freq dep model as well.
+
+I also met with Michael and we talked throught this EWA/NBDA integration model. I think an exploration of frequency dependence, varying paypffs, and phi will be useful.
+
+# 07.04.2021
+1. agouti tool sequence
+2. exiftool more videos
+3. email Katrin RE Evelyn
+4. Wataru feedback
+5. apply for CASCB
+6. Get tax docs
+7. Email Linda Vigilant
+8. Email BBC
+9. Email AI group
+10. Tamara and Meredith stuff in Agouti
+11. Sloanea models, try S
+12. Email Susan
+13. get tax docs
