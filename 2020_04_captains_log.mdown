@@ -25,6 +25,26 @@ I also met with Michael and we talked throught this EWA/NBDA integration model. 
 9. ~~Email AI group
 10. Tamara and Meredith stuff in Agouti
 11. Sloanea models, try S
-12. Email Susan
+12. ~~Email Susan~~
 13. ~~get tax docs~~ got uni emailed MPI
-14. bianca draft feedback
+14. ~~bianca draft feedback~~
+15. Kristen models
+
+## Kristen and Kate HW conflict
+Got code running for minimal and landscape models. I made their own special script for the models. I will make scripts for lions later. I am debating about canonical models. There may not be a point but fuck it , it is 2021.
+
+# 07.04.2021
+1. agouti tool sequence
+2. exiftool more videos
+3. Wataru feedback
+4. apply for CASCB
+5. work on ods group 2 stuff i started the other week.
+6. Tamara and Meredith stuff in Agouti
+7. Sloanea models, try S
+8. Kristen livestock
+9. Meredith reading list
+
+Decided not to do canonical models for meow.  I finished all plots for crop conflict, except Kates maps. I need to see her rod layer to modify DAG. Need to ask Kristen about `dl$village[dl$fid==179] <- "Nyamatoke_jklol"`
+
+I need to add the number of strategies model for crop and start plots for livestock.
+
