@@ -88,7 +88,7 @@ I emailed Linda Vigilant. She cannot start DNA analysis let due to persoanllel l
 6. https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2019.0227 (dolphins)
 7. https://www.pnas.org/content/84/15/5506.short (cocos finches, not tool use but SL foraging specialization on islands close to coiba)
 8. https://onlinelibrary.wiley.com/doi/full/10.1046/j.1461-0248.2002.00370.x (finches)
-9. Fox EA, Sitompul AF, Van Schaik CP. 1999Intelligent tool use in wild Sumatran orangutans. In The mentality of gorillas and orangutans (eds Parker ST, Mitchell RW, Miles HL), pp. 99–116. Cambridge, UK: Cambridge University Press. (everyone cites this, no one reads it. don't be that person)
+9. Fox EA, Sitompul AF, Van Schaik CP. 1999 Intelligent tool use in wild Sumatran orangutans. In The mentality of gorillas and orangutans (eds Parker ST, Mitchell RW, Miles HL), pp. 99–116. Cambridge, UK: Cambridge University Press. (everyone cites this, no one reads it. don't be that person)
 10. https://www.pnas.org/content/106/25/10370?ijkey=88d8b5ef154c72fba565764097bc3a611441770d&keytype2=tf_ipsecsha (captive rooks)
 11.  https://www.pnas.org/content/106/25/10071 (Kacenlnik thinkpiece)
 12. https://royalsocietypublishing.org/doi/10.1098/rstb.2012.0418
@@ -120,4 +120,18 @@ Bugging out very badly.. Oick up here to correct this: https://www.agouti.eu/#/p
 
 Brendan also here https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/9ebe08a7-89b3-4174-91c6-36c345202160
 
+# 19.04.2021
+-difficult foraging, longer juvenile periods / could be modeled.
+-Tell Sasha to do a ZIP, interexting to see play and grooming in same model w/in dyads.
+-Play partners, dyadic behavior does that change over time.
+
+# 20.04.2021
+
+- exiftool more videos
+- Wataru feedback
+- apply for CASCB
+- work on ods group 2 stuff i started the other week.
+- Tamara and Meredith stuff in Agouti--- started doing but they changed format
+- Sloanea models, try S
+- Kristen livestock (need to change to 10, add plot wtf is ging on with weird spikes in graph?)
 
