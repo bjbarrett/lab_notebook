@@ -65,7 +65,7 @@ I emailed Linda Vigilant. She cannot start DNA analysis let due to persoanllel l
 
 # 13.04.2021
 
-1. agouti tool sequence
+1. ~~agouti tool sequence~~
 2. exiftool more videos
 3. Wataru feedback
 4. apply for CASCB
@@ -113,11 +113,72 @@ I emailed Linda Vigilant. She cannot start DNA analysis let due to persoanllel l
 14. https://www.pnas.org/content/114/30/7830.short
 
 ## TZA stuff
-I need to impuite on household size, and check for dropped cases. found out that 0 guards were being dropped as well. also follow up on layer.
+I need to impuite on household size, and check for dropped cases. found out that 0 guards were being dropped as well. also follow up on layer. Check out crop missing cases as well (namely months planted).
 
 ## Agouti
-Bugging out very badly.. Oick up here to correct this: https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/773c5750-f231-464b-b469-1a78f27a6cea
+Bugging out very badly.. Pick up here to correct this: https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/773c5750-f231-464b-b469-1a78f27a6cea
 
 Brendan also here https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/9ebe08a7-89b3-4174-91c6-36c345202160
 
+# 14.04.2021
 
+1. julia freq dep model
+2. exiftool more videos
+3. Wataru feedback
+4. apply for CASCB
+5. work on ods group 2 stuff i started the other week.
+6. Tamara and Meredith stuff in Agouti
+7. Sloanea models, try S
+8. Kristen livestock send
+9. wildlife insights tester application
+10. read zoe proposal
+11. Watch videos for AAPA
+
+This is likely the best tidal resource. https://tablademareas.com/pa/oceano-pacifico/isla-cebaco
+
+# 15.04.2021
+
+1. julia freq dep model
+2. exiftool more videos
+3. Wataru feedback
+4. apply for CASCB
+5. work on ods group 2 stuff i started the other week.
+6. Tamara and Meredith stuff in Agouti
+7. Sloanea models, try S
+8. Kristen livestock send
+9. wildlife insights tester application
+10. ~~read zoe proposal~~
+11. Watch videos for AAPA
+
+## Zoe TAC
+
+Zoe had TAC today, went well. Some notes below.
+
+- Lucy social networks / interaction networks between classes
+- groups tructure females roaming across sites
+- sex differences in tool use, take a step back
+- know social and ecological conditions, need to know social conditions
+- need an understanding of social system 
+- hormonal literature
+- tracking tide seems har. how does tool use change habitat use
+- reposition framing of tidal to environment
+Did imputation models w/ houshols size for TZA
+# 16.04.2021
+-length juve period and brain size, relationship, but are these causal or linked to otherthings
+- share with susan collider examples
+- are there examples of knowledge that is not foraging behavior that you would predict grandparents to be more important repositories of information
+
+# 16.04.2021
+
+1. julia freq dep model
+2. exiftool more videos
+3. Wataru feedback
+4. apply for CASCB
+5. work on ods group 2 stuff i started the other week.
+6. Tamara and Meredith stuff in Agouti
+7. Sloanea models, try S
+8. wildlife insights tester application
+9. ~~Watch videos for AAPA, slides and questions~~
+10. Fabian reply
+
+I got all the cebaco tidal data converted to csv. its on camera trap github repo. need to write script to clean it and back up to server.
