@@ -120,10 +120,28 @@ Bugging out very badly.. Oick up here to correct this: https://www.agouti.eu/#/p
 
 Brendan also here https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5ec3368/annotate/sequence/9ebe08a7-89b3-4174-91c6-36c345202160
 
+# 14.04.2021
+Got data from Sylvia for Cebaco tides. It is uploaded to GitHub with a ReadMe.
+
+1. julia freq dep model
+2. exiftool more videos
+3. Wataru feedback
+4. apply for CASCB
+5. work on ods group 2 stuff i started the other week.
+6. Tamara and Meredith stuff in Agouti
+7. Sloanea models, try S
+8. Kristen livestock send
+9. wildlife insights tester application
+10. read zoe proposal
+11. Watch videos for AAPA
+
+This is likely the best tidal resource. https://tablademareas.com/pa/oceano-pacifico/isla-cebaco
+
 # 19.04.2021
--difficult foraging, longer juvenile periods / could be modeled.
--Tell Sasha to do a ZIP, interexting to see play and grooming in same model w/in dyads.
--Play partners, dyadic behavior does that change over time.
+## AAPA talks today
+- difficult foraging, longer juvenile periods / could be modeled.
+- Tell Sasha to do a ZIP, interexting to see play and grooming in same model w/in dyads.
+- Play partners, dyadic behavior does that change over time.
 
 # 20.04.2021
 
@@ -134,4 +152,23 @@ Brendan also here https://www.agouti.eu/#/project/0e0508af-d3dc-4be6-9806-dbdba5
 - Tamara and Meredith stuff in Agouti--- started doing but they changed format
 - Sloanea models, try S
 - Kristen livestock (need to change to 10, add plot wtf is ging on with weird spikes in graph?)
+
+# 21.04.2021
+- exiftool more videos
+- Wataru feedback
+- apply for CASCB
+- work on ods group 2 stuff i started the other week.
+- Tamara and Meredith stuff in Agouti--- started doing but they changed format
+- Sloanea models, try S
+- Kristen livestock (need to change to 10, add plot wtf is ging on with weird spikes in graph?)
+- email Fabian
+- email yorick about species change. Homo got changed to Cebus
+- content bias paper
+
+## Feedback fod Odd
+-highlight uniquenes of site
+-cross section of groups can be misleading, need longitudinal, panel data
+-comment locations?
+
+
 
