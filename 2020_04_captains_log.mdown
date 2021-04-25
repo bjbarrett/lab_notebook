@@ -154,21 +154,97 @@ This is likely the best tidal resource. https://tablademareas.com/pa/oceano-paci
 - Kristen livestock (need to change to 10, add plot wtf is ging on with weird spikes in graph?)
 
 # 21.04.2021
+
 - exiftool more videos
 - Wataru feedback
 - apply for CASCB
 - work on ods group 2 stuff i started the other week.
 - Tamara and Meredith stuff in Agouti--- started doing but they changed format
 - Sloanea models, try S
-- Kristen livestock (need to change to 10, add plot wtf is ging on with weird spikes in graph?)
-- email Fabian
-- email yorick about species change. Homo got changed to Cebus
+- ~~Kristen livestock (need to change to 10, add plot wtf is ging on with weird spikes in graph?)~~
+- ~~email Fabian~~
+- ~~email yorick about species change. Homo got changed to Cebus~~
 - content bias paper
 
 ## Feedback fod Odd
 -highlight uniquenes of site
 -cross section of groups can be misleading, need longitudinal, panel data
 -comment locations?
+-make sure he reads campos et al
 
+# 22.04.2021
+
+- exiftool more videos
+- Wataru feedback
+- apply for CASCB
+- work on ods group 2 stuff i started the other week.
+- Tamara and Meredith stuff in Agouti--- started doing but they changed format
+- Sloanea models, try S
+- content bias paper
+- QMBE VTK material
+- julia freq dep model
+- simulation resources for Lucy's group
+- press release
+
+## VTK QMBE
+28 Feb 2020
+Intro: Discussion to SL and Culture
+15-18: Read Paper(s) -- Rogers/McElreath Textbook $ Enquist et al? SLS Review or Culture an Conservation
+29 Feb 2020
+9:00-10:30- Paper Discussion
+13:00-18:00: Methods / Do some models
+
+## Humboldt report
+- report on analyses due april 30th?
+- zoes work
+- grant applications
+- emerging collaboratoipn
+- lytdia
+
+## Outline for lecture
+Social Learning In Animals
+-define social learning
+-contrast to individual learning
+Types of Social Learning
+- local enhancement
+- stimulus enhancement
+-  imitation/emulation
+Innovation
+Evidence for Social Learning in Animals
+-Experiments and Observational Studies
+Captive Studies vs. Ecological Relevance
+Foraging Behavior
+Route Choice
+Mate Choice
+Predator Avoidance
+Why is social learning adaptive?
+Models-- Rogers Model
+Environmental Change
+Minimzing Costs of Individual Learning
+
+Culture in Animals
+-group contrasts methods
+-early studies
+-skepticism, my critique
+
+Social Learning Strategies
+-define
+-why are heuristics adaptive
+-examples of SLS
+-empirical examples
+* Lucy
+* Brendan
+
+
+Cultural Evoltiom
+-features of evolution
+-commonalities between genetic evolution and cultural evolution // differences
+-define
+-gene-culture coevolution (examples)
+-multi-level selection // cooperation
+
+-cumulative culture
+-megadetector threshold. capuchins in stream images just this one.
+-inception-net
 
 
