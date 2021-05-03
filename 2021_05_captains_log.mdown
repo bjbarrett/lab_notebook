@@ -1,0 +1,22 @@
+
+# 03.05.2021
+ToDo:
+1. ODS Stuff
+	1. ReadMe Example
+	2. Project Metadata Template
+	3. Exiftool Tutorial
+	4. Hashing Tutorial
+2. Train Evelyn (cc Sylvia)
+3. Inventory for Chuck etal
+4. Get Angie Camera Numbers
+5. Press release
+6. Tamara and Meredith Agouti
+7. Troubleshooting with hyperfire mpo4 video
+9. perr review an beh
+10. sloanea paper
+11. julia model
+12. aplin simulations
+13. rewrite DAGs ans Kristen paper results
+14. email cam trap project
+
+I realized the effed up videos in the Reconyx Coiba stuff, r7 and r8 are due to the hyperfire version 2 being used for video
