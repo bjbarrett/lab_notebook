@@ -201,17 +201,17 @@ Intro: Discussion to SL and Culture
 - emerging collaboratoipn
 - lytdia
 
-## Outline for lecture
-Social Learning In Animals
+## Outline for VTK lecture
+### Social Learning In Animals
 -define social learning
 -contrast to individual learning
-Types of Social Learning
-- local enhancement
-- stimulus enhancement
--  imitation/emulation
-Innovation
-Evidence for Social Learning in Animals
--Experiments and Observational Studies
+### Types of Social Learning
+-local enhancement
+-stimulus enhancement
+-imitation/emulation
+### Innovation
+### Evidence for Social Learning in Animals
+Experiments and Observational Studies
 Captive Studies vs. Ecological Relevance
 Foraging Behavior
 Route Choice
@@ -222,29 +222,68 @@ Models-- Rogers Model
 Environmental Change
 Minimzing Costs of Individual Learning
 
-Culture in Animals
+### Culture in Animals
 -group contrasts methods
 -early studies
 -skepticism, my critique
 
-Social Learning Strategies
--define
--why are heuristics adaptive
--examples of SLS
--empirical examples
+### Social Learning Strategies
+- define
+- why are heuristics adaptive
+- examples of SLS
+- empirical examples
 * Lucy
 * Brendan
 
-
-Cultural Evoltiom
+### Cultural Evoltiom
 -features of evolution
 -commonalities between genetic evolution and cultural evolution // differences
 -define
 -gene-culture coevolution (examples)
 -multi-level selection // cooperation
-
 -cumulative culture
+
+## Shreya Meeting
 -megadetector threshold. capuchins in stream images just this one.
--inception-net
+-inception-nets
+
+# 28.04.2021
+## VTK lecture AM
+
+## Wildbook Meeting
+train modified version of fast R CNN, may need to tile up images
+give 10 to represntative images // include 1 claudio style image
+shreya analyzign time and skiil for, bring in someone else and a ML student. 
+RCNN approach. 
+RUn intiaial thing on training set, generalizability of models. tradeoffs of retraining on hard cases
+
+define the training set. 
+combo of classification and overlap (false positive and false negative.)
+50 images 40 days
+//folder structure with exiftool
+
+## NSF funding sources
+harnessing data revolution
+rules of life NSF, have a grant ready this summer for that project...
+convergence project  / genetics, imagery, behavior
+irene
+
+# 29.04.2021
+ -Did VTK in AM and afternoon
+-Briefly met w/ Zoe she got data cleaned for tides, Lucy's lab wants to integrate more.
+
+# 30.04.2021
+Todos:
+1. ODS and ODS leader stuff
+2. MD contributions of others
+3. Aouti graph things
+4. papers for VTK kids
+5. Sloanea work
+6. Julia Model
+7. Train Evelyn
+8. - Wataru feedback
+9. apply for CASCB
+10. content bias paper review
+11. press release
 
 
