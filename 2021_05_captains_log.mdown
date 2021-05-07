@@ -63,3 +63,53 @@ We are scheduling a meeting for next week to check back in.
 ## Camera Numbers for Coiba
 16 Ultrafires (need 4 each site, 2 experiments)
 32 Hyperfires ()
+
+
+
+# 06.05.2021
+
+ 1. ODS Stuff
+	1. Exiftool Tutorial
+	2. ~Finish Hashing Tutorial~
+2. rewrite DAGs ans Kristen paper results
+3. Inventory for Chuck etal
+4. ~~Get Angie Camera Numbers~~
+5. Press release
+6. Tamara and Meredith Agouti
+7. ~email susan mou~
+9. perr review an beh
+10. sloanea paper
+11. julia model
+12. aplin simulations
+13. Email Damien Questions
+14. ~~email cam trap project~~
+15. ~kate wkspc~
+
+git remote add origin https://github.com/bjbarrett/hashing_digest_tutorial.git
+git branch -M main
+git push -u origin main
+
+
+library(stringr)
+library(digest)
+
+# list.files(path="/Users/sifaka/Dropbox/Wildbook_no_susan/BJBPhotos/" , full.names=TRUE  , recursive=TRUE , pattern=".JPG" )
+# list.files(path="/Users/sifaka/Dropbox/Wildbook_no_susan/BJBPhotos/QJ"   , recursive=TRUE  )
+# list.files(path="/Users/sifaka/Dropbox/WildbookCollaboration_BJB-SEP/GS"   , recursive=TRUE  )
+##explore susan folders
+susan_files <- list.files(path="/Users/sifaka/Dropbox/WildbookCollaboration_BJB-SEP/"   , recursive=TRUE  )
+df1 <- data.frame (file  = susan_files,
+                   person= rep("SEP" , length("susan_files"))
+)
+df1$individual <- substr(df1$file, start = 1, stop = 2)
+df1$year <- substr(df1$file, start = 4, stop = 7)
+#give each file a hash
+df1$sha1_hash <- rep(NA, nrow(df1))
+list_2 <- list.files(path="/Users/sifaka/Dropbox/WildbookCollaboration_BJB-SEP/" , full.names=TRUE  , recursive=TRUE  )
+
+for(i in 1:length(list_2)){
+  df1$sha1_hash[i] <-digest(list_2[i], algo="sha1", file=TRUE)
+}
+
+###explore brendan folders
+brendan_files <- 
