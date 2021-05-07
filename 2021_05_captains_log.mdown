@@ -2,16 +2,16 @@
 # 03.05.2021
 ToDo:
 1. ODS Stuff
-	1. ReadMe Example
-	2. Project Metadata Template
+	1. ~~ReadMe Example~~
+	2. ~~Project Metadata Template~~
 	3. Exiftool Tutorial
 	4. Hashing Tutorial
-2. Train Evelyn (cc Sylvia)
+2. ~~Train Evelyn (cc Sylvia)~~
 3. Inventory for Chuck etal
 4. Get Angie Camera Numbers
 5. Press release
 6. Tamara and Meredith Agouti
-7. Troubleshooting with hyperfire mpo4 video
+7. ~~Troubleshooting with hyperfire mpo4 video~~
 9. perr review an beh
 10. sloanea paper
 11. julia model
@@ -20,3 +20,46 @@ ToDo:
 14. email cam trap project
 
 I realized the effed up videos in the Reconyx Coiba stuff, r7 and r8 are due to the hyperfire version 2 being used for video
+
+# 04.05.2021
+
+need to recap
+Worked on Kristen paper, got Kate new reaster removed the weird village name.
+
+
+# 05.05.2021
+ Dentist in AM.
+
+
+ 1. ODS Stuff
+	1. Exiftool Tutorial
+	2. Hashing Tutorial
+13. rewrite DAGs ans Kristen paper results
+3. Inventory for Chuck etal
+4. Get Angie Camera Numbers
+5. Press release
+6. Tamara and Meredith Agouti
+7. email susan mou
+9. perr review an beh
+10. sloanea paper
+11. julia model
+12. aplin simulations
+14. email cam trap project
+
+## Evelyn Meeting
+1. Things to share:
+ 1. ppt
+ 2. excel
+ 3. doc
+ 4. agouti tour
+ 5. R repository
+ 6. slack tour
+2. Assign a first non-tool deployment
+3. Give a tool deployment, that I will inspect. SURVEY-CEBUS-03-04
+4. Have her evaluate on of the tool site deployments as well.
+
+We are scheduling a meeting for next week to check back in.
+
+## Camera Numbers for Coiba
+16 Ultrafires (need 4 each site, 2 experiments)
+32 Hyperfires ()
