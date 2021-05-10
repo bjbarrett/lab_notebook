@@ -68,7 +68,7 @@ We are scheduling a meeting for next week to check back in.
 
 # 06.05.2021
 
- 1. ODS Stuff
+1. ODS Stuff
 	1. Exiftool Tutorial
 	2. ~Finish Hashing Tutorial~
 2. rewrite DAGs ans Kristen paper results
@@ -85,31 +85,124 @@ We are scheduling a meeting for next week to check back in.
 14. ~~email cam trap project~~
 15. ~kate wkspc~
 
-git remote add origin https://github.com/bjbarrett/hashing_digest_tutorial.git
-git branch -M main
-git push -u origin main
+# 07.05.2020
+1. ODS Stuff
+	1. Exiftool Tutorial
+2. rewrite DAGs ans Kristen paper results
+3. ~~Inventory for Chuck etal~~
+5. Press release
+6. Tamara and Meredith Agouti
+9. perr review an beh
+10. sloanea paper
+11. julia model
+12. aplin simulations
+13. Email Damien Questions
+
+# 10.05.2020
+
+-[ ] ODS Stuff
+	1. Exiftool Tutorial
+	2. Upload to Wiki
+-[ ] rewrite DAGs ans Kristen paper results
+	1. finish code to make nice tables autmoatically
+	2. DAG for paper
+	3. reread paper
+-[ ] ~~Inventory for Chuck etal~~
+-[ ] Press release
+-[ ] Tamara and Meredith Agouti
+-[ ] perr review an beh
+-[ ] sloanea paper
+-[ ] julia model
+-[ ] aplin simulations
+-[X] Email Damien Questions
+-[ ] Tide data perusal
+-[ ] CASCB application
+
+## Impending dates
+* may 15 meredith zoom
+* may 26th meredith QE
+* may 26th STRIU talk
+
+## Impromptu Angie Meeting
+We are going to meet every tuesday from now on to sports analogy this over the slamdunk post.
+
+### Version controlled
+1. DMP
+2. 
+
+### not version
+1. funding agreement
+2. data sharing agreement
+
+• [VC] Data management plan - Angie template checklist : https://drive.google.com/file/d/1gktgpSEcRFaZqkQIjtechuP7vRVURgPE/view?usp=sharing
+
+• Field guide/protocols- Vlad & Roi [VC]: https://drive.google.com/file/d/1Nx3x_GRuTlbTcTjuh4VipTwN9jFYdn54/view 
+[output VC] https://docs.google.com/forms/d/1Jwb8psWkpERE3ZPmf25zhDvYTPSPrni_p4rciBLT38w/edit
+
+• Field-prep checklist with timeline -  Zea & Camila: https://docs.google.com/document/d/1TrbRbwY5FD--9ArEJBNZqUHNbB2U1z72DNj_Zz3TPZ0/edit [LINK TO PDF]
+
+• MPG template for data sharing / collaborative agreement (external) -- Angie: 
+collaborative agreement: https://drive.google.com/file/d/1rD0AtPObFftlLR7L-VItSNzZWf2COZtU/view?usp=sharing [MS Word/Google Doc]
+data sharing agreement: https://drive.google.com/file/d/12LOACjax8YQbO4Yt1Z5TLD1cUNOvg3AO/view?usp=sharing [MS Word/Google Doc]
+
+• Collaborative agreement (internal - optional) - Ali and Vivek: https://docs.google.com/document/d/1dMo2-BhJpZpIXYJK0nkkxZMCttPQw7dSuXJWIX08sVY/edit?usp=sharing [RmD. VC. Revisit.]
+
+• Permits/ ethics plan permit -ask in questions/checklist? Pending!?!
+## Brendan
+## Brendan's Project List for things that become papers
+
+### 1. Coiba 
+	1. Genetics of species paper
+	2. Snake paper
+	3. Tide paper Zoe
+	4. When where Zoe
+	5. Capuchin detection
+	6. individual monkey detection
+	7. Who paper zoe
+	8. prediction where tool use occurs mapping stuff
+	9. experiment zoe
+	10. model of innovation based of rogers
+	11. simulation of spatial learning
+	12. Macaques comparison of tool types
+	13. all species tool comparision
+### 2. Sloanea
+	1. 1st paper lifetime needs measurement error models
+	2. consider migration, demo turnover paper
+### 3. Zebra Finch Model
+	1. DO OBLIQUE INVASION SIMS
+	2. ADD VERTICAL
+### 4. Woodrat Project
+	1. Data on Movebank
+	2. Bequeathal Paper
+### 5. Odd's dissertation
+	1. Methods of longitudianl data and sleepsites
+	2. group size and ranging
+	3. 
+### 6. Andy Sih Social Learning HIREC
+	1. maybe abandon but it should be easy and initial work is done
+### 7. Michael Chimento Model EWA + NBDA
+	1. advisory logic checking role and writing
+### 8. Longitudinal Studies Nature Paper
+	1. keep the ball rolling write my section, help with framing
+### 9. 
+
+## Brendan's Project Ideas
+ 1. stage structured model extended juvenile period
+ 2. Stats paper with Kotrina & Jeremey replace DSI
+ 3. vertical learning 2 types of environmental change
+ 4. capture recapture coiba + LB
+ 5. demographic projections coibs + LB
+ 6. pop/dens coiba +LB
+ 7. Dispersal coiba
+
+## Meredith QE Questions
+1. A common claim is that social learning evolves because it saves individuals from the costs of individual learning. Is this the case? Why or why not? If not, what allows social learners to have increased fitness relative to pure evolutionary learners?
+2. What are social learning strategies, and why are they adaptive? Give empirical examples of three social learning strategies. 
+3. Give an example, real and/or hypothetical, of how one social learning strategy can lead to the spread of adaptive behavior in certain contexts, while leading to the spread of maladaptive behavior in another context.
+4. Explain two limitations of using population-level signatures of cultural transmission to make inferences about individual-level cognition.
+5. What is a good lesson that behavioral ecologists studying cultural evolution can learn from archaeologists and paleoanthropologists studying cultural evolution? What is a good lesson that archaeologists and paleoanthropologists studying cultural evolution can learn from behavioral ecologists studying cultural evolution?
+6. How and why might ecological properties of islands affect 1) innovation rates 2) cultural transmission and 3) behavioral/technological diversity (either when comparing populations between islands or within islands). Either give empirical evidence or explain your rational if hypothesizing from scratch (not all of these questions have been well answered)
 
 
-library(stringr)
-library(digest)
 
-# list.files(path="/Users/sifaka/Dropbox/Wildbook_no_susan/BJBPhotos/" , full.names=TRUE  , recursive=TRUE , pattern=".JPG" )
-# list.files(path="/Users/sifaka/Dropbox/Wildbook_no_susan/BJBPhotos/QJ"   , recursive=TRUE  )
-# list.files(path="/Users/sifaka/Dropbox/WildbookCollaboration_BJB-SEP/GS"   , recursive=TRUE  )
-##explore susan folders
-susan_files <- list.files(path="/Users/sifaka/Dropbox/WildbookCollaboration_BJB-SEP/"   , recursive=TRUE  )
-df1 <- data.frame (file  = susan_files,
-                   person= rep("SEP" , length("susan_files"))
-)
-df1$individual <- substr(df1$file, start = 1, stop = 2)
-df1$year <- substr(df1$file, start = 4, stop = 7)
-#give each file a hash
-df1$sha1_hash <- rep(NA, nrow(df1))
-list_2 <- list.files(path="/Users/sifaka/Dropbox/WildbookCollaboration_BJB-SEP/" , full.names=TRUE  , recursive=TRUE  )
 
-for(i in 1:length(list_2)){
-  df1$sha1_hash[i] <-digest(list_2[i], algo="sha1", file=TRUE)
-}
-
-###explore brendan folders
-brendan_files <- 
