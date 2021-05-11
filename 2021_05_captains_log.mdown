@@ -100,23 +100,23 @@ We are scheduling a meeting for next week to check back in.
 
 # 10.05.2020
 
--[ ] ODS Stuff
+- [ ] ODS Stuff
 	1. Exiftool Tutorial
 	2. Upload to Wiki
--[ ] rewrite DAGs ans Kristen paper results
+- [ ] rewrite DAGs ans Kristen paper results
 	1. finish code to make nice tables autmoatically
 	2. DAG for paper
 	3. reread paper
--[ ] ~~Inventory for Chuck etal~~
--[ ] Press release
--[ ] Tamara and Meredith Agouti
--[ ] perr review an beh
--[ ] sloanea paper
--[ ] julia model
--[ ] aplin simulations
--[X] Email Damien Questions
--[ ] Tide data perusal
--[ ] CASCB application
+- [ ] ~~Inventory for Chuck etal~~
+- [ ] Press release
+- [ ] Tamara and Meredith Agouti
+- [ ] perr review an beh
+- [ ] sloanea paper
+- [ ] julia model
+- [ ] aplin simulations
+- [X] Email Damien Questions
+- [ ] Tide data perusal
+- [ ] CASCB application
 
 ## Impending dates
 * may 15 meredith zoom
@@ -152,39 +152,46 @@ data sharing agreement: https://drive.google.com/file/d/12LOACjax8YQbO4Yt1Z5TLD1
 ## Brendan's Project List for things that become papers
 
 ### 1. Coiba 
-	1. Genetics of species paper
-	2. Snake paper
-	3. Tide paper Zoe
-	4. When where Zoe
-	5. Capuchin detection
-	6. individual monkey detection
-	7. Who paper zoe
-	8. prediction where tool use occurs mapping stuff
-	9. experiment zoe
-	10. model of innovation based of rogers
-	11. simulation of spatial learning
-	12. Macaques comparison of tool types
-	13. all species tool comparision
+1. Genetics of species paper
+2. Snake paper
+3. Tide paper Zoe
+4. When where Zoe
+5. Capuchin detection
+6. individual monkey detection
+7. Who paper zoe
+8. prediction where tool use occurs mapping stuff
+9. experiment zoe
+10. model of innovation based of rogers
+11. simulation of spatial learning
+12. Macaques comparison of tool types
+13. all species tool comparision
+
 ### 2. Sloanea
-	1. 1st paper lifetime needs measurement error models
-	2. consider migration, demo turnover paper
+1. 1st paper lifetime needs measurement error models
+2. consider migration, demo turnover paper
+
 ### 3. Zebra Finch Model
-	1. DO OBLIQUE INVASION SIMS
-	2. ADD VERTICAL
+1. DO OBLIQUE INVASION SIMS
+2. ADD VERTICAL
+
 ### 4. Woodrat Project
-	1. Data on Movebank
-	2. Bequeathal Paper
+1. Data on Movebank
+2. Bequeathal Paper
+
 ### 5. Odd's dissertation
-	1. Methods of longitudianl data and sleepsites
-	2. group size and ranging
-	3. 
+1. Methods of longitudianl data and sleepsites
+2. group size and ranging
+3. 
+
 ### 6. Andy Sih Social Learning HIREC
-	1. maybe abandon but it should be easy and initial work is done
+1. maybe abandon but it should be easy and initial work is done
+
 ### 7. Michael Chimento Model EWA + NBDA
-	1. advisory logic checking role and writing
+1. advisory logic checking role and writing
+
 ### 8. Longitudinal Studies Nature Paper
-	1. keep the ball rolling write my section, help with framing
-### 9. 
+
+1. keep the ball rolling write my section, help with framing
 
 ## Brendan's Project Ideas
  1. stage structured model extended juvenile period
@@ -203,6 +210,23 @@ data sharing agreement: https://drive.google.com/file/d/12LOACjax8YQbO4Yt1Z5TLD1
 5. What is a good lesson that behavioral ecologists studying cultural evolution can learn from archaeologists and paleoanthropologists studying cultural evolution? What is a good lesson that archaeologists and paleoanthropologists studying cultural evolution can learn from behavioral ecologists studying cultural evolution?
 6. How and why might ecological properties of islands affect 1) innovation rates 2) cultural transmission and 3) behavioral/technological diversity (either when comparing populations between islands or within islands). Either give empirical evidence or explain your rational if hypothesizing from scratch (not all of these questions have been well answered)
 
+# 11.05.2020
+
+- [ ] ODS Stuff
+	1. Exiftool Tutorial
+	2. Upload to Wiki
+- [ ] rewrite DAGs ans Kristen paper results
+	1. finish code to make nice tables autmoatically
+	2. DAG for paper
+	3. reread paper
+- [X] Press release
+- [ ] Tamara and Meredith Agouti
+- [ ] peer review an beh
+- [ ] sloanea paper
+- [ ] julia model
+- [ ] aplin simulations
+- [ ] Tide data perusal
+- [X] CASCB application
 
 
 
