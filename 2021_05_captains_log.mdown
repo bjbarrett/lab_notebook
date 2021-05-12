@@ -228,5 +228,38 @@ data sharing agreement: https://drive.google.com/file/d/12LOACjax8YQbO4Yt1Z5TLD1
 - [ ] Tide data perusal
 - [X] CASCB application
 
+## Angie Meeting
+I met with Angie today. We are having weekly meetings about ODS.
+Our goals are to figure out:
+1. What things go on Github and What stays private?
+2. What file formats?
+3. What is redundant?
+4. What is public and what is private?
 
+Project Metadata seems to link all projects.
+
+
+## TZA
+I banged head against wall making tablres. Figured out solution but need to refine things. 
+map2stan gets parameters called incorrectly from summary. Will do morrow
+
+# 12.05.2021
+
+- [ ] ODS Stuff
+	1. Exiftool Tutorial
+	2. Upload to Wiki
+	3. Consolidate resources on wiki
+	4. Outline of workflow
+- [ ] rewrite DAGs ans Kristen paper results
+	1. finish code to make nice tables autmoatically
+	2. DAG for paper
+	3. reread paper
+- [ ] Tamara and Meredith Agouti
+- [ ] peer review an beh
+- [ ] sloanea paper
+- [ ] julia model
+- [ ] aplin simulations
+- [ ] Tide data perusal
+- [ ] STRI talk abstract]
+- [ ] Pick Meeting Time next week
 
