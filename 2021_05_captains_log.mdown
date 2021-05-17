@@ -251,9 +251,9 @@ map2stan gets parameters called incorrectly from summary. Will do morrow
 	3. Consolidate resources on wiki
 	4. Outline of workflow
 - [ ] rewrite DAGs ans Kristen paper results
-	1. finish code to make nice tables autmoatically
-	2. DAG for paper
-	3. reread paper
+	1. - [X] finish code to make nice tables autmoatically
+	2. - [ ] DAG for paper
+	3. - [ ] reread paper
 - [ ] Tamara and Meredith Agouti
 - [ ] peer review an beh
 - [ ] sloanea paper
@@ -263,3 +263,24 @@ map2stan gets parameters called incorrectly from summary. Will do morrow
 - [ ] STRI talk abstract]
 - [ ] Pick Meeting Time next week
 
+# 17.05.2021
+
+- [ ] ODS Stuff
+	1. - [ ] Exiftool Tutorial
+	2. - [X] Upload to Wiki
+	3. - [X] Consolidate resources on wiki
+	4. - [ ] Outline of workflow
+- [ ] rewrite DAGs ans Kristen paper results
+	1. - [ ] DAG for paper
+	2. - [ ] reread paper
+- [ ] Tamara and Meredith Agouti
+- [ ] peer review an beh
+- [ ] sloanea paper
+- [ ] julia model
+- [ ] aplin simulations
+- [X] Tide data perusal
+- [ ] STRI talk abstract
+- [X] Pick Meeting Time next week
+- [X] SAB report
+
+13.05 and 14.05 were holidays.
