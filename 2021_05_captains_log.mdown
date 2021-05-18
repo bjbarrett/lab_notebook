@@ -284,3 +284,48 @@ map2stan gets parameters called incorrectly from summary. Will do morrow
 - [X] SAB report
 
 13.05 and 14.05 were holidays.
+
+# 17.05.2021
+
+- [ ] ODS Stuff
+	1. - [ ] Exiftool Tutorial
+	4. - [ ] Outline of workflow
+- [ ] rewrite DAGs ans Kristen paper results
+	1. - [ ] DAG for paper
+	2. - [ ] reread paper
+- [ ] Tamara and Meredith Agouti
+- [ ] peer review an beh
+- [ ] sloanea paper
+- [ ] julia model
+- [ ] aplin simulations
+- [x] STRI talk abstract
+- [ ] start stri talk
+
+## STRI TALK ABSTRACT
+Cultural inheritance in context: social learning, innovation and extractive foraging in white-face capuchin monkeys.
+
+Social learning can permit the acquisition and spread of novel behavioral phenotypes on a timescale that closely tracks environmental change. Cultural inheritance of these phenotypes through different social learning strategies may structure variation in between-group behavioral traditions, and even drive changes in genetic evolution. I will discuss my research on social learning in white-faced capuchin monkeys (Cebus imitator), a long-lived ecological generalist with a heavy reliance on social learning. First I will discuss how innovations and extractive foraging behaviors are culturally transmitted from experiments and longitudinal observational research at the Lomas Barbudal Biological Reserve, Costa Rica. Then I will discuss ongoing and future research on capuchins in Coiba National Park, Panama. Capuchins in the Coiban archipelago are the only known members of the genus Cebus known to habitually use hammerstone and anvil percussive technology to forage on structurally protected resources. In Coiba National Park we are using a combination of camera trapping, archaeological surveys, theoretical modeling, and genetic sampling to ask: 1) What aspects of island ecology drives foraging innovation and tool-use across taxa; 2) How does dispersal limitation and population density affect sociality and behavioral and genetic diversity; 3) How can studying tool-use behavior in living primates help us to better understand and interpret the fossil hominin and human archaeological records?
+
+## AB review Youngblood
+I will start off by saying that I was looking forward to reading this paper since seeing it as a preprint. I think content bias is under explored, and linking the well studied mechanisms of bird song learning and cultural evolution is long overdue.
+
+I will mention, that I know who the authors are because of seeing it as a preprint. When I tried to install the R package, I had issues, so please make sure it works in the future.
+
+For Figure 3, the plotting of priors against posteriors pleases me. 
+
+One thing I might suggest is tryng a different prior on v (denonstrator bias) to see if that is recovered as well, which would suggest to you that you can't learn this from the data. Getting the prior back could also be due to model speciication.
+
+devtools::install_github("masonyoungblood/TransmissionBias”) #this does not work
+
+A suggestion for the example folder here: https://github.com/masonyoungblood/TransmissionBias/tree/master/example
+Highlight the order in which to run things, perhaps by numbering files and include a .mdown or .txt file for what each file is.
+
+Introduction and background of study species and phenomenon is clear.
+Thinking about female birds being excluded
+
+Minor things:
+lines 33-36. use something more specific thatn "this model" perhaps "lachlan et al's model"
+lines 74-76: this seems like it might be relevant for why conformity is not always the best: https://www.sciencedirect.com/science/article/pii/S1090513809000191?via%3Dihub
+lines 155-156: "Repertoire sizes are drawn randomly from a normal distribution based on the observed data." I assume this is rounded to an integer instead of being drawn from a Poisson? While minor, perhaps sepcify.
+lines 170-171: perhaps mention the lowerbound of 0 on alpha ( i think there is one)
+
