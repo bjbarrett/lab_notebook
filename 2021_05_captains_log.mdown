@@ -285,7 +285,7 @@ map2stan gets parameters called incorrectly from summary. Will do morrow
 
 13.05 and 14.05 were holidays.
 
-# 17.05.2021
+# 18.05.2021
 
 - [ ] ODS Stuff
 	1. - [ ] Exiftool Tutorial
@@ -328,4 +328,46 @@ lines 33-36. use something more specific thatn "this model" perhaps "lachlan et 
 lines 74-76: this seems like it might be relevant for why conformity is not always the best: https://www.sciencedirect.com/science/article/pii/S1090513809000191?via%3Dihub
 lines 155-156: "Repertoire sizes are drawn randomly from a normal distribution based on the observed data." I assume this is rounded to an integer instead of being drawn from a Poisson? While minor, perhaps sepcify.
 lines 170-171: perhaps mention the lowerbound of 0 on alpha ( i think there is one)
+
+
+
+# 18.05.2021
+
+- [ ] ODS Stuff
+	1. - [ ] Exiftool Tutorial
+	4. - [ ] Outline of workflow
+- [ ] rewrite DAGs ans Kristen paper results
+	1. - [ ] DAG for paper
+	2. - [ ] reread paper
+- [ ] Tamara and Meredith Agouti
+- [ ] peer review an beh
+- [ ] sloanea paper
+- [ ] julia model
+- [ ] aplin simulations
+- [x] start stri talk
+
+## STRI TALK
+* background on ce and sl
+* capuchins
+* innovation
+* panama fruits
+* sloanea
+
+* coiba
+* background of alicia
+* RSOS- CITE
+* coiba site- CITE
+* project has a few components
+	* behavioral
+	* genetic
+	* archaeological
+	* biodiversity/documentation
+* Why is tool-use and foraging innovation so common in island ecosystems?
+	* overview of species
+* why is
+* activity patterns
+* material selectivity
+* tidal patterns
+5 // 15b // 21b //4a
+
 
