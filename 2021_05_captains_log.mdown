@@ -331,7 +331,7 @@ lines 170-171: perhaps mention the lowerbound of 0 on alpha ( i think there is o
 
 
 
-# 18.05.2021
+# 19.05.2021
 
 - [ ] ODS Stuff
 	1. - [ ] Exiftool Tutorial
@@ -368,6 +368,45 @@ lines 170-171: perhaps mention the lowerbound of 0 on alpha ( i think there is o
 * activity patterns
 * material selectivity
 * tidal patterns
-5 // 15b // 21b //4a
 
+# 20.05.2021
+
+ [ ] ODS Stuff
+	1. - [ ] Exiftool Tutorial
+	4. - [ ] Outline of workflow
+- [ ] rewrite DAGs ans Kristen paper results
+	1. - [ ] DAG for paper
+	2. - [ ] reread paper
+- [ ] Tamara and Meredith Agouti
+- [ ] peer review an beh
+- [ ] sloanea paper
+- [ ] julia model
+- [ ] aplin simulations
+
+## STRI TALK
+* background on ce and sl
+* capuchins
+* innovation
+* panama fruits
+* sloanea
+
+* coiba
+* background of alicia
+* RSOS- CITE
+* coiba site- CITE
+* project has a few components
+	* behavioral
+	* genetic
+	* archaeological
+	* biodiversity/documentation
+* Why is tool-use and foraging innovation so common in island ecosystems?
+	* overview of species
+* why is
+* activity patterns
+* material selectivity
+* tidal patterns
+
+## tidal patters to do data
+1. get a value of time to closest low tide  -minutes to + minutes
+2. 
 
