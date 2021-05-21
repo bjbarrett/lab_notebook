@@ -410,3 +410,52 @@ lines 170-171: perhaps mention the lowerbound of 0 on alpha ( i think there is o
 1. get a value of time to closest low tide  -minutes to + minutes
 2. 
 
+# 21.05.2021
+
+- [ ] ODS Stuff
+	1. - [ ] Exiftool Tutorial
+- [ ] rewrite DAGs ans Kristen paper results
+	1. - [ ] DAG for paper
+	2. - [ ] reread paper
+- [ ] Tamara and Meredith Agouti
+- [ ] peer review an beh
+- [ ] sloanea paper
+- [ ] julia model
+- [ ] aplin simulations
+- [ ] email meeting notes on Tuesday
+
+## ODS meeting
+internationalize contacts putside of germany
+
+In terms of reducing redundancy, it seems like the pre-field and post-field stuff could be combined into four categories- 1) methods/data plan - everything relating to the data 2) logistics/safety - everything relating to field logistics 3) ethics/permits - official documents 4) collaborators/funding - official agreements re: data sharing, funding, etc
+I think that this should all be written down pre-field and updated post-field [combined into one ReadMe?]. Maybe instead of dividing this up into pre- and post-field, we should consider this all together.
+In my opinion, templates should be created & made public; everything filled in should be kept private
+### Angies notes
+21.05.2021 
+ODS Organizational Meeting: 
+1. Proj. Metadata section 
+Meg: add permit numbers and ethical approvals 
+Make sure that we control typos e.g. file types or a field site. If it's going to be limited to a drop-down menu, we should have an "other" as well
+Kosmas: here is a link to the current draft for the shiny app:
+https://gist.github.com/k-hench/53eaaa943d7789f9e9bf56b10679fd10
+2. DMP checklist: Add info on working with animals outside of Germany – tell them what to do (i.e. go to Angie and work on an ethical council MPG)
+3. Field Trip details -- markdown, standalone page
+4. Data sharing agreement – Pandoc? (Kosmas) 
+5. External collab agreement – both agreements template can live in github, and the documents with the content could potentially live in the server for access only to members
+6. Permits / ethics plan permit 
+Contact info can be included in the github – but information that is sensitive should live in Angie’s office. 
+Kosmas: Ref: Readme if there is sensitive information it should be detached from anything that may be public in the future!!
+- all the personal stuff should live in the server (e.g. readme)
+Urs – suggest that some may prefer to have a folder on their computer and decide later on what you publish on github, for ex. 
+Shauhin: Seems like the actual project/site specific details should be in the associated project folders on the server rather than on GitHub
+Tracy: In terms of reducing redundancy, it seems like the pre-field and post-field stuff could be combined into four categories- 1) methods/data plan - everything relating to the data 2) logistics/safety - everything relating to field logistics 3) ethics/permits - official documents 4) collaborators/funding - official agreements re: data sharing, funding, etc. I think that this should all be written down pre-field and updated post-field [combined into one ReadMe?]. Maybe instead of dividing this up into pre- and post-field, we should consider this all together. In my opinion, templates should be created & made public; everything filled in should be kept private
+TO DO: 
+do exercises on how this could all be implemented – create different scenarios of the set up. 
+All 3 groups should meet and discuss Public vs. Private interface: should templates exist online and then determine a place where the rest of the documents should live? Content stuff where would this live (e.g. some kind of server-based file system, private github: add the info in the wiki but the project specifics should be private that only EAS members have access to when they press on the link in github?)  
+Kosmas and Brendan – SHINY for the project metadata 
+Tracy, Urs, Angie – readme how the metadata and the readme may be a dynamic document that gets revised at all 3 stages of the process. 
+Our expectation is that we all have the freedom to make choices. What is key is that we describe things properly in our DMP. 
+We need to determine Mandatory vs. Strongly Recommended  
+
+
+
