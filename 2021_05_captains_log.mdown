@@ -383,28 +383,6 @@ lines 170-171: perhaps mention the lowerbound of 0 on alpha ( i think there is o
 - [ ] julia model
 - [ ] aplin simulations
 
-## STRI TALK
-* background on ce and sl
-* capuchins
-* innovation
-* panama fruits
-* sloanea
-
-* coiba
-* background of alicia
-* RSOS- CITE
-* coiba site- CITE
-* project has a few components
-	* behavioral
-	* genetic
-	* archaeological
-	* biodiversity/documentation
-* Why is tool-use and foraging innovation so common in island ecosystems?
-	* overview of species
-* why is
-* activity patterns
-* material selectivity
-* tidal patterns
 
 ## tidal patters to do data
 1. get a value of time to closest low tide  -minutes to + minutes
@@ -457,5 +435,42 @@ Tracy, Urs, Angie – readme how the metadata and the readme may be a dynamic do
 Our expectation is that we all have the freedom to make choices. What is key is that we describe things properly in our DMP. 
 We need to determine Mandatory vs. Strongly Recommended  
 
+# 24.05.2021
+## STRI TALK
+* background on ce and sl
+* capuchins
+* innovation
+* panama fruits
+* sloanea
+
+* coiba
+* background of field site
+* alicia description
+* RSOS- CITE
+* coiba site- CITE
+* project has a few components
+	* behavioral
+	* genetic
+	* archaeological
+	* biodiversity/documentation
+* Why is tool-use and foraging innovation so common in island ecosystems?
+	* overview of species
+	* contrast cebsus to sapajus
+	* claudio work
+	* nap video
+	* modelling of innovation in island ecosystems informed by island ecology
+
+* How does island ecology structure social behavior and affect interplay between cultural and genetic diversity
+	* activity patterns
+	* tidal patterns
+	* sex differences in tool use
+	* simulations DeMiGod
+	* genetics for social system, speciation, 
+* What can we learn about ancient hominins and out interpretation of the fossil record from living tool-using primates
+	* material selectivity
+	* interspecies comparisons, hand size, bidy weight morphology
+	* site accumulation, mapping ontio behavior
+	* half live of stone tools
+	* distribitipn of tools relative to resources, understand what sites are erased
 
 
