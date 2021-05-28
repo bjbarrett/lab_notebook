@@ -436,6 +436,9 @@ Our expectation is that we all have the freedom to make choices. What is key is 
 We need to determine Mandatory vs. Strongly Recommended  
 
 # 24.05.2021
+
+technically a holiday
+
 ## STRI TALK
 * background on ce and sl
 * capuchins
@@ -473,4 +476,47 @@ We need to determine Mandatory vs. Strongly Recommended
 	* half live of stone tools
 	* distribitipn of tools relative to resources, understand what sites are erased
 
+# 25.05.2021
 
+Today I worked on and gave STRI talk. I also had a meeting with Kosmas, Odd and Meg. Odd will be working with Kosmas on first parts of PhD.
+
+# 26.05.2021
+Kates parents arrive today, went to pick them up in Zurich in afternoon. 
+I met with Odd and Zoe in AM to talk about tidal stuff and Odd's Susan meeting and what to do before hand.
+Zoe does see some low tide activity at tide site, and alot af activity in evening..
+
+# 27.05.2021
+Shit dat persoanlly with Uni Health Insurance fuck up. tried to put out that fire all day.
+
+# 28.05.2021
+bullshit paper work and emails all am.
+
+- [ ] ODS Stuff
+	1. - [ ] Exiftool Tutorial
+- [ ] rewrite DAGs ans Kristen paper results
+	1. - [ ] DAG for paper
+	2. - [ ] reread paper
+- [ ] Tamara and Meredith Agouti
+- [ ] peer review an beh
+- [ ] sloanea paper
+- [ ] julia model
+- [ ] aplin simulations
+- [ ] email meeting notes on Tuesday
+
+Things I dealt with:
+1. MPI reimbursements
+2. email JLA
+3. talking about camera traps to panama. needs to be resolved. 
+4. followed up with STRI permit office
+5. Sylvia and Evelyn Agouti converstaions
+
+## RmD to LaTeX
+1. Convert RmD to MD in R
+knitr::knit("~/Dropbox/content_bias_review.Rmd")
+2. Convert RmD to TeX in R
+rmarkdown::render("~/Dropbox/content_bias_review.Rmd", output_format = latex_document())
+
+
+## TZA
+I worked on this and made a new MD doc that i want to knit to overleaf for the DAGs section.
+Also started to write about DAGs in text.
