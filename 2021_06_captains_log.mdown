@@ -1,0 +1,53 @@
+
+# 01.06.2021
+
+Open this later
+http://www.infinitecuriosity.org/vizgp/
+
+- [ ] ODS Stuff
+	1. - [ ] Exiftool Tutorial
+- [ ] rewrite DAGs ans Kristen paper results
+	1. - [ ] DAG for paper
+	2. - [ ] reread paper
+- [ ] Tamara and Meredith Agouti
+- [ ] sloanea paper
+- [ ] julia model
+- [ ] aplin simulations
+
+## Panama logistics
+It seems like we need Rachel's approval and then other's approval for a July trip.
+I need to get waiver of release of responsibility from Zoe and Tobias
+
+## TZA wildlife conflict
+
+I added DAGs to paper. Need to pick up with crop settlement distance. Also need to decide if this should be discussed on a species or predictor level?
+
+## Chuck, Shreya, Ohad
+We met with Chuck Shreya and Ohad and discussed capuchin detection stuff, Notes on meetings [here](https://docs.google.com/document/d/12mZgCIhPStSEPhtSIVDOBnIEJtJBTWmcfFjvuTbcDgQ/edit?ts=60b6a3b0) 
+
+
+# 02.06.2021
+
+- [ ] ODS Stuff
+	1. - [ ] Exiftool Tutorial
+- [ ] rewrite DAGs and Kristen paper results
+	1. - [ ] DAG for paper
+	2. - [ ] reread paper
+- [ ] Tamara and Meredith Agouti
+- [ ] sloanea paper
+- [ ] julia model
+- [ ] aplin simulations
+- [ ] Reconyx Call + Estimates
+- [X] email CV and waiver to STRI
+- [X] BBC email and form
+- [X]  NDA followups
+- [X] Shreya Google Doc notes
+- [X] email Rachel Page
+- [X] wataru abstract
+
+## recoynx stuff
+40 Cameras: https://www.reconyx.com/product/hyperfire-2-Professional-covert-ir-camera
+40 Security cables: https://www.reconyx.com/product/Python-Professional-with-6-Foot-Cable
+40 Security enclosure: https://www.reconyx.com/product/HyperFire-2-Security-Enclosure
+50 SD cards: https://www.reconyx.com/product/32GB-Reconyx-Certified-SDHC-Memory-Card
+50 Lithium AA 12-Pack Batteries: https://www.reconyx.com/product/Lithium-AA-12-Pack-batteries?qty=50
