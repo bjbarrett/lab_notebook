@@ -51,3 +51,59 @@ We met with Chuck Shreya and Ohad and discussed capuchin detection stuff, Notes 
 40 Security enclosure: https://www.reconyx.com/product/HyperFire-2-Security-Enclosure
 50 SD cards: https://www.reconyx.com/product/32GB-Reconyx-Certified-SDHC-Memory-Card
 50 Lithium AA 12-Pack Batteries: https://www.reconyx.com/product/Lithium-AA-12-Pack-batteries?qty=50
+
+# 07.06.2021
+- [ ] ODS Stuff
+	1. - [ ] Exiftool Tutorial
+- [ ] rewrite DAGs and Kristen paper results
+	1. - [X] DAG for paper
+	2. - [ ] reread paper
+- [ ] Tamara and Meredith Agouti
+- [ ] sloanea paper
+- [ ] julia model
+- [ ] aplin simulations
+- [X] Reconyx Call + Estimates
+
+# 08.06.2021
+- [ ] ODS Stuff
+	1. - [ ] Exiftool Tutorial
+- [ ] rewrite DAGs and Kristen paper results
+	1. - [ ] reread paper
+- [ ] Tamara and Meredith Agouti
+- [ ] sloanea paper
+- [ ] julia model
+- [ ] aplin simulations
+- [ ] meet with meredith and tamara schedule trip?
+- [ ] emergency forms
+- [ ] RMA for reconyx call
+
+## Talk with Magnus 09.06.2021
+
+We decided to proceed with modifying the BBC MoU for just conversations. We remove any liability and stuff related to the field. We will make the MoU double sided.
+
+Herr Freitag, and MPI lawyre sent us a draft NDA/MoU. Herr Freitag is a lawyer who helped with Bonobo MoU
+
+I think we should have a limited confidentiality MoU related to conversations now. Anything related to field stuff and liability comes from our side. 2nd MoU contract has liability issues.
+### Our terms:
+1. They will not share location
+2. They will not go to the site without us or our approval
+3. For the filming contract this will be between MPI-AB represented by me. I am not negotiating on my own. This means Martin and Meg will have to get involved.
+4. We will get them people to be porters/field assistants if needed that we can trust.
+
+### Changes to their NDA
+1. Strike out § 2.3.1 and § 2.3.2
+2. § 2.4 -- our servers make copies of this email. Limit access of information to MPI and Magnus. We have to decide how we feel about this.
+3. § 2.5.2 is not feasible
+4. § 2.7 emails get automatically copied by MPI/German Government
+5. § 9.1 why is all communication in written form? How about Skype Zoom?
+6. § 9.5 Strike this out. They work with us. MPI would say No. If this gets left in, we dictate terms of legal action (i.e. it would happen in a German court in München)
+
+Notes.
+
+## STRI stuff
+I need to fill out forms, register trips.
+
+## TZA figure
+added some graphs, still need sd.
+look at dag and do inventory
+
