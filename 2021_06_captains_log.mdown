@@ -98,6 +98,7 @@ I think we should have a limited confidentiality MoU related to conversations no
 5. § 9.1 why is all communication in written form? How about Skype Zoom?
 6. § 9.5 Strike this out. They work with us. MPI would say No. If this gets left in, we dictate terms of legal action (i.e. it would happen in a German court in München)
 
+
 Notes.
 
 ## STRI stuff
@@ -107,3 +108,40 @@ I need to fill out forms, register trips.
 added some graphs, still need sd.
 look at dag and do inventory
 
+# 09.06.2021
+
+Happy Anniversary us.
+
+- [ ] ODS Stuff
+	1. - [ ] Exiftool Tutorial
+- [ ] rewrite DAGs and Kristen paper results
+	1. - [ ] reread paper
+- [ ] Tamara and Meredith Agouti
+- [ ] sloanea paper
+- [ ] julia model
+- [ ] aplin simulations
+- [ ] meet with meredith and tamara schedule trip?
+- [ ] emergency forms STRI
+- [ ] RMA for reconyx call
+
+## Wildbook MoU discussiom
+10:30 w. Maeggi und Angela
+
+ who wi;; use these data
+ what results, and who can use
+ authorship? 
+ remove names from MOU, leave it with organizations
+ include wildme
+ agreed upon w/ at least 60 days 
+ refer to good scientific practice instead of authorship
+ shortern 
+ clarify 6.2 with who provides what data
+ section 7 joint decision of work results. intention to be open source. authorship agreed upon by all paties involved.
+
+ EXAMPLE: XXX and YY data must not be released for publication. If XXX and YY data is required to be published, it is mandatory that all original identifications or demographic data must be replaced with a "dummy-code" using a random reference number.
+
+This Agreement will remain in effect for five years from the date on which it is signed by all parties; should the signing take place separately, the term will begin on the day of the last signature. All parties should destroy the data lent by the XXX once this agreement is finished.
+access is defined by responsible persons of that institution.
+relevant contacts
+
+Angie will do a first sweep and send it to me. 
