@@ -239,7 +239,7 @@ July 21- collect base camp hair traps. travel to rancheria, get hair traps at ri
 July 22- travel to PTY. fly out in evening, maybe late afternoon is possible
 July 23 Fly out of PTY (BB will this day)
 
-# 15.06.2021
+# 16.06.2021
 - [ ] ODS Stuff
 	1. - [ ] Exiftool Tutorial
 - [ ] rewrite DAGs and Kristen paper results
@@ -252,7 +252,7 @@ July 23 Fly out of PTY (BB will this day)
 - [ ] susan map fears
 - [ ] email MOU to BBC
 
-Found out that Jose can't boat.
+Found out that Jose passed away in May, unexpectexly. Very sad.
 
 ## Natalia Talk
 3 strategies
@@ -280,4 +280,31 @@ Found out that Jose can't boat.
 
 defending food affects hunting strategy
 	DEMOGRAPHY AND KIN STRUCTURE DIFFERNCES
+
+# 16.06.2021
+- [ ] ODS Stuff
+	1. - [ ] Exiftool Tutorial
+- [ ] rewrite DAGs and Kristen paper results
+	1. - [ ] reread paper
+- [ ] Tamara and Meredith Agouti
+- [ ] sloanea paper
+- [ ] julia model
+- [ ] aplin simulations
+- [ ] ProcB Review
+- [ ] susan map fears
+- [X] email MOU to BBC
+
+## Coiba Boat updates
+1. I emailed Alicia Ibanez, Omar Lopez, Owen, and Juan Mate.
+2. I need to find Eliziers number
+
+# 21.06.2021
+
+## Some papers tp read:
+- [Camera trapping bugs model capture recapture](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/08-1481.1)
+- [sapajus falvius in mangrove](https://link.springer.com/article/10.1007/s10764-019-00103-z)
+-   [arthropod abundance camera traps](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.3275)
+
+## Ideas for Future: 
+Contact Liquid Jungle Lab for access to land on coast of Bahia Honda to get DNA samples.
 
