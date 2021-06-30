@@ -361,7 +361,7 @@ stuff was done. notes were not taking
 
 ## Coiba contacts
 1. Eliezer Vega +507 6597 1374
-2. 
+2. Ernesto Santos (Coqui) +507 6631 5665
 ## Daniel Funding Meeting
 He suggested publishing a big profile paper, then applying for Carl Zeiss and ERC next year.
 Emil Noether is better, Zukunftskollegen aslo ok.
@@ -397,4 +397,15 @@ July 18- Rio Escondido in AM (low tides at 3:34 and 16:17). Travel to Jicaron. h
 July 19- jicaron tool site (low tides at 4:35 and 17:20)
 July 20- jicaron tool site (low tides at 5:39 and 18:27-- collect hair traps &hike out in late afternoon evening)
 
+ 28.06.2021
+- [ ] ODS Stuff
+	1. - [ ] Exiftool Tutorial
+- [x] rewrite DAGs and Kristen paper results
+	1. - [ ] reread paper
+- [ ] Tamara and Meredith Agouti
+- [ ] sloanea paper
+- [ ] julia model
+- [ ] aplin simulations
+- [x] ProcB Review
+- [X] susan map fears
 
