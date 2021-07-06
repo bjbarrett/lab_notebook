@@ -388,14 +388,14 @@ let her know about $$
 13. look into 2nd vaccine for me
 
 
-July 14 (Arrive in PTY 1, or get vaccine)
-July 15 Arrive in PTY. Get Car. STRI.
+July 14 (Arrive in PTY 1, or get vaccine in US)
+July 15 Arrive in PTY AM. Get Car. STRI.
 July 16- Finish Up STRI Stuff, Travel to Santiago.
 July 17- Travel from Santiago to El Banco.
 Travel to Coiba/ Rancheria. 1st trip to Rio Escondido if possible. Set up hair traps at rancheria, ANAM, and Rio Escondido.
 July 18- Rio Escondido in AM (low tides at 3:34 and 16:17). Travel to Jicaron. hike into tool site.
 July 19- jicaron tool site (low tides at 4:35 and 17:20)
-July 20- jicaron tool site (low tides at 5:39 and 18:27-- collect hair traps &hike out in late afternoon evening)
+July 20- jicaron tool site (low tides at 5:39 and 18:27-- collect hair traps & hike out in late afternoon evening)
 
  28.06.2021
 - [ ] ODS Stuff
@@ -406,6 +406,45 @@ July 20- jicaron tool site (low tides at 5:39 and 18:27-- collect hair traps &hi
 - [ ] sloanea paper
 - [ ] julia model
 - [ ] aplin simulations
-- [x] ProcB Review
-- [X] susan map fears
+- [ ] susan map fears version control
+- [ ] update ODK
+
+# grids and centroids
+
+# meredith zoom
+- things to bring (tent)
+- might order to pick up in doit center
+- cameras and how much can you bring?
+- pelican case
+- itineraty
+- date limits
+- cameras how many?
+- kobo updates
+July 14 (Arrive in PTY 1, or get vaccine in US)
+July 15 Arrive in PTY AM. Get Car. STRI.
+July 16- Finish Up STRI Stuff, Travel to Santiago. Friday
+July 17- Travel from Santiago to El Banco.
+Travel to Coiba/ Rancheria. 1st trip to Rio Escondido if possible. Set up hair traps at rancheria, ANAM, and Rio Escondido.
+July 18- Rio Escondido in AM (low tides at 3:34 and 16:17). Travel to Jicaron. hike into tool site in PM
+July 19- jicaron tool site (low tides at 4:35 and 17:20)
+July 20- jicaron tool site (low tides at 5:39 and 18:27-- collect hair traps & hike out in late afternoon evening)
+July 21- jicaron tool site hike out in evening
+
+shape description: spheroid, ovate, rectangular, irregular, undetermined
+
+30.06.2021
+
+Coiba Trip Updates as of this morning. I am writing these so we can get logistics out of the way early when we meet, and I am prone to not concise talking. 
+
+1. Zoe got added to permit. We can have it once we pay STRI. Lil will email me the invoice.
+2. We got the boat confirmed: 150 per day plus 140 gallons fuel ($4 each gallon). I think we will pay Eliezer on top of that, so its not too bad.
+3. STRI is very hesitant about letting people go to the field with Covid cases climbing up. Gregg said he was not optimistic. However, I have also been in correspondence with Raineldo Urriola, who makes the decisions, and he is asking for a few forms I have and for Evelyn and Claudio to submit trip requests. I take him asking for more paperwork as a positive sign. I also need a final yay or nay from Claudio if he will join.
+4. We do have the option of doing this not under the auspices of STRI since we will have all the permits, if we bypass Rancheria. This is a thing I would like to hear your thoughts on Meg. We have enough camping stuff, and we would really just need to get a Panama friendly cooking solution. Getting stuff from dock in Gamboa, if Lucia or Evelyn are allowed to go back there in the next 2 weeks is important, however.
+
+Things I need to do w/ Meg approval:
+
+1. Order camera traps today to send to Meredith. I am thinking 30 cases + 10-20 cameras + locks. We have 30  stills here we could bring, and I have 14 videos in Panama/Davis currently. Claudio has all deployed in the field. 
+2. Get Meredith a Pelican case for cameras.
+3. Meg needs to approve out visits on the STRI visitor registration database.
+
 
