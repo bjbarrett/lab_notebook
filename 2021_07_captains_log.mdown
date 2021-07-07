@@ -39,7 +39,7 @@ We stay at this Hotel in Santiago: Hotel Plaza: https://www.booking.com/hotel/pa
 - [ ] email irene
 - [ ] coin envelopes
 - [ ] touch base with meredith and tamara
-- [ ] get equipment
+- [x] get equipment
 - [x] up DB withdrawl limit
 - [x] data management plan
 
