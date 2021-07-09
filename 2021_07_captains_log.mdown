@@ -103,5 +103,54 @@ All data will be reported for publications (with exception of GPS coordinates). 
 
 # 6 July
 
-I did alot of equipment stuff, paperwork, and field logistics. I also talked with Kosmas about capuchin stuff
+I did alot of equipment stuff, paperwork, and fie
+# 09.06.2021
+Ive been crazy busy. here are to do lists
+
+## Do Before Coiba
+1. Laptop
+    - [ ] install LaTeX
+    - [ ] install STAN
+    - [ ] install basecamp
+    - [ ] get odk workflow running
+    - [ ] word
+2. Get EpiPen
+3. Write Itinerary for Trip along ith Data Collection
+4. Write project metadata
+5. Brgin Project Readme
+6. Have Zoe get usable map for field
+    -[ ] interactive HTML file of grid w/o internet
+7. Upload GPS points and tracks to GPSes
+
+
+
+
+## Coiba Packing List from DE
+1. Camera Traps
+2. Batteries
+3. Radios
+4. Minimal climbing kit
+5. hair traps
+6. camera
+7. laptop
+8. sd card reader
+9. 2 inreaches
+10. first aid kits for all
+11. zoe and tobias apostiles
+
+## Coiba Packing List from PTY
+
+July 14th- Train to konstanz.(Fly out of Zurich to Panama City (layover in madrid)) . Pick Up rental Car travel to hotel.
+July 15th Visit STRI Headquaters in Panama City to check in. Travel to Gamboa to pick up equipment from STRI dock.
+July 16th- stay in hotel/airbnb and setup equipment/camera traps. Travel to Santiago, Panama. Check into hotel. Buy groceries at Rey grocery store in Santiago.
+July 17th. Drive to El Banco, get on boat. Travel to Rancheria field station (an island with 2 people). Get equipment, check in at Ranger station on Coiba Island.
+July 18th- Explore rio escondido on isla coiba. Travel to jicaron and set up camp (an unhabitaute disland 60 km from mainland).
+July 19th- fieldwork on jicaron
+July 20th- fieldwork on jicaron
+july 21st- fieldwork on jicaron
+july 22nd- travel from jicaron to rancheria,field work on jicaron and coinba. sleep at rancheria field station.
+july 23rd- field work on coiba
+july 24th- clean up and pack equipment, take boat back to mainland. drive to santiago and stay in hotel.
+july 25th-- drive to panama city, check into airbnb/hotel. Get covid test
+july 26th-- check out of STRI. return rental car at airport. fly back to Surich. train to konstanz
 
