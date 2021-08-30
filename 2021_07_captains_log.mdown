@@ -32,13 +32,13 @@ We stay at this Hotel in Santiago: Hotel Plaza: https://www.booking.com/hotel/pa
 
 # 05.07.2021
 ## THINGS TO DO FOR COIBA
-- [ ] text Santos and ask for bill
-- [ ] list of things for lucia to send
+- [x] text Santos and ask for bill
+- [x] list of things for lucia to send
 - [x] sea to summit order
 - [x] dog care finalize
 - [ ] email irene
-- [ ] coin envelopes
-- [ ] touch base with meredith and tamara
+- [x] coin envelopes
+- [x] touch base with meredith and tamara
 - [x] get equipment
 - [x] up DB withdrawl limit
 - [x] data management plan
@@ -109,17 +109,17 @@ Ive been crazy busy. here are to do lists
 
 ## Do Before Coiba
 1. Laptop
-    - [ ] install LaTeX
-    - [ ] install STAN
-    - [ ] install basecamp
-    - [ ] get odk workflow running
-    - [ ] word
-2. Get EpiPen
-3. Write Itinerary for Trip along ith Data Collection
-4. Write project metadata
+    - [x] install LaTeX
+    - [x] install STAN
+    - [x] install basecamp
+    - [x] get odk workflow running
+    - [x] word
+2. ~~Get EpiPen~~
+3. ~~Write Itinerary for Trip along ith Data Collection~~
+4. ~~Write project metadata~~
 5. Brgin Project Readme
 6. Have Zoe get usable map for field
-    -[ ] interactive HTML file of grid w/o internet
+    -[x] interactive HTML file of grid w/o internet
 7. Upload GPS points and tracks to GPSes
 
 
