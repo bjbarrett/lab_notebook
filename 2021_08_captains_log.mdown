@@ -2,21 +2,47 @@
 
 I went into office and uploaded all raw data through R8 onto server. I continued taping reciepts.
 
-# 30.01.2021
- - [ ] Upload R9 clean
- - [ ] Email Urs
- - [ ] Susan Historical Email + Clean
- - [ ] NDA for Giles
- - [ ] Email Corina and Dieter
- - [ ] Email Michael
- - [ ] Email Lucy
- - [ ] ODK Backup
+# 30.08.2021
+ - [x] Upload R9 clean
+ - [x] Email Urs
+ - [x] Susan Historical Email + Clean
+ - [x] NDA for Giles
+ - [x] Email Corina and Dieter
+ - [x] ODK Backup
  - [ ] Sloanea Model
  - [ ] Carship Decide
  - [ ] Upload Sequences
  - [ ] Email Tamara and Meredith
  - [ ] Biology Letters Review
  - [ ] AmNat Review
- - [ ]
+ - [ ] Crop Conflict Papers
 
-## Suysan Grid Stuff
+## Susan Grid Stuff
+This is in my downloads/docs folder, but i will check it again once i get new files. I wrote an .RmD file to check this.
+
+# ITagger
+Cebuscapuc1nus
+
+# 31.08.2021
+
+ - [ ] ODK Backup
+ - [ ] Sloanea Model
+ - [ ] Carship Decide
+ - [ ] Upload Sequences
+ - [x] Email Tamara and Meredith
+ - [ ] Biology Letters Review
+ - [ ] AmNat Review
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] Julia model and email
+ - [ ] MoU
+ - [ ] 2 factor authorization on github
+
+## Inventory Notes
+- change trinble to kate
+- change emily's cameras
+- make note about radios being in BCI
+
+## Meeting w/ SEP Odd Errors
+I got the 4 files that need to be version controlled from her dropbox version history.
+Will rerun R code to check these files. Need to back up version contr

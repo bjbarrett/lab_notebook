@@ -271,7 +271,7 @@ Found out that Jose passed away in May, unexpectexly. Very sad.
 	1. synchrony
 	2. coordination
 	3. collaboration
-	4, in etosha lions, 80% large quick prey, distict hunting roles
+	4. in etosha lions, 80% large quick prey, distict hunting roles
 	5. percapita intake for groups, in higher coordinating groups.
 	6. large open plains
 	singletoms often fail, cooperative hunters very succesul (unlike serengetti)
@@ -432,9 +432,10 @@ July 21- jicaron tool site hike out in evening
 
 shape description: spheroid, ovate, rectangular, irregular, undetermined
 
-30.06.2021
+# 30.06.2021
 
-Coiba Trip Updates as of this morning. I am writing these so we can get logistics out of the way early when we meet, and I am prone to not concise talking. 
+## Coiba Trip Updates 
+as of this morning. I am writing these so we can get logistics out of the way early when we meet, and I am prone to not concise talking. 
 
 1. Zoe got added to permit. We can have it once we pay STRI. Lil will email me the invoice.
 2. We got the boat confirmed: 150 per day plus 140 gallons fuel ($4 each gallon). I think we will pay Eliezer on top of that, so its not too bad.
