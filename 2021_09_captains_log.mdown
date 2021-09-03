@@ -1,3 +1,106 @@
+# Things to read in future
+
 # 01.09.2021
-GH Access Token: shark_fart
-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
+GH Access Token created
+
+ - [ ] ODK Backup
+ - [ ] Sloanea Model
+ - [ ] Carship Decide
+ - [ ] Upload some sequences
+ - [ ] Biology Letters Review
+ - [ ] AmNat Review
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] Julia model and email
+ - [ ] MoU
+ - [x] 2 factor authorization on github
+ - [ ] exiftool coiba data
+ - [ ] recheck susans data from map
+
+## General Notes
+ - It looks like BBC is not wanting to meet our terms of the NDA
+ - TAlked with Gen about captains log, tried to get added to wiki i have no permissions
+ -  set up github 2 factor authorization every 30 or 90 days it needs to be relivened
+ - image tagger almost good to go. ohad needs to set up notes.
+
+# 02.09.2021
+ - [ ] ODK Backup to git
+ - [ ] Sloanea Model
+ - [ ] Carship Decide
+ - [x] Upload some sequences
+ - [ ] Biology Letters Review
+ - [ ] AmNat Review
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] Julia model and email
+ - [ ] MoU
+ - [ ] exiftool coiba data
+ - [X] zoe IPS stuff
+ - [ ] Christian Inreach activate
+ - [x] email susan map issues
+
+## General Notes
+Met w/ Angie and taked about batteries and dealt with equipment. 
+Scheduled Meeting for Safety next Tued.
+I updated https://github.com/bjbarrett/ethogram
+SURVEY-CEBUS-17-03-R4 uploaded to agouti
+
+## Zoe meeting
+Ask about Repo. Note. [i got access](https://github.com/ZoeGold/crackingcapuchins/). Forked it to mine.
+Agouti Keep Going and Image Tagger.
+STRI or Leakey or Both? STRI due in October 15. Leakey in January.
+Exiftool and Upload Server?
+Angie meeting, not next thursday. 
+
+## Inreach Stuff
+- getting christain added to account. he needs to approve with garmin
+- I can't get points off last GPS, only tracks, need to see if it is due to a suspension, settings, or otherwise
+
+## Susan Lomas Map
+I Emailed her back with highlighted yellow changes from R code. 
+Only 17 mistakes. 
+It would be good to get the Grid Point GPS locations extracted.
+
+# 03.09.2021
+ - [x] ODK Backup to git
+ - [ ] Sloanea Model
+ - [ ] Carship Decide
+ - [ ] Biology Letters Review
+ - [ ] AmNat Review
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] Julia model and email
+ - [ ] MoU
+ - [ ] exiftool coiba data
+ - [X] Christian Inreach activate-- he will do himself
+ - [x] NDA meeting
+ - [x] Email RE safety meeting
+ - [ ] look at Zoe's trip recap (branched)
+ - [x] Zea Strap meeting
+ - [ ] Urs class finalize to mail
+
+## Zea Straps
+reconux is 25mm and thin, brown, black tan or green
+
+don't need huge length
+
+## Coiba MAnagement Stuff
+- [Inventory and things to buy](https://docs.google.com/spreadsheets/d/17ePf9F0DiDdTSSYkmCi2mYkkY15RXRmeMR-KVdT3C2w/edit#gid=0)
+- Zoes summary
+
+## NDA
+- exit point if they try to do it on their own
+- key points 
+1. you will not film there now without our permission, very important for our science (experiments running & studies ongoing) 8.2
+- 8.1 and 8.2 
+- talk to Barbaras team if we want to film
+- I put Margit in cotact to push convo forward
+
+## Emailed out safety meeting thins
+
+
+
+
+
+
+
