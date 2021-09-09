@@ -84,7 +84,7 @@ reconux is 25mm and thin, brown, black tan or green
 
 don't need huge length
 
-## Coiba MAnagement Stuff
+## Coiba Management Stuff
 - [Inventory and things to buy](https://docs.google.com/spreadsheets/d/17ePf9F0DiDdTSSYkmCi2mYkkY15RXRmeMR-KVdT3C2w/edit#gid=0)
 - Zoes summary
 
@@ -102,6 +102,8 @@ don't need huge length
 Sick Day Today. Tobi was in hospital over the weekend, and has to stay home all week.
 
 # 06.09.2021
+
+I biked to Rado and gave christian his inreach. he wants to use his private account.
 
 # SAFETY MEETING 
 ## Inreach
@@ -131,6 +133,33 @@ need to communicate directly and openly
 - claudio says that rio escondido may not be a flooding risk, speed in concern more so than height. particularly if flowing material
 - clarity on solutions
 - https://www.ez-dock.com/product/low-profile-dock/ for moving equipment?
+
+# 08.09.2021
+ - [x] MoU
+ - [ ] Sloanea Model
+ - [ ] Carship Decide
+ - [ ] Biology Letters Review
+ - [ ] AmNat Review
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] Julia model ~~and email~~
+ - [ ] exiftool coiba data (save for zoe)
+ - [ ] look at Zoe's trip recap (branched)
+ - [ ] Urs class finalize to mail
+ - [ ] schedule imagetagger meeting
+ - [ ] update emergency form
+ - [ ] Beth Shapiro Tweet DM
+ - [ ] website update
+ - [ ] find a panamaniam intertidal person
+ - [ ] Meg InReach login
+ - [ ] Michael feedback
+ - [ ] susan map stuff
+
+## Claudio Lab Prez
+Q1-- any reason that habitat type might influence detection rate in a way that it does not reflect abundance/diversity
+
+
+
 
 
 
