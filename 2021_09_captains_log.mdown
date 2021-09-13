@@ -107,32 +107,43 @@ I biked to Rado and gave christian his inreach. he wants to use his private acco
 
 # SAFETY MEETING 
 ## Inreach
-- SMS message at night, that is OK, Question on If it gets recieved.
-- Cell Phone is her prefernce
--ask meg for what info she wants and where
-- Zoe's fam messages did not arrive via phone, but did via email
-## EArthquakes
-- what to do but monitos seas for rughness, or tsunamis
-- Cladio says main tasks on people from mainland is to monitor things remotely.
-- Send Inreach to Eleizer 3 inreacheesm min
+- SMS message at night, that is OK, Question on If it gets received.
+- Cell Phone is her preference
+- ask meg for what info she wants and where when we are in field
+- Zoe's fam messages did not arrive via phone, but did via email. follow up on this.
+- Send Inreach to Eleizer 3 inreaches min
+## Earthquakes
+- what to do but monitor seas for roughness, or tsunamis
+- Claudio says main tasks on people from mainland is to monitor things remotely.
+- Seems to be a minimal concern locally
 ## Lightning
-on boat lightening is futiles
-what to do on land when hiking
-do some some research on coastal and boat lightening safety
-mornings minimize risk
-Claudio. We need to practice first aid stuff before. reading and knowing is more important.
-Zoe-- female sepcific safety parts.
-need to communicate directly and openly
-- rope for rio escondido
-- evacuation route from rio escondido
-- check in  daily plan
-- end of day, 2 roses and a thron, or higlight, low light and thing you would have done differently.
-- radios and base 40 in something very 
-- boat swimminh risk
-- ask angie to send floating dock info
-- claudio says that rio escondido may not be a flooding risk, speed in concern more so than height. particularly if flowing material
-- clarity on solutions
-- https://www.ez-dock.com/product/low-profile-dock/ for moving equipment?
+- on boat lightening is futile?
+- what to do on land when hiking
+-  *ACTION ITEM* do some some research on coastal and boat lightening safety
+    - hike mornings to minimize risk, perhaps?
+## Other notes
+- Claudio: We need to practice first aid stuff before. reading and knowing is more important.
+- Zoe: female specific safety parts (and packing list).
+- need to communicate directly and openly always. what are ways to do this?
+- rope for rio escondido (and ascender?)
+- evacuation route from rio escondido, search for in future
+- we may have new oceAN RISKS THAT WE ARE UNAWARE OF
+## Communication/Safety Solution
+- check in  w/ daily plan for whole group either morning of or night before
+    - plans change so much in field that this needs to be revised constantly
+- end of day, do *2 roses and a thorn*, or *highlight, lowlight and thing you would have done differently*
+    - this might foster a culture of communicating more openly and sharing disagreements/concerns
+## Floods
+- Claudio says that rio escondido may not be a flooding risk, speed in concern more so than height. particularly if flowing material is coming down. Angie agrees.
+- worthwhile asking Alicia in future perhaps about floods?
+## Solutions
+- radios and base like they had at Cayo Santiago, Perhaps Consider
+- Angie suggests a floating dock [like this](https://www.ez-dock.com/product/low-profile-dock/) for moving equipment
+## Action Items
+- Update Safety Plan [moved to here](https://docs.google.com/document/d/1j3uNiFlcq90WpM65gx7zz-a_feg50vfHpZKj30ptRm8/edit?usp=sharing)
+- First 2 pages can be in the field emergency reference info (plans contact info), english and spanish
+- rest can be details about emergencies, first aid, etc in explicit detail
+- Brendan will finish his revisions from emails and this trip and then have others read/revise/edit it
 
 # 08.09.2021
  - [x] MoU
@@ -151,13 +162,101 @@ need to communicate directly and openly
  - [ ] Beth Shapiro Tweet DM
  - [ ] website update
  - [ ] find a panamaniam intertidal person
- - [ ] Meg InReach login
+ - [x] Meg InReach login
  - [ ] Michael feedback
  - [ ] susan map stuff
 
 ## Claudio Lab Prez
 Q1-- any reason that habitat type might influence detection rate in a way that it does not reflect abundance/diversity
 
+## Inreach stuff
+can only be downloaded from Meg's account and login. I downloaded first batch of files, however tracks did not save. need to troubleshoot.
+
+## BBC
+had meeting, seems we will reduce time to window of production , they cant speak for the entire BBC Margit made some edits and resent out
+
+# 09.09.2021
+ - [ ] Sloanea Model
+ - [ ] Carship Decide
+ - [ ] Biology Letters Review
+ - [ ] AmNat Review
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] Julia model ~~and email~~
+ - [ ] exiftool coiba data (save for zoe)
+ - [ ] look at Zoe's trip recap (branched)
+ - [ ] Urs class finalize to mail
+ - [x] schedule imagetagger meeting
+ - [x] update emergency form (*process begun, needs refining*)
+ - [ ] Beth Shapiro Tweet DM
+ - [ ] website update
+ - [ ] find a panamaniam intertidal person
+ - [x] Michael feedback (* i sent a github message*)
+ - [x] susan map stuff
+
+## General Notes
+-Image Tagger meetind with ohad tommorw nite
+-reset github token 
+
+## SEP map- wrote code to shift susan map
+When Odd returns he can do it for the the others although I think they are fine.
+- write code to fix 2012 horseshit
+- odd can do the other 3 years
+- add grids # to grid sp data frame
+- tidy up unnecssary shit in datafield of objects
+- get susan to github or email
+
+# 10.09.2021
+ - [ ] Sloanea Model
+ - [x] Carship Decide
+ - [ ] Biology Letters Review
+ - [ ] AmNat Review
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] Julia model ~~and email~~
+ - [ ] exiftool coiba data (save for zoe)
+ - [ ] look at Zoe's trip recap (branched)
+ - [ ] Urs class finalize to mail
+ - [ ] Beth Shapiro Tweet DM
+ - [ ] website update
+ - [ ] find a panamaniam intertidal person
+ - [x] image tagger meeting
+
+ I was primary child caregiver today.
+
+## Imagetagger meeting w/ Ohad y Zoë
+Imagesets- upload these as batches to split for some reason
+During upload- upload>select
+- if thumbnails loaded, then good to go.
+- upload in batches of 500-1000 to start
+- ignore concealed and blurred boxes
+- we can tag, perhaps deployment and id is a good idea
+- chuck said 1500 images/2500 annotations.
+- if filter pops up on screen, making it dark type escape
+
+## Michael ABM
+- needs my input on stan model. I [forked repo](https://github.com/bjbarrett/ewa_nbda_abm/tree/master)
+- look at draft this week- [doc here](https://sharelatex.gwdg.de/project/5fe31e6a56b9f7007fbd6523)
+
+# 13.09.2021
+ - [ ] email SEP photo of tree
+ - [ ] read longitudinal paper
+ - [ ] Sloanea Model
+ - [ ] Biology Letters Review
+ - [ ] AmNat Review
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] Julia model ~~and email~~
+ - [ ] exiftool coiba data (save for zoe)
+ - [ ] look at Zoe's trip recap (branched)
+ - [ ] Urs class finalize to mail
+ - [ ] Beth Shapiro Tweet DM
+ - [ ] website update
+ - [ ] find a panamaniam intertidal person
+
+ ## Prep for Longitudinal Paper meeting
+ - read kaeppler et al: sci-hub.se/10.1007/978-3-642-22514-7_1
+ 
 
 
 
