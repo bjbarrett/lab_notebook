@@ -1,4 +1,8 @@
 # Things to read in future
+- [ ] https://movementecologyjournal.biomedcentral.com/track/pdf/10.1186/s40462-021-00277-3.pdf
+- [ ] https://link.springer.com/article/10.1007/s10764-021-00228-0
+- [ ] https://www.biorxiv.org/content/10.1101/2021.09.09.459561v1
+- [ ] https://sci-hub.se/10.1007/978-3-642-22514-7_1
 
 # 01.09.2021
 GH Access Token created
@@ -239,14 +243,15 @@ During upload- upload>select
 - look at draft this week- [doc here](https://sharelatex.gwdg.de/project/5fe31e6a56b9f7007fbd6523)
 
 # 13.09.2021
- - [ ] email SEP photo of tree
- - [ ] read longitudinal paper
+ - [x] email SEP photo of tree
+ - [x] read longitudinal paper
+ - [x] post lomas vids
  - [ ] Sloanea Model
- - [ ] Biology Letters Review
+ - [ ] Biology Letters\ Review
  - [ ] AmNat Review
  - [ ] Crop Conflict Paper Models
  - [ ] Crop Conflict DAG section
- - [ ] Julia model ~~and email~~
+ - [ ] Julia model
  - [ ] exiftool coiba data (save for zoe)
  - [ ] look at Zoe's trip recap (branched)
  - [ ] Urs class finalize to mail
@@ -254,10 +259,50 @@ During upload- upload>select
  - [ ] website update
  - [ ] find a panamaniam intertidal person
 
- ## Prep for Longitudinal Paper meeting
+## Prep for Longitudinal Paper meeting
  - read kaeppler et al: sci-hub.se/10.1007/978-3-642-22514-7_1
  
+## ProcB review
+- line 24- "social information" would be more specific
 
+first evidence that horizontally-acquired information can be transmitted vertically across generations: Very skeptical of this, and the direction of transfer should be clarified.
+
+## Longitudinal Paper Meeting
+- intro defines scope, editors said that was the scope, acknowledge other fields doing stuff, highlight in our fields 
+- technical (newer methods), data management and stats
+- theoretical advances
+- outlook is basically abstract, large figure does heavy lifting, future directions
+- phenotypic traits things to add
+- group dynamics and collective behavior (ask meg her thoughts)
+- To do
+- intro expansion
+- next meeting october 11 @ 3 pm
+
+# 14.09.2021
+
+## Stan issues
+Could nt run julia model.
+
+I am trying to install CMDstan like here:
+https://mc-stan.org/cmdstanr/articles/cmdstanr.html
+
+Issues with stan on new laptop
+Things often talk about this `mtune=native` issue in windows
+
+[This](https://discourse.mc-stan.org/t/error-in-unserialize-socklist-n-error-reading-from-connection/18097/9) is a useful thread.
+
+I can edit makevars file like so from console:
+
+`file.edit(file.path(Sys.getenv("HOME"), ".R", "Makevars"))`
+
+I am changing this:
+`CXX14FLAGS += -O3 -mtune=native -arch x86_64 -ftemplate-depth-256`
+to this:
+
+`
+CXX14FLAGS=-O3 -mtune=native 
+CXX14FLAGS += -arch x86_64 -ftemplate-depth-256
+`
 
 
 
