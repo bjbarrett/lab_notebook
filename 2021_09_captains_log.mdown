@@ -3,6 +3,9 @@
 - [ ] https://link.springer.com/article/10.1007/s10764-021-00228-0
 - [ ] https://www.biorxiv.org/content/10.1101/2021.09.09.459561v1
 - [ ] https://sci-hub.se/10.1007/978-3-642-22514-7_1
+- [ ] https://www.cell.com/current-biology/fulltext/S0960-9822(21)01111-8
+- [ ] https://cpsyjournal.org/article/10.1162/CPSY_a_00028/
+- [ ] https://arxiv.org/abs/2109.09973
 
 # 01.09.2021
 GH Access Token created
@@ -281,7 +284,7 @@ first evidence that horizontally-acquired information can be transmitted vertica
 # 14.09.2021
 
 ## Stan issues
-Could nt run julia model.
+Could not run julia model on work laptop.
 
 I am trying to install CMDstan like here:
 https://mc-stan.org/cmdstanr/articles/cmdstanr.html
@@ -304,6 +307,157 @@ CXX14FLAGS=-O3 -mtune=native
 CXX14FLAGS += -arch x86_64 -ftemplate-depth-256
 `
 
+My gut tells me that this is a Apple Processor Issue. CmD STAN should work, but I am taking a pause on this.
+Error remians after installing Xtools
+
+# 15.09.2019
+
+## Lab Meeting- Zea and  Tracy
+- Q zea. what is a scavenger?
+- Q Tracy. how much population variability is there? if/when pop dens changes do you see more or less group overlaps, interchange, and agonistic/affilitive interactions?
+
+## General Notes
+- Zoe emailed Darío Córdoba González [dcg213@cwpanama.net] and got confirmation that we collected *Vasula melones* at Rancheria
+- Odd is starting cleaning Susans Frist Scoring
+
+## Imagetagger
+Zoe uploaded 2K images. Notes-- sometimes having sequences is good in case monos are super hard to identify.
+We need to ask about Reconyx Logo.
+
+# 16.09.2021
+ - [ ] Sloanea Model
+ - [ ] Biology Letters Review
+ - [ ] AmNat Review
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] Julia model
+ - [ ] exiftool coiba data (save for zoe)
+ - [ ] look at Zoe's trip recap (branched)
+ - [x] Urs class finalize to mail
+ - [ ] Beth Shapiro Tweet DM
+ - [ ] website update
+ - [x] find a panamaniam intertidal person
+
+# 17.09.2021
+ - [ ] Sloanea Model
+ - [ ] Biology Letters Review
+ - [ ] AmNat Review
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] exiftool coiba data (save for zoe)
+ - [ ] look at Zoe's trip recap (branched)
+ - [ ] Beth Shapiro Tweet DM
+ - [ ] website update
+ - [ ] meet with laura schedule
+ - [ ] susan meeting
+ - [ ] look at bbc nda
+ - [ ] Michael email followup
+
+# 20.09.2021
+ - [ ] Sloanea Model
+ - [ ] Biology Letters Review
+ - [ ] AmNat Review
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] exiftool coiba data (save for zoe)
+ - [ ] look at Zoe's trip recap (branched)
+ - [ ] Beth Shapiro Tweet DM
+ - [ ] website update
+ - [ ] meet with laura schedule
+ - [x] susan meeting
+ - [ ] look at bbc nda
+ - [ ] Michael email followup
+
+
+## CES FUNDING SCHEME
+This is for a workshop or research program.
+# https://culturalevolutionsociety.org/story/Templeton_Grant_2021_Home
+## Julia
+I worked with Julia for 6 hours today on the cockatoo almond paper.
+We ran IL, freqdep, adultbias, male bias models. 
+Predictions seem somewhat similar for many models for many individuals.
+- There is minimal variation in success-- ~98$ of opens are succesful.
+- Models make similar predictions
+- need to consider the weird 0/1 pocket condition where a payoff of 0 is realized and the odds of other go up.
+- we might want to get rid of IL entirely 
+### TODo
+- acquisition curve plots (not essential, but lucy wants)
+- plots of individual preds
+- group level plots
+
+## SEP notes
+moving into 20th centurey she extracted CL after 6PM
+server
+obsdaymanual(time found and time lost)
+obsdays(10 min chunks)
+upload new site with git instrictiuons
+
+
+# 21.09.2021
+ - [ ] Sloanea Model
+ - [ ] Biology Letters Review
+ - [ ] AmNat Review
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [x] exiftool coiba data (save for zoe), moved to zoe
+ - [x] look at Zoe's trip recap (branched)
+ - [x] Beth Shapiro Tweet DM
+ - [ ] website update
+ - [x] meet with laura schedule
+ - [ ] look at bbc nda
+ - [x] Michael email followup
+ - [x] Publish Mapview website
+ - [x] email JLA
+
+## New Mapview HTML
+https://gist.github.com/bjbarrett/abf4bca370b5664b9ca2652df77a0d14
+http://bl.ocks.org/bjbarrett/raw/abf4bca370b5664b9ca2652df77a0d14/
+I also put it in ODD_GPSwork dropbox folder as lomas_interactive_map_website_2021_09_21.html
+
+Odds bookdown: https://oddjacobson.github.io/capuchin_ch1/index.html
+
+## Julia Stuff
+
+I have all 6 models running, but they make similar predictions. Need to reconsider:
+1. social info on first step
+2. individual learning component-- change or not i.e alexs concern
+3. if there should be IL at all
+
+
+# 21.09.2021
+ - [ ] Sloanea Model
+ - [ ] Biology Letters Review
+ - [ ] AmNat Review
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] website update
+ - [ ] look at bbc nda
+ - [x] check in 5 cams for emily
+ - [x] MoU AI finalize
+ - [x] laura meet
+
+## 0/1 issue
+I drafted a temporary model for attraction scores to deal with the change in probability of an option being the same if it was a success or failire.
+
+Imagine 2 behaviors $Y$ and $Z$. Success gets a payoff of 1, failure 0.
+
+An agent chooses $Y$ at time $t$. Then:
+
+$A_{Y,t+1} = (1 - \phi)*A_{Y,t} + \phi*(\pi_{Y,t}  - c)$
+$A_{Z,t+1} = (1 - \phi)*A_{Z,t} + \phi*(0)$
+
+where $c$ is a cost beteween 0 and 1.
+
+This seems not important for Julia, but may be important for Zoe's stuff.
+
+## Julia stuff
+i ran models where the social info can get used on first round. Currently they are are stan files with slu at end.
+
+# meet with laura
+- add you to seerver
+- send you server access instructions
+- hash to inventory
+- see email for more recs
 
 
 
