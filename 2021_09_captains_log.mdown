@@ -424,7 +424,7 @@ I have all 6 models running, but they make similar predictions. Need to reconsid
 3. if there should be IL at all
 
 
-# 21.09.2021
+# 22.09.2021
  - [ ] Sloanea Model
  - [ ] Biology Letters Review
  - [ ] AmNat Review
@@ -459,6 +459,21 @@ i ran models where the social info can get used on first round. Currently they a
 - hash to inventory
 - see email for more recs
 
+# 23.09.2021
+Got an email for cluster grant. Started application.
+
+# 24.09.2021
+
+# 27.09.2021
+ - [ ] Sloanea Model
+ - [ ] Biology Letters Review
+ - [ ] AmNat Review
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] website update
+ - [ ] look at bbc nda
+ - [ ] CASCB small grant
+ - [ ] UCSC apps
 
 
 
