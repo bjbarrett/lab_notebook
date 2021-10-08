@@ -1,0 +1,571 @@
+# 01.10.2021
+
+ - [ ] Sloanea Model
+ - [ ] Biology Letters Review
+ - [ ] AmNat Review
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] website update
+ - [ ] look at bbc nda
+ - [x] CASCB small grant
+ - [ ] UCSC apps
+ - [x] DMP email summary
+
+ ## [DMP summary](https://github.com/livingingroups/ods_wiki/wiki/data_management_plan_and_data_catalog_entry_form)
+ 
+ # Data Management Workflow
+
+## Before 
+
+Before researchers go out into the field they have to create a **data management plan** and fill out a **data catalogue entry form**. This needs to get emailed to and approved by Angie before field work. The DMP includes all of the info that will go into the DCEF, but the DCEF is a `yaml` that will allow us to search across years of data, and create a database of all the Garching Data Pallette/Uploads easily. In theory, researchers could save their DMP as a `.yaml` using the DCEF tool and just have one file.
+
+### Data Management Plan (DMP)
+For the Data Management Plan, researchers should record:
+- What data do you plan to collect 
+    - Give details on the kind of data: for example numeric (databases, spreadsheets), image, audio, video, and/or mixed media. 
+- How will the data be organized 
+    - what is structure of folder system?
+    - How will files be named?
+    - if data is in a spreadsheet, where will the **datatable metadata** `.txt` or `.md` file be stored and what does each column include/mean (this can also be saved for after data collection but some initial thought should be given before hand)
+    (i.e. what is the structure and how will the files be named and indexed)
+- Where you will store your data while in the field (e.g. hard drives)
+- How you will back up your data in the field (you must store your data in at least 2 places e.g. separate hard drives stored in different locations)
+- Plan for how often / at what point you will transfer + backup data
+- Ensure that you have the equipment required to transfer and store your data while in the field
+
+This data management plan should also include all the info that goes into a standalone data catalog entry form, or the initial data catalog entry from `.yaml` can be drafted at this time and included with the DMP.
+
+### Data Catalog Entry Form (DCEF)
+This Data Catalog entry form will eventually be formatted to a `yaml` to be sent to Garching. 
+Researchers can create/store this info however they want, but creating a `yaml` using our website/Shiny app and updating it in the future will save them time in our department's workflow. I strongly recommend this from the beginning if possible.
+
+Data that should be (propsed, but we need to decide) are recorded in the data catalog entry form are:
+
+1. Project Name (`proj_name`)
+    Projects should have a unique project id associated with them. This could/should be the name on the server folders. We might want to make this a selection from the dropdown menu.
+
+2. People (`person`)
+For each person we should have:
+    1. Name
+    2. Institution 
+    3. Email
+    4. Role 
+        1. PI
+        2. Collaborators
+        3. HIWIs
+        4. Field Assistants 
+        5. Lab Assistant 
+        6. Analyst
+    5. Dates in Field
+    *It might be worth considering having a website, twitter, email or other means of contact as institutions change or if working with folks locally (i.e. WhatsApp or Address)*
+
+3. Locations (`location`)
+    1. Country
+    2. State/Province/Region
+    3. Name of protected area if applicable
+    4. name of research station if applicable
+    4. Lat/Long (need to decide on a format)
+
+4. Species (`species`)
+    1. common name in English
+    2. local name at field site
+    3. Scientific name (*Genus species*)
+
+5. File types (`file_types`)
+    1. .txt
+    2. .csv
+    3. .md
+    4. .yaml
+    5. .json
+    6. .gpx
+    7. .tiff (or other spatial formats)
+    8. .mp4 (or other video formats)
+    9. .mp3 (or other audio formats)
+    10. .pdf (i.e. scans)
+    11. .tex
+
+5. Data Description (`data_description`)
+    1. Behavioral (focal follows, scans, etc., annotations)
+    2. Movement (gps collar, telemetry data, accelerometer)
+    3. Vocalizations
+    4. Ecological (i.e. species, plant surveys, soil samples)
+    5. Climatic 
+    6. Camera Trap
+    7. Spatial (i.e. GPS)
+    8. Drone Imagery
+    9. DNA_samples
+    10. Tissue_smaples
+
+6. Dates (`dates`)
+    1. Field Trip Duration
+    2. Data Collection Duration
+    3. Project Duration
+    
+7. Funding sources
+    1. Grants and Fellowships that contributed to paying for this project or giving researchers salaries.   
+
+8. Intellectual property
+    1. Data owner(s)
+    2. Stakeholders
+    3. Creative commons liscence
+    4. Embargo and justification
+
+9. Tools
+    1. list of special tools/hardware needed to collect data
+    2. list of special software needed to open/access data
+
+10. Research Overview
+    1. research area focus (i.e. movement ecology, bioacoustics, social learning, physiology)
+    2. intended audience
+    3. general goals (a few sentence summary of project goals)
+
+11. Data Management
+    1. Backups (text describing this process and their location)
+    2. Secondary storage sites
+    3. Version comtrol  (i.e. if code used to clean process data or stored in repos, give link to commit)
+
+12. Data narrative
+    1. Any Additional information that will help you understand the data. Free text entry that could be linked to above
+
+## BJB to do-- add a timestamp of creation automajically to DCEF in shiny app
+
+
+## During Data Collection
+DMP and DCEF updated if necessarey. Data is contasntly backed up.
+
+## After Data Collection
+As soon as possible after you return from the field (e.g. your first day back in the office), you should deposit your raw data (in whatever form it is upon your arrival) onto the EAS data server. This should be done at the same time as filling out post-travel paperwork (for reimbursements) and returning / storing equipment. 
+
+#### Process of Initial Data Dump:
+
+1. Upload all of your data into a single folder inside `/EAS_shared/project_folder/working/UPLOADS/` on the server. The name of the folder should be your project name. The data will only be here temporarily while you are organizing it.
+2. Update the Data Catalog Entry form to what will be sent to Garching with the packet of field data
+3. In an overview/admin folder the DMP, DCEF, and any other important documents (i.e. `.txt` files explaining datatable metadata) should get depositef
+3. Let Angie know that this has been updated and share with her the path on the server, and she can access the Data Catalog Entry Form. Angie will check over it, then initiate the process of initial data deposit and let you know when it is completed. Angie will store these Once completed, your data is backed up and you can begin the process of organizing it (without worrying about messing it up, as the raw data will always be recoverable!). 
+
+**Note:** If you have data from multiple projects, you can store them in multiple folders and provide a separate Data Catalog Entry Form for each project.
+
+### Behind the scenes:
+1. Angie checks for completeness of metadata, passes metadata sheet and path to folder to Andreas
+2. Andreas archives folder to Garching. Makes note of ZFS dataset and adds this to metadata sheet.
+3. Andreas uploads metadata document to a version controlled metadata library (e.g. Github repository).
+
+##### A similar process can occur for organized data, which we will update later
+
+## data catalog entry form `.yaml` example
+```yaml
+# Project Metadata: Coiba_Capuchins_2021_07
+project_name: Coiba_Capuchins_2021_07
+person_01:
+  name: Brendan Barrett
+  institute: MPI-AB
+  email: bbarrett@ab.mpg.de
+  role: PI
+  date: 2021-07-14 - 2021-07-27
+person_02:
+  name: Zoë Goldsborough
+  institute: MPI-AB
+  email: zgoldsborough@ab.mpg.de
+  role: PhD Student
+  date: 2021-07-14 - 2021-07-27
+person_03:
+  name: Claudio Monteza
+  institute: MPI-AB
+  email: cmonteza@ab.mpg.de
+  role: PhD Student
+  date: 2021-07-14 - 2021-07-22
+person_04:
+  name: Meredith Carlson
+  institute: UC Davis
+  email: mkcarlson@ucdavis.edu
+  role: PhD Student
+  date: 2021-07-14 - 2021-07-26
+person_05:
+  name: Evelyn del Rosario
+  institute: UC Davis
+  email: delrosarioev@gmail.com
+  role: Field Assistant
+  date: 2021-07-14 - 2021-07-26
+species_1:
+  name_eng: white-faced capuchin monkey
+  name_loc: mono cariblanco
+  name_sci: Cebus imitator
+location_1:
+  country: Panama
+  region: Veraguas
+  park: Coiba National Park
+  field_station: Rancheria
+  lat_log: 7.4264649608 N; -81.7595969616 E
+data_file_type_overview:
+  file_type_1: csv
+  file_type_2: gpx
+  file_type_3: jpg
+  file_type_4: mp4
+  file_type_5: XLSform
+data_description:
+  data_desc_1: Ecological (i.e. species, plant surveys, soil samples)
+  data_desc_2: Camera Trap
+  data_desc_3: Spatial (i.e. GPS)
+  data_desc_4: DNA Samples
+dates:
+  Field Trip: 2021-07-17 - 2021-07-25
+  Data Collection: 2021-07-17 - 2021-12-31
+  Project Duration: 2017-03-20 - 2021-12-31
+funding_sources:
+  fund_1: Max Planck Geschellschaft
+  fund_2: Packard Foundation Fellowship (2016-65130)
+```
+
+# 2021.10.04
+ - [ ] Sloanea Model
+ - [ ] Biology Letters Review
+ - [ ] AmNat Review
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] website update
+ - [ ] look at bbc nda
+ - [ ] UCSC apps
+ - [x] yaml modify
+ - [x] urs meeting
+ - [x] project wall
+
+## yaml modify
+changed naming so it is `projectname_yyyymmdd_hhmmss` and removed date from person and added uploader
+commit [here](https://github.com/k-hench/shiny_yml/commit/2d3e76b583cb1a7802f693af9983f4135a1ac015)
+
+## wig server
+scwcr7k
+http://whenisgood.net/9g29778/results/scwcr7k
+http://whenisgood.net/9g29778/edit/scwcr7k
+
+## met with urs 
+### Before Meeting
+- Bayesian Course:
+    - How do we teach this course?
+        - How do we structure the theoretical part?
+        - How do we structure the homework part?
+    - Email to participants: (1) When and where we meet. (2) Ask about skills. (3) Recommend to get the book (or reach out to us if need support).
+- Discuss with Brandon ODS-onboarding of new grad students/postdocs
+    - Which topics are required: Server, GitHub, Intro to Wiki (also check Wiki what other topics), Markdown?, Labnotebooks, structure projects. Code reproducibility and commenting? 
+### Discussion
+#### How will we teach the course?
+Mondays is discussion part, Thursday Homework part (in most cases).
+**Theory:**
+- Each group prepares a **short presention (max. 15 minutes**; there is one group per section of the book) on the topic of each chapter/section. Then presents this summary to the whole group. Also include discussion points about comprehension of the topic and general things (e.g., skills learned, how is that different from what you learned? Philosophy of science).
+- **Breakout rooms (45 - 60 minutes) for discussion**: students/doctoral researchers vs. post-phd. Ideally, one knowledgeable person per room. Brandon and Urs join the student rooms. If people are done before time is up, they can work on homework together.
+- **Come together for open questions (around 15 minutes).**
+**Practical/homework part**
+- **One group presents solutions (up to 30 minutes)**
+- **Breakout rooms**: compare own solutions with the provided solutions (**30 minutes**)
+- **Get back together** for questions and missing solutions.
+- Make sure if group was not able to get all solutions, that it still works out.
+- If people want to use another language than R, build separatre groups?
+#### 1st Meeting*
+- Intro: what is our motivation to organize this course.
+- Present results of survey about skills
+- What people want to get out of the class?
+- Introduction round in breakout rooms
+- Short presentation chapter 1 with questions, e.g., how does this compare to your previous training? Discussioin in breakout rooms. Then share with larger class.
+- Schedule.
+- Who is doing which section? (theoretical part and homework)
+- Homework - only Easy and Medium. Hard is optional.
+- For Zeus credits: participate in one chapter presentation and one homework presentation.
+#### Email to participants
+- Read chapter 1 & 2 for the first week. And do Easy & Medium homework CH2 by Thursday first week.
+- Setup GitHub account? No, we discussed that we will only use Nextcloud for the beginning
+- Slack workspace? No, we discussed that we will only use Nextcloud for the beginning
+- Everyon should sign up on Zeus if possible.
+- Need of University address for nextcloud - thus, if not yet asked for uni address, please do so.
+- Buy the book if possible, or reach out to us
+- Sign form
+- Install: Rstudio, R, rethinking, rstan
+- Link to Richard's youtube account - Watch pre-recorded lectures
+- Send out Zoom-link
+#### What to do before the course starts
+- Set up nexcloud folder *Urs*
+- textbook *Urs will put into nextcloud*
+- Put table with topics in nextcloud *Urs*
+- Finalize the poll *Brendan*
+- Poll questions to get a better idea about skill levels.
+    - Experience with priors? (a) none, (b) use the defaults or what I see on stack overflow, (c) A day without a prior predictive simulation is not a good day.
+    - How comfortable with R? (a) none, (b) can read in data and run basic analysis (e.g., lm) and plotting comments (plot, ggplot), (c) I am writing loops and functions, and using probability distribution sampling functions regularly
+    - Used Bayesian packages. (a) none, (b) some brms/rstanarm/mcmcglmm, (c) usually doing my coding in stan
+    - Which MCMC sampler are you mostly using (a) none, (b) gibbs/hasting/metropolis/stan/hammiltonian, (c) I am writing my own.
+    - Rmarkdown: (a) never used it, (b) instructors of my last uni course forced me to use it/used for a course/sometimes, (c) part of my daily routine
+- Prepare summary of polls *Brendan*
+- Write the email *Brendan & Urs, Urs will draft*
+- Presentation motivation *Brendan & Urs, each 1-2 slides*
+- Prepare presentation on schedule and structure of the course *Brendan & Urs, Urs will draft*
+- Intro to Rmd *Urs*
+- Prepare first lecture on chapter 1 *Brendan*
+- Forms for using zoom etc *Urs*
+- Ask Jake to participate?
+#### ODS
+ODS-onboarding of new grad students/postdocs
+Topics are required: Accessig the Server + Structure + what data has to be put there; (2) GitHub; (3) Labnotebook discussion (including markdown as one option); (4) Structuring project, naming files, documenting code (code reproducibility); (5) ODS-Wiki
+
+## met with emily to to discus her field data
+I gave her some advise which we hope to formalize one day in ODS wiki
+
+# 2021.10.05
+ - [ ] Sloanea Model
+ - [x] Biology Letters Review
+ - [ ] AmNat Review
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] website update
+ - [ ] look at bbc nda
+ - [ ] UCSC apps
+
+ I had to restart Rstan and reinstall Rstudio and everything on desktop
+
+ ## stan issues
+ https://github.com/stan-dev/rstan/issues/780
+ changing make vars from this
+ CXX14FLAGS += -O3 -mtune=native -arch x86_64 -ftemplate-depth-256
+ to this
+ CXX14FLAGS += -O3 -arch x86_64 -ftemplate-depth-256
+
+ # 08.10.2021
+
+ ## Ari meeting
+ - call yaml from list in DCEF
+
+### DCEF
+ - project name
+    - data chunk/data paket/whateves
+ - country drop down menu
+ - project_name drop down menu
+ - add server path to .yaml
+ - DCEF categories required (filled bullrtd) . empty recommended - UTM lat long
+ - filetypes (remove)
+ - remove project duration. swtich field dates to DMP only
+ - data descroption is a free text
+ - change data description to data type
+ - tools to project read me
+ - research overview changwe to keyowrds
+ - keep data narrative
+- project/working/datachunk/
+- FOLDERS, YAML, DMP IF EXISTS
+- after cleaning, ceaned rae data goes goes into arcive raw data
+- cleaned raw data gets archived in archive/raw_data /// yaml gets updated // pushed tp garching
+- for anapysis read from archive
+- what is the point of load, amke it editable
+
+#### intellectual property. who gets to decide this and when?
+
+#### project read me, what who how why do we need to understand
+- folder organization
+- sampling protocol
+- sample freezing
+- methods section of paper
+- if we need tp reproduce your results, what do we need to know that is not (immediately) apparent from file
+    - flexibility / link to field protocol or wwrite it down here
+    - a good read me can be translated to methods section for a papers
+
+
+#### best practices for cleaning organizing
+- dates yyyymmdd, and in
+# Data Management Workflow
+
+## Before 
+
+Before researchers go out into the field they have to create a **data management plan** and fill out a **data catalogue entry form**. This needs to get emailed to and approved by Angie before field work. The DMP includes all of the info that will go into the DCEF, but the DCEF is a `yaml` that will allow us to search across years of data, and create a database of all the Garching Data Pallette/Uploads easily. In theory, researchers could save their DMP as a `.yaml` using the DCEF tool and just have one file.
+
+### Data Management Plan (DMP)
+For the Data Management Plan, researchers should record:
+- What data do you plan to collect 
+    - Give details on the kind of data: for example numeric (databases, spreadsheets), image, audio, video, and/or mixed media. 
+- How will the data be organized 
+    - what is structure of folder system?
+    - How will files be named?
+    - if data is in a spreadsheet, where will the **datatable metadata** `.txt` or `.md` file be stored and what does each column include/mean (this can also be saved for after data collection but some initial thought should be given before hand)
+    (i.e. what is the structure and how will the files be named and indexed)
+- Where you will store your data while in the field (e.g. hard drives)
+- How you will back up your data in the field (you must store your data in at least 2 places e.g. separate hard drives stored in different locations)
+- Plan for how often / at what point you will transfer + backup data
+- Ensure that you have the equipment required to transfer and store your data while in the field
+
+This data management plan should also include all the info that goes into a standalone data catalog entry form, or the initial data catalog entry from `.yaml` can be drafted at this time and included with the DMP.
+
+### Data Catalog Entry Form (DCEF)
+This Data Catalog entry form will eventually be formatted to a `yaml` to be sent to Garching. 
+Researchers can create/store this info however they want, but creating a `yaml` using our website/Shiny app and updating it in the future will save them time in our department's workflow. I strongly recommend this from the beginning if possible.
+
+Data that should be (propsed, but we need to decide) are recorded in the data catalog entry form are:
+
+1. Project Name (`proj_name`)
+    Projects should have a unique project id associated with them. This could/should be the name on the server folders. We might want to make this a selection from the dropdown menu.
+
+2. People (`person`)
+For each person we should have:
+    1. Name
+    2. Institution 
+    3. Email
+    4. Role 
+        1. PI
+        2. Collaborators
+        3. HIWIs
+        4. Field Assistants 
+        5. Lab Assistant 
+        6. Analyst
+    5. Dates in Field
+    *It might be worth considering having a website, twitter, email or other means of contact as institutions change or if working with folks locally (i.e. WhatsApp or Address)*
+
+3. Locations (`location`)
+    1. Country
+    2. State/Province/Region
+    3. Name of protected area if applicable
+    4. name of research station if applicable
+    4. Lat/Long (need to decide on a format)
+
+4. Species (`species`)
+    1. common name in English
+    2. local name at field site
+    3. Scientific name (*Genus species*)
+
+5. File types (`file_types`)
+    1. .txt
+    2. .csv
+    3. .md
+    4. .yaml
+    5. .json
+    6. .gpx
+    7. .tiff (or other spatial formats)
+    8. .mp4 (or other video formats)
+    9. .mp3 (or other audio formats)
+    10. .pdf (i.e. scans)
+    11. .tex
+
+5. Data Description (`data_description`)
+    1. Behavioral (focal follows, scans, etc., annotations)
+    2. Movement (gps collar, telemetry data, accelerometer)
+    3. Vocalizations
+    4. Ecological (i.e. species, plant surveys, soil samples)
+    5. Climatic 
+    6. Camera Trap
+    7. Spatial (i.e. GPS)
+    8. Drone Imagery
+    9. DNA_samples
+    10. Tissue_smaples
+
+6. Dates (`dates`)
+    1. Field Trip Duration
+    2. Data Collection Duration
+    3. Project Duration
+    
+7. Funding sources
+    1. Grants and Fellowships that contributed to paying for this project or giving researchers salaries.   
+
+8. Intellectual property
+    1. Data owner(s)
+    2. Stakeholders
+    3. Creative commons liscence
+    4. Embargo and justification
+
+9. Tools
+    1. list of special tools/hardware needed to collect data
+    2. list of special software needed to open/access data
+
+10. Research Overview
+    1. research area focus (i.e. movement ecology, bioacoustics, social learning, physiology)
+    2. intended audience
+    3. general goals (a few sentence summary of project goals)
+
+11. Data Management
+    1. Backups (text describing this process and their location)
+    2. Secondary storage sites
+    3. Version comtrol  (i.e. if code used to clean process data or stored in repos, give link to commit)
+
+12. Data narrative
+    1. Any Additional information that will help you understand the data. Free text entry that could be linked to above
+
+## BJB to do-- add a timestamp of creation automajically to DCEF in shiny app
+
+
+## During Data Collection
+DMP and DCEF updated if necessarey. Data is contasntly backed up.
+
+## After Data Collection
+As soon as possible after you return from the field (e.g. your first day back in the office), you should deposit your raw data (in whatever form it is upon your arrival) onto the EAS data server. This should be done at the same time as filling out post-travel paperwork (for reimbursements) and returning / storing equipment. 
+
+#### Process of Initial Data Dump:
+
+1. Upload all of your data into a single folder inside `/EAS_shared/project_folder/working/UPLOADS/` on the server. The name of the folder should be your project name. The data will only be here temporarily while you are organizing it.
+2. Update the Data Catalog Entry form to what will be sent to Garching with the packet of field data
+3. In an overview/admin folder the DMP, DCEF, and any other important documents (i.e. `.txt` files explaining datatable metadata) should get depositef
+3. Let Angie know that this has been updated and share with her the path on the server, and she can access the Data Catalog Entry Form. Angie will check over it, then initiate the process of initial data deposit and let you know when it is completed. Angie will store these Once completed, your data is backed up and you can begin the process of organizing it (without worrying about messing it up, as the raw data will always be recoverable!). 
+
+**Note:** If you have data from multiple projects, you can store them in multiple folders and provide a separate Data Catalog Entry Form for each project.
+
+### Behind the scenes:
+1. Angie checks for completeness of metadata, passes metadata sheet and path to folder to Andreas
+2. Andreas archives folder to Garching. Makes note of ZFS dataset and adds this to metadata sheet.
+3. Andreas uploads metadata document to a version controlled metadata library (e.g. Github repository).
+
+##### A similar process can occur for organized data, which we will update later
+
+## data catalog entry form `.yaml` example
+```yaml
+# Project Metadata: Coiba_Capuchins_2021_07
+project_name: Coiba_Capuchins_2021_07
+person_01:
+  name: Brendan Barrett
+  institute: MPI-AB
+  email: bbarrett@ab.mpg.de
+  role: PI
+  date: 2021-07-14 - 2021-07-27
+person_02:
+  name: Zoë Goldsborough
+  institute: MPI-AB
+  email: zgoldsborough@ab.mpg.de
+  role: PhD Student
+  date: 2021-07-14 - 2021-07-27
+person_03:
+  name: Claudio Monteza
+  institute: MPI-AB
+  email: cmonteza@ab.mpg.de
+  role: PhD Student
+  date: 2021-07-14 - 2021-07-22
+person_04:
+  name: Meredith Carlson
+  institute: UC Davis
+  email: mkcarlson@ucdavis.edu
+  role: PhD Student
+  date: 2021-07-14 - 2021-07-26
+person_05:
+  name: Evelyn del Rosario
+  institute: UC Davis
+  email: delrosarioev@gmail.com
+  role: Field Assistant
+  date: 2021-07-14 - 2021-07-26
+species_1:
+  name_eng: white-faced capuchin monkey
+  name_loc: mono cariblanco
+  name_sci: Cebus imitator
+location_1:
+  country: Panama
+  region: Veraguas
+  park: Coiba National Park
+  field_station: Rancheria
+  lat_log: 7.4264649608 N; -81.7595969616 E
+data_file_type_overview:
+  file_type_1: csv
+  file_type_2: gpx
+  file_type_3: jpg
+  file_type_4: mp4
+  file_type_5: XLSform
+data_description:
+  data_desc_1: Ecological (i.e. species, plant surveys, soil samples)
+  data_desc_2: Camera Trap
+  data_desc_3: Spatial (i.e. GPS)
+  data_desc_4: DNA Samples
+dates:
+  Field Trip: 2021-07-17 - 2021-07-25
+  Data Collection: 2021-07-17 - 2021-12-31
+  Project Duration: 2017-03-20 - 2021-12-31
+funding_sources:
+  fund_1: Max Planck Geschellschaft
+  fund_2: Packard Foundation Fellowship (2016-65130)
+```
+
