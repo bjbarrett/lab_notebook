@@ -569,3 +569,65 @@ funding_sources:
   fund_2: Packard Foundation Fellowship (2016-65130)
 ```
 
+
+## ari ods takehomes
+- keep manifesto somewhere but don't make it interface
+- ODS Wiki Landing page
+    - eas data managemnt and backup
+    - how to server
+    - best practices for file structure/naminhg
+    - research notebooks
+    - version control and git
+    - internal code review
+    - best practices for data management
+    - tips and resources for reproducible data analysis
+    - mission statement
+
+# 11.10.2021
+
+I installed Rstan on desktop!!
+It was a shitshow.
+## Desktop Big Sur 11.6 on 2017 iMac Pro w/ 3.2 ghz 8 core Intel Xeon  W
+1. Delete R, RStudio, and XCode
+2. Install [Homebrew](https://brew.sh/) in Terminal with `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)`
+3. Install Correct Gfortran compiler [gfortran 11.1 for intel](https://github.com/fxcoudert/gfortran-for-macOS/releases)
+4. Install Xcode CLI only from developer website, not app store. I did [Xcode 13](https://download.developer.apple.com/Developer_Tools/Command_Line_Tools_for_Xcode_13/Command_Line_Tools_for_Xcode_13.dmg)
+5. [Install R 4.1.1 package for Intel](https://cran.r-project.org/bin/macosx/) SHA1-hash: d0eed7d0755bc80911acb616508d41e1396f810e
+6. Install R-Studio
+7. I did this by typing `R` in terminal and not using RStudio but follow the instuctions on Stan getting started.
+8. In R session optimize compiler by entering this:
+ ```{r}
+ dotR <- file.path(Sys.getenv("HOME"), ".R")
+if (!file.exists(dotR)) dir.create(dotR)
+M <- file.path(dotR, "Makevars")
+if (!file.exists(M)) file.create(M)
+cat("\nCXX14FLAGS += -O3 -mtune=native -arch x86_64 -ftemplate-depth-256",
+    file = M, sep = "\n", append = FALSE)
+    ```
+9. Remove existing Rstan
+```{r}
+remove.packages("rstan")
+if (file.exists(".RData")) file.remove(".RData")
+```
+10. Type this to instal rstan and dependencies:
+```{r}
+Sys.setenv(DOWNLOAD_STATIC_LIBV8 = 1) # only necessary for Linux without the nodejs library / headers
+install.packages("rstan", repos = "https://cloud.r-project.org/", dependencies = TRUE)
+
+```
+11. I could succesfully run the `rstan` example below, but my personal stan models would result in rstudio crashing. Note this is when I set cores=1 and chains=1 in stan program to try and debug.
+```{r}
+example(stan_model, package = "rstan", run.dontrun = TRUE)
+```
+12. LAstly I build rstan frou=m source and this is what worked
+```{r}
+# Compile packages using all cores
+Sys.setenv(MAKEFLAGS = paste0("-j",parallel::detectCores()))
+install.packages("rstan",type="source")
+```
+Then things worked.
+
+## i have a prof zoom konto
+https://zoom.us/j/3679448512?pwd=ckhjTklsQTJnQi9FbnkwS3licCtHUT09
+brendan.barrett@uni-konstanz.de
+dogcatnumbers
