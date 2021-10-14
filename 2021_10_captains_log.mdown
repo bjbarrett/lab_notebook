@@ -281,6 +281,7 @@ Mondays is discussion part, Thursday Homework part (in most cases).
 - Install: Rstudio, R, rethinking, rstan
 - Link to Richard's youtube account - Watch pre-recorded lectures
 - Send out Zoom-link
+
 #### What to do before the course starts
 - Set up nexcloud folder *Urs*
 - textbook *Urs will put into nextcloud*
@@ -631,3 +632,100 @@ Then things worked.
 https://zoom.us/j/3679448512?pwd=ckhjTklsQTJnQi9FbnkwS3licCtHUT09
 brendan.barrett@uni-konstanz.de
 dogcatnumbers
+
+## ODS wiki
+i did a bunch of modifying and reorganization. I got thru linux server stuff.
+still need to update yaml thing
+
+## Susan meet
+- concerns about measurement error
+- flag not sufficient so work does not have to be redone
+- should we say number of grids OR list possible grids
+- need to get feedback from odd/susan
+- can we do a raster based uncertainy model or isopleth
+- sometimes we know it is a long a river or not in a pasture
+- punt it down the road, but perhaps comparing written record and GPS in early years is food (i think that there will be worse written descriptions in the future)
+- kate says a few mistakes is not that hge (i.e. 2 every 100, but 10 every hundred is)
+
+# 2021.10.12
+ - [ ] Sloanea Model
+ - [x] AmNat Review-- emailed and said i cannot
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] website update
+ - [x] look at bbc nda
+ - [ ] UCSC apps
+ - [x] mail out wildme mou
+ - [x] course survey create
+ - [ ] michael draft go over
+ - [ ] julia models in stan
+ - [ ] cmd stan
+ - [ ] ods yaml
+ - [x] ods server page
+
+
+## exiftool tracey
+sent her an example
+cd /Users/sifaka/Downloads/tmexif_raw 
+In Teraminl
+1. copy raw data from one folder to new destination folder
+`cp -a /Users/sifaka/Downloads/tmexif_raw/. /Users/sifaka/Downloads/tmexif_renamed/`
+2. navigate to new folder
+`cd /Users/sifaka/Downloads/tmexif_renamed`
+3. add a copywrite if you desire and write sifaka name "steve" to folder contents
+="steve" .
+`exiftool -r -overwrite_original -artist="Tracy Montgomery" -copyright="Max Planck Institute of Animal Behavior" -comment="steve" .`
+4. rename file with comment_yyymmmddhhmmss
+`exiftool -r '-filename<${Comment}_${CreateDate}%-c.%e' -d "%Y%m%d%H%M%S" .`
+
+## ODS stuff
+- move git resources and tutorials from here https://github.com/livingingroups/resource_and_tutorials/edit/main/README.md to standalone page on wiki // bjb outsource
+
+## ORDER UNI KONSTANZ
+5678 PARAFILM, 5 CM BREIT, 75 MTR LANG 25,60
+5737 TUBE 15 ML CONICAL
+7044 HANDSCHUHE NITRIL, Starguard Sensitiv (200 ST) 14,50
+https://www.thermofisher.com/order/catalog/product/AM7021#/AM7021
+
+
+# 14.10.2021
+
+
+ - [ ] Sloanea Model
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] website update
+ - [ ] UCSC apps
+ - [ ] michael draft go over
+ - [ ] julia models in stan
+ - [ ] cmd stan
+ - [ ] ods yaml
+ - [x] culture club slack
+## CASCB grant
+12n 128 GB @ 29.99 https://www.mediamarkt.de/de/product/_sandisk-extreme-pro%C2%AE-2513188.html
+2 x google pixel 4 @ 429 euros https://www.mediamarkt.de/de/product/_google-pixel-4-64-gb-oh-so-orange-limited-edition-dual-sim-2602941.html
+
+## DCEF
+ - project name
+    - data chunk/data paket/whateves
+ - [x] country drop down menu
+ - [x] project_name drop down menu
+ - add server path to .yaml
+ - DCEF categories required (filled bullrtd) . empty recommended 
+ - [x] degree decimal lat long
+ - [x] filetypes (remove)
+ - [x] remove project duration. swtich field dates to DMP only
+ - [x] data descroption is a free text
+ - [x] change data description to data type
+ - tools to project read me
+ - research overview changed to keyowrds
+ - keep data narrative
+- project/working/datachunk/
+- FOLDERS, YAML, DMP IF EXISTS
+- after cleaning, ceaned rae data goes goes into arcive raw data
+- cleaned raw data gets archived in archive/raw_data /// yaml gets updated // pushed tp garching
+- for anapysis read from archive
+- what is the point of load, amke it editable
+
+write.csv(test_data , file="/Volumes/EAS_ind/YOUR_FOLDER/test_file.csv")
+
