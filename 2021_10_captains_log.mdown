@@ -689,14 +689,12 @@ https://www.thermofisher.com/order/catalog/product/AM7021#/AM7021
 
 
 # 14.10.2021
-
-
  - [ ] Sloanea Model
  - [ ] Crop Conflict Paper Models
  - [ ] Crop Conflict DAG section
  - [ ] website update
  - [ ] UCSC apps
- - [ ] michael draft go over
+ - [x] michael draft go over
  - [ ] julia models in stan
  - [ ] cmd stan
  - [ ] ods yaml
@@ -710,17 +708,17 @@ https://www.thermofisher.com/order/catalog/product/AM7021#/AM7021
     - data chunk/data paket/whateves
  - [x] country drop down menu
  - [x] project_name drop down menu
- - add server path to .yaml
+ - [x] add server path to .yaml
  - DCEF categories required (filled bullrtd) . empty recommended 
  - [x] degree decimal lat long
  - [x] filetypes (remove)
  - [x] remove project duration. swtich field dates to DMP only
  - [x] data descroption is a free text
  - [x] change data description to data type
- - tools to project read me
- - research overview changed to keyowrds
- - keep data narrative
-- project/working/datachunk/
+ -  tools to project read me
+ - [x] research overview changed to keyowrds
+ - [x] keep data narrative
+- [x] roject/working/datachunk/
 - FOLDERS, YAML, DMP IF EXISTS
 - after cleaning, ceaned rae data goes goes into arcive raw data
 - cleaned raw data gets archived in archive/raw_data /// yaml gets updated // pushed tp garching
@@ -728,4 +726,79 @@ https://www.thermofisher.com/order/catalog/product/AM7021#/AM7021
 - what is the point of load, amke it editable
 
 write.csv(test_data , file="/Volumes/EAS_ind/YOUR_FOLDER/test_file.csv")
+
+# 14.18.2021
+
+## michael meeting
+#noise in payoffs important
+need more notes
+
+# equipment
+https://www.mediamarkt.de/de/product/_otterbox-react-trusted-glass-series-backcover-samsung-galaxy-a72-transparent-2747870.html 2x
+https://www.mediamarkt.de/de/product/_samsung-galaxy-a72-2710600.html 2x
+https://www.mediamarkt.de/de/product/_sandisk-extreme-pro%C2%AE-2513188.html 12x
+
+i sent out rna later and other message too
+
+# sent out email for culture club
+
+# 19.10.2021
+
+## yaml dcef
+dates need work, conolidate 1st 2 field into 1
+
+## urs sent out next email
+got text today will start reading plannign lectures tonight
+
+## zoe meeting
+long and talked about field stuff
+
+ - [ ] Sloanea Model
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] website update
+ - [ ] UCSC apps
+ - [ ] julia models in stan
+ - [ ] cmd stan
+ - [x] ods yaml
+ - [x] email out survey
+
+# 20 and 21 10.2021
+
+I was bad at taking notes. Alot of meetings with Zoe, Meg, and Urs and Stats course logistics. Also some equipment ordering and emails.
+
+# 22.10.2021
+
+ - [ ] Sloanea Model
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] website update
+ - [ ] UCSC apps
+ - [ ] julia models in stan
+ - [ ] cmd stan
+ - [ ] stats lecture slide
+ - [x] zoe meeting
+ - [x] odd chat
+ - [x] exif existing data (i did r1 and r2)
+
+ woof
+
+# 24.10.2021
+ - [ ] Sloanea Model
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] website update
+ - [ ] UCSC apps
+ - [ ] julia models in stan
+ - [ ] cmd stan
+ - [x] stats lecture slide
+
+ Note. do  a single timestep model where individuals have to observe the dristribution of a majority trait. and identidy + freq dep. make it a small pop size, 5, 10, 20, 50, 100. show true value and acquisiion curves, look at postreior mass across sample sizez. change from 2 to 3 boxes 
+
+
+amazon https://www.amazon.de/elements-100-Paracord-Rope-Tear-Resistant/dp/B0895HKMF2/ref=sr_1_2_sspa?dchild=1&keywords=paracord&qid=1635093396&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyNjJQQk5GWFhCWDFRJmVuY3J5cHRlZElkPUEwNTY1MjgwVFpGR1BHWlBQSDY5JmVuY3J5cHRlZEFkSWQ9QTA3NDg2NDYxWkFYMjZNS0laQlBMJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1
+
+https://www.amazon.de/-/en/Kiwifotos-Waterproof-Memory-Storage-Protective/dp/B07Z1S1TS5/ref=sr_1_5?dchild=1&keywords=sd+karten+etui+wasserdicht&qid=1635093108&qsid=257-8129372-4590249&sr=8-5&sres=B00LSS8RDK%2CB07SYPYH5M%2CB07Z1S1TS5%2CB079JYMSSF%2CB087LXWC35%2CB07SYQHNMQ%2CB07Q1NGF3X%2CB01LYOMJ2U%2CB07R5YJJN2%2CB092DCRH2T%2CB07FRY49S2%2CB08YR7WSDC%2CB08H8V1P4L%2CB078WSZTCB%2CB08X29ZBXM%2CB01LWEEDS6&srpt=PORTABLE_ELECTRONIC_DEVICE_COVER
+
+https://www.amazon.de/-/en/Energizer-Ultimate-Lithium-Battery-Pack/dp/B00ZI6CFRM/ref=sr_1_4?dchild=1&keywords=energizer+lithium&qid=1635093271&qsid=257-8129372-4590249&sr=8-4&sres=B00NNRQXLM%2CB00ZI6CFRM%2CB01C30AXCO%2CB004HV3N52%2CB01N06M7ML%2CB0045NXE60%2CB071CGDFWL%2CB01N3XLJBY%2CB00ZI6CJE6%2CB00GSMOUIC%2CB0044P3J2I%2CB086QC3R5B%2CB0044VT5TI%2CB07C28CTM4%2CB07D65HMPY%2CB01ENXLR4C&srpt=BATTERY
 
