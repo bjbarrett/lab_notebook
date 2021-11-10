@@ -802,3 +802,68 @@ https://www.amazon.de/-/en/Kiwifotos-Waterproof-Memory-Storage-Protective/dp/B07
 
 https://www.amazon.de/-/en/Energizer-Ultimate-Lithium-Battery-Pack/dp/B00ZI6CFRM/ref=sr_1_4?dchild=1&keywords=energizer+lithium&qid=1635093271&qsid=257-8129372-4590249&sr=8-4&sres=B00NNRQXLM%2CB00ZI6CFRM%2CB01C30AXCO%2CB004HV3N52%2CB01N06M7ML%2CB0045NXE60%2CB071CGDFWL%2CB01N3XLJBY%2CB00ZI6CJE6%2CB00GSMOUIC%2CB0044P3J2I%2CB086QC3R5B%2CB0044VT5TI%2CB07C28CTM4%2CB07D65HMPY%2CB01ENXLR4C&srpt=BATTERY
 
+
+# 25.10.2021
+
+## ali and shauhin meeting
+social relations models
+DAGs
+
+Chapter 1 (until Columbos mistake): 
+https://www.youtube.com/watch?v=4WVelCswXo4&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI (until Columbos mistake)
+Chapter 2: 
+https://www.youtube.com/watch?v=4WVelCswXo4&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&t=2256s
+https://youtu.be/XoVtOAN0htU?t=2445
+Chapter 3: 
+https://www.youtube.com/watch?v=XoVtOAN0htU&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=2
+Chapter 4: 
+https://www.youtube.com/watch?v=h5aPo5wXN8E&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=3
+
+#why did folks take the course
+- stats newbs wanting to overcome fears
+- overcome of bayesian stats, some more intersted in hiereachical models
+- bayesian stats and details of it, analysis and teaching culture of institute
+- models and coding skills
+- intersted inlearning more statistics
+- apply bayesian stats to more research, fear for time commitment, stats wizard
+- biol and maths
+
+zoe and flutura hester and odd in next week. 
+go through ch 2 do exercises.
+
+# 26.10.2021
+ - [ ] Sloanea Model
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] website update
+ - [ ] UCSC apps
+ - [ ] julia models in stan
+ - [ ] cmd stan
+ - [ ] request forms cascb grant
+ - [ ] agouti activity plot
+
+ - at capcity
+ - blindsided
+ - communication to meg and you. offered my best but meg said it wanst good enough
+ - doesnt agree with it being a baby, its  job
+ - meg asking if you can do fieldwork // yes/no
+
+# 27.10.2021
+Tobi sick. split sessions I took bad notes but did course prep and admin and ordered equipment off of grant. I also met with Anne and discussed Michael paper.
+
+# 28.10.2021
+Home all day with Tobi, I taught stats at night.
+
+# 29.20.2021
+ - [ ] Sloanea Model
+ - [ ] Crop Conflict Paper Models
+ - [ ] Crop Conflict DAG section
+ - [ ] website update
+ - [ ] UCSC apps
+ - [ ] julia models in stan
+ - [ ] cmd stan
+ - [ ] request forms cascb grant
+ - [ ] agouti activity plot
+
+ I sent michael an email summarizing anna and my's talk.
+

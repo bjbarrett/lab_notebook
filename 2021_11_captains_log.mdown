@@ -1,0 +1,135 @@
+# 01.11.2021
+ Applyimng for snail collecting permit. 
+ Instructions [here](https://stri.si.edu/plan-your-visit/scientific-research-permits/miambiente-request-permit) in steps 3-6.
+ We need special approval in Coiba.
+### English
+ This permit addendum is for an experiment that will result in up to 3 publications exploring the adaptive significance of tool use by Coiban capuchins to open up marine snails. We have been relying on camera traps to observe capuchin behavior opening up structurally protected food-- primarily Terminalia catappa. However capuchin populations also open up marine snails, Nerita scabricosta, both with and without stone tools. This behavior is near possible to observe with camera traps, as it appears in the intertidal zone, and they cannot be reliably mounted. Nerita scabricosta snails require 1.1 kN of force to open (Laidre et al, 2012; Royal Society Interface) and they can live out of saltwater for up to 2 months. Another edible snail species, Vasula melones, lives slightly deeper in the intertidal zone and requires an estimated 5kN of force to open. These cannot be opened using hammerstones by capuchins. Both snails are common and abundant in Veraguas. We hope to set up experimental hammerstone and anvils inland in front of camera traps alongside a snail escape-proof container to answer the following questions:
+1. Does tool use increase the efficiency of Nerita scabricosta processing  in tool-using populations compared to non-tool using populations of capuchins
+2. Are capuchins selective about hammerstone properties such as weight or anvil properties (wood or stone) when choosing stone tools to process snails?
+3. When resource properties change and tool-use is no longer effective, do capuchins show behavioral conservatism or are they able to flexibly switch and open up new resources? If they have to switch, how do they learn to do so and do we see age differences in conservatism?
+In Phase 1 of our experiment we will provision 4 groups of capuchins on Jicaron and Coiba (2 tool using; 2 non-tool using) with containers of 200 snails each at 3 experimental anvils. Two of these anvils will be stone amd one will be wood. At each anvil, we will provide 4 hammerstones weighing 250, 500, 1000, and 2000 g each. At each anvil, we will place 3 time synced camera traps to record behavior. We will provision anvils with snails twice in January 2020, depending on depletion rate inferred from camera trap data. 
+
+If Phase 1 is successful, we will then being Phase 2. We repeat the experiment  in Phase 1 at the same location with the harder to open Vasula melones snails. This would be conducted in June 2022 and/or December 2021/January 2022.
+
+### Spanish 
+Esta adición al permiso es para un experimento que dará lugar a un máximo de 3 publicaciones que exploran el significado adaptativo del uso de herramientas por parte de los capuchinos Coiban para abrir caracoles marinos. Hemos estado confiando en las cámaras trampa para observar el comportamiento de los capuchinos abriendo alimentos estructuralmente protegidos - principalmente Terminalia catappa. Sin embargo, las poblaciones de capuchinos también abren caracoles marinos, Nerita scabricosta, con y sin herramientas de piedra. Este comportamiento es casi posible de observar con cámaras trampa, ya que aparece en la zona intermareal, y no se pueden montar de forma fiable. Los caracoles Nerita scabricosta necesitan 1,1 kN de fuerza para abrirse (Laidre et al, 2012; Royal Society Interface) y pueden vivir fuera del agua salada hasta 2 meses. Otra especie de caracol comestible, la Vasula melones, vive a mayor profundidad en la zona intermareal y se estima que necesita 5 kN de fuerza para abrirse. Los capuchinos no pueden abrirlos con piedras de martillo. Ambos caracoles son comunes y abundantes en Veraguas. Esperamos instalar martillos y yunques experimentales en el interior frente a las cámaras trampa junto a un contenedor a prueba de escapes de caracoles para responder a las siguientes preguntas:
+1. ¿El uso de herramientas aumenta la eficiencia del procesamiento de Nerita scabricosta en las poblaciones que usan herramientas en comparación con las poblaciones de capuchinos que no las usan?
+2. ¿Son los capuchinos selectivos en cuanto a las propiedades de la piedra de martillo, como el peso o las propiedades del yunque (madera o piedra), cuando eligen herramientas de piedra para procesar caracoles?
+3. Cuando las propiedades de los recursos cambian y el uso de herramientas deja de ser efectivo, ¿los capuchinos muestran un comportamiento conservador o son capaces de cambiar de forma flexible y abrir nuevos recursos? Si tienen que cambiar, ¿cómo aprenden a hacerlo y vemos diferencias de edad en el conservadurismo?
+En la fase 1 de nuestro experimento aprovisionaremos 4 grupos de capuchinos en Jicarón y Coiba (2 que usan herramientas; 2 que no usan herramientas) con contenedores de 200 caracoles cada uno en 3 yunques experimentales. Dos de estos yunques serán de piedra y uno de madera. En cada yunque, proporcionaremos 4 piedras de martillo de 250, 500, 1000 y 2000 g cada una. En cada yunque, colocaremos 3 cámaras trampa sincronizadas para registrar el comportamiento. En enero de 2020, se suministrarán caracoles a los yunques dos veces, dependiendo de la tasa de agotamiento deducida de los datos de las cámaras trampa. 
+
+Si la Fase 1 tiene éxito, entonces será la Fase 2. Repetimos el experimento de la Fase 1 en el mismo lugar con los caracoles Vasula melones más difíciles de abrir. Esto se llevaría a cabo en junio de 2022 y/o diciembre de 2021/enero de 2022.
+
+Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
+
+
+### English 
+Since 2017, we have been conducting research on stone tool-use and foraging innovations by capuchins on the islands of Jicaron (Barrett et al., 2019, Royal Society Open Science) and Coiba (Monteza-Moreno. et al, 2020,  International Journal of Primatology). Coiban capuchins are the only monkeys of the genus Cebus in the world that habitually use stone tools to extract structurally protected resources. This behavioral his highly localized and is likely to be a socially learned cultural tradition (Barrett et al, 2017; Proceedings-B). They are also highly terrestrial and investigative (Monteza -Moreno. et al, 2020; Journal of Human Evolution) likely due to their reduced predation pressure compared to mainland capuchin populations. For these reasons, and the fact that we can observe stone tool use and tool-site formation in real time, this population of capuchins is of great use as a comparative system to understand human evolution and help us make inferences about stone tool use by early hominins.
+
+### Spanish
+
+
+# 02.11.2021
+
+# 08.11.2021
+
+- [ ] primate grant review
+- [x] hammiock stuff
+- [x] order collation
+- [ ] boat info
+- [x] python order contact
+- [ ] stats homeowrk
+- [x] kate meet
+- [x] urs meet
+- [ ] meg list
+- [x] angie contact
+- [ ] Sloanea Model
+- [ ] Crop Conflict Paper Models
+- [ ] Crop Conflict DAG section
+- [x] UCSC apps
+- [ ] julia models in stan
+- [ ] cmd stan
+- [x] request forms cascb grant
+- [ ] agouti activity plot
+- [ ] vorschalg
+- [ ] key email
+
+```{r}
+library(dplyr)
+library(lubridate)
+d <- read.csv("/Users/sifaka/Downloads/coiba-national-park-tool-use-20211013101430/observations.csv")
+d$ann_month <- month(as_datetime(d$classification_timestamp))
+d$ann_year <- year(as_datetime(d$classification_timestamp))
+d$ann_year_month <- paste(d$ann_year,d$ann_month,sep='_')
+dz <- d[d$classified_by=="Zoë Goldsborough",]
+dd <- within(dz, { count_person <- ave(sequence_id, ann_year_month, FUN=function(x) length(unique(x)))})
+table(dd$count_person,dd$ann_year_month)
+
+library("dplyr")
+t <- as.data.frame(d %>% group_by(classified_by, ann_year_month) %>% summarize(count=n()))
+t$ann_year_month_index <- as.integer(as.factor(t$ann_year_month))
+
+plot(t$ann_year_month , t$ann_year_month_index)
+table(t$count)
+
+```
+
+# 09 Nov 2021
+People have been seeming to have troubles with posterior predictive distributions, both conceptiually and with figure 3.6 on page 65 so I thought I woudl try to give a better stab at explianing it.
+
+The top graph labeled posterior probability is the posterior distribution you calculated repeatdly using grid approximation with the 6/9 globe tossing data, incliuding in section 3.1. This is the posterior for the parameter $p$. Note it is a continuous variable between 0 as 1.
+
+the middly graph is showing the sampling distribution for 9 chosen values of p.
+For example, if $p=0.1$ that histogram visualizes the likelihood that 0,1,2,3,4,5,6,7,8,9 water samples are chosen vial all the pathwys on the garden of forking data. Note the histrograms are highest near 1/2/3 and lowest closer to 9 as those events are improbable.
+
+When you are using grid approximation, you estimate these sampling distributions for a finitie number of values of $p$ on the grid.
+
+Combining the posterior prediction for  the paremter $p$ with the sampling distibutions for the all the ways (the forking paths) theat each value of p can generate a globe toss with observations of 0,1,2,3,4,5,6,7,8,9 waters gives you the posterior predictive distribution at the bottom. The posterior predictive distribution is predictions from the model on the measurementscale (i.e number of water samples in 9 globes toss). It is wider, and more uncertain than p because less likely values of $p$ in the posterior probabilty can still give rise to the observed data, thus flattening and spreading out the distribution relative to the posterior probability.
+
+I think it is easy to see equivalence between the posterior probability and the posterior predictive distribution in the example as it is so simple, yet binomials are not always intuitive.
+
+If you are cofortable with linea regression, imagine that the slope and intercept parameters each have their own posterior distribution, the also have unique samlping distributions that can give rise to the observed data. You can then plot the joint implied posterior distribution implied by both parameters. These are the spaghetti plots you may have (and will see) where you can plot many predictionns from different draws of the posterior when seein how x predicts y. This may make more sense in the next chapter, so stay tuned.
+
+Figure 3.6 and 3.7 are related to model checking. The first is using a more general tool, posterior predictive simulations to look at the predictions implied by model. these can be plotted against raw data. The second shows two ways to visualize the posterior that can help us criticize the model and its assumptions. This is mode, question, and taxon specific.
+
+# 10 Nov 2021
+
+- [ ] primate grant review
+- [ ] boat info
+- [ ] stats homeowrk
+- [ ] meg list
+- [ ] Sloanea Model
+- [ ] Crop Conflict Paper Models
+- [ ] Crop Conflict DAG section
+- [ ] julia models in stan
+- [ ] cmd stan
+- [x] agouti activity plot
+- [ ] vorschalg
+- [x] key email
+- [ ] slides for evaluation ODS
+- [ ] DMP template
+- [x] zoe meg meeting
+- [ ] dcef page
+
+https://docs.google.com/presentation/d/1W7Hb5lCvV6a7ddH5kv7uYxRelq16b2rW_Vbikj9TdSA/edit#slide=id.gfc31a8aa40_3_0
+
+https://docs.google.com/document/d/1bY76SfCv-T3Hih5_EwBICcLWwgdId5mTJIOZTn1C1RQ/edit
+
+
+
+# Data Management Plan Coiba Capuchins Des 2021-Jan 2022
+
+## Project Overview
+### Project Name and Server Folder
+coiba_capuchin om `10.126.19.90/EAS_shared/capuchin_coiba/working/newdata/capuchins_coiba_dec_2021_jan_2022 
+
+### Goals of Field Trip
+The goals of this 18 day (in total) field trip are to:
+1. Continue baseline camera trap data collection and collect old data
+2. Set up baseline phase on Nerita scabricosta and material selectivity experiment for ZG dissertation
+3. Evaluate effectiveness of modified camera sampling protocol
+4. Conduct rnormal archaeological surveys
+5. get Mereedith Carlosn out to Coiba to get material availability data, set up her accumulation studies, and see site
+6. Have Tamara measure material hardness in fields an collect hair and food for isotope and nutrient analysis
+
+
