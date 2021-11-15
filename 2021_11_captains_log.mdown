@@ -197,19 +197,16 @@ Sample info is recorded into personal notebooks, and uploaded to a Google Doc an
 Get Tamara's Input
 
 ## Data Organization
-- camera_trap
-    - R10
-        - location folder
-- gpx
-- stone_tools
-    - kobo_collect
-        - images
-- images
-    - person1
-    - person2
-- csvs
-    - dna_data
-    - 
+```{bash}
+ ls -l /Volumes/EAS_shared/capuchin_coiba/working/newdata/capuchins_coiba_dec_2021_jan_2022
+total 160
+drwx------  1 sifaka  staff  16384 Nov 15 12:11 camera_trap_data
+drwx------  1 sifaka  staff  16384 Nov 15 12:11 csvs
+drwx------  1 sifaka  staff  16384 Nov 15 12:11 gpx
+drwx------  1 sifaka  staff  16384 Nov 15 12:12 images
+drwx------  1 sifaka  staff  16384 Nov 15 12:11 stone_tool_data
+```
+)
 - Camera Traps Data Gets Stored in it own folder with each camera containing a subfolder
 Tool Data Is stored in a sub folder containing Kobo Collect forms and output as well as material avaialbilty `.csv`.
 ## Data Backup Plan
@@ -382,6 +379,8 @@ modified_at_utc:
 - 2021-10-19 10:37:42
 ````
 
+## meg meeting grant notes
+
 ploe injector and squeeze trap
 subdermal hydration in habitat, thermoregulation and other drugs telozol is an issue
 sudration
@@ -390,3 +389,25 @@ ketamine seems high in a trap 5mg/kg in baboons and coatis
 eye hydration
 charlie janso 3 years for platfomes
 biodegradable weak point that will rot though
+
+
+
+
+# 15.11.2021
+ SR hwk
+ 4E1,4E2,4E3,4E4,4E5,4M1,4M2,4M3
+
+- [ ] primate grant review
+- [ ] boat info
+- [x] stats homeowrk
+- [x] meg list
+- [ ] Sloanea Model
+- [ ] Crop Conflict Paper Models
+- [ ] Crop Conflict DAG section
+- [ ] julia models in stan
+- [ ] cmd stan
+- [ ] vorschalg
+- [x] slides for evaluation ODS
+- [ ] DMP template
+- [x] dcef page
+
