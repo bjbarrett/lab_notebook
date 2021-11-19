@@ -411,3 +411,30 @@ biodegradable weak point that will rot though
 - [ ] DMP template
 - [x] dcef page
 
+## 17 Nov 2021
+I was in Moeggigen working with Julia on her dissertation data.
+At night i worked on information theory of multinomial data stuff.
+
+## 18.11.2021
+I got boat confirmation, worked on Jula models, did a meeting with Micahel ame Lucy and Anne, had culture club, and recieved some equipment.
+## Michael meeting notes
+- brendan needs to go over stan model and graphs
+- it became more of a methodological caveat paper.
+- I taught stats
+
+## 19.11.2021
+- [ ] primate grant review
+- [ ] boat info
+- [ ] Sloanea Model
+- [ ] Crop Conflict Paper Models
+- [ ] Crop Conflict DAG section
+- [ ] julia models in stan
+- [ ] cmd stan
+- [ ] vorschalg
+- [x] open data interview
+
+Alternative to Trimble r1?
+
+https://globalgpssystems.com/stonex-s580/
+
+## I made some graphs for dags
