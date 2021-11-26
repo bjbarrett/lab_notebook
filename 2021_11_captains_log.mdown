@@ -477,6 +477,27 @@ https://maxonamerica.com/product/ts-3000/
 airbnb. 31st to 4th santiago
 hotel galeria 27th to 28th. 2 people.
 
+## 24 nov 2021
+tobi sick. i ordered tons of shit and dealt with cluster paperwork and got reconyx quotes. 
+we can get 2 stonex gps thru cluster.
+
+## 25 nov 2021
+- [ ] primate grant review
+- [x] boat info
+- [ ] Sloanea Model
+- [ ] Crop Conflict Paper Models
+- [ ] Crop Conflict DAG section
+- [x] julia models in stan
+- [ ] cmd stan
+- [x] vorschalg
+
+
+moar paperwork, we got snail permit approval, met with odd and zoe about stuff.
+STRI trip requests were submitted..
+
+did ilv plots for frequency depdndent learning for julia. nothing huge or noteworthy
+
+emailed pedro and evelyn
 
 
 
