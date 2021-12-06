@@ -1,0 +1,43 @@
+# 01.12.2021
+ 
+- [ ] Sloanea Model
+- [ ] Crop Conflict Paper Models
+- [ ] Crop Conflict DAG section
+- [ ] cmd stan
+- [x] ch 5 hwk
+- [ ] Julia rank models and sex models fit?
+- [x] start sims for MEE paper
+
+# 02.12.2021
+- [ ] Sloanea Model
+- [ ] Crop Conflict Paper Models
+- [ ] Crop Conflict DAG section
+- [ ] cmd stan
+- [x] ch 5 hwk finish
+- [ ] Julia rank models and sex models fit?
+- [x] continue sims for MEE paper
+- [ ] Michael EWA
+- [ ] IPS talk
+- [ ] Car rental coiba
+- [x] Hotel Coiba Zoe 28th
+- [ ] final coiba shuttle stuff
+- [ ] poop export permits
+
+# 03.12.2021
+result solid! r crashing is an issue though.
+
+# 06.12.2021
+ODS Meeting
+1. Landing Page and Tour
+2. Need Work Git Tutorial, best practices, and Project Read Me and voluneteer
+3. Limotations of wiki (can only version control extermal files, not wiki itsself)
+4. best practives
+5. final home format
+6. requirements
+
+## existing without a single person, not depnding on a single person // making it automatic // oversite or job sharing //
+require dmp any format
+require dcef as yaml
+readd project readme to folder
+require it being reproducible, another person does it. eexceptions for insane things. senior author should be responsible for this. credit code reviewer in paper.
+add that to the landing page

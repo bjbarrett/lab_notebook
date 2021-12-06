@@ -499,5 +499,19 @@ did ilv plots for frequency depdndent learning for julia. nothing huge or notewo
 
 emailed pedro and evelyn
 
+## 29 Nov 2021
+- mostly stats prep, purchasing and paperwork
+- snail permit got approved
+- found a cool snail paper showing nerites come UP at high tide
 
+- [x] primate grant review
+- [ ] Sloanea Model
+- [ ] Crop Conflict Paper Models
+- [ ] Crop Conflict DAG section
+- [ ] cmd stan
+- [x] zoe meet
+- [ ] ch 5 hwk
+- [x] sab practice
+- [x] multinom thing
+- [ ] Julia rank models and sex models fit?
 
