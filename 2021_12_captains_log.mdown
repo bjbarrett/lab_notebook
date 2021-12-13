@@ -41,3 +41,37 @@ require dcef as yaml
 readd project readme to folder
 require it being reproducible, another person does it. eexceptions for insane things. senior author should be responsible for this. credit code reviewer in paper.
 add that to the landing page
+
+## 07.12.2021
+
+# 08.12.2021
+
+ODS meeting
+Project ReadMe will be more fully fleshed out
+Kosmas and Tracy and Ari and Kat
+Feel Free to add to best practices and resources
+need a volunteer to do version control and git
+
+# 13.12.2021
+Tobi was sick all last week, so I was shit at keeping notes.
+I need to do a lot of admin, as always.
+- [ ] Sloanea Model
+- [ ] Crop Conflict Paper Models
+- [ ] Crop Conflict DAG section
+- [ ] cmd stan
+- [ ] Julia rank models and sex models fit?
+- [ ] continue sims for MEE paper
+- [ ] Michael EWA
+- [ ] IPS talk
+- [x] Car rental coiba zoe
+- [ ] final coiba shuttle stuff
+- [ ] poop export permits
+- [ ] DNA tubes
+- [x] finish coiba schedule
+- [ ] contact boat dude and eliezer
+- [ ] give evelyn dates
+- [ ] odd permit
+- [ ] Car rental coiba brendan
+- [x] uni travel form
+
+
