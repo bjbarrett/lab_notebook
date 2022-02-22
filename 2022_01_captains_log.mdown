@@ -39,7 +39,7 @@ SO far Cesar, Kat, Urs and Zoe expressed interest in calss
 # 26.01.2022
 -[ ] Finish IJoP REview
 -[x] Go thru email
--[ ] backup photos
+-[x] backup photos
 -[ ] finish server backup
 -[ ] zoe recipts
 -[x] email erica and thibaud
@@ -49,3 +49,41 @@ SO far Cesar, Kat, Urs and Zoe expressed interest in calss
 -[ ] sloanea MS
 -[ ] julia EWA finish up stuff
 -[ ] brendan receipts
+
+# 27.02.2022
+
+# 28.01.2022
+-
+# 29.01.2022
+I worked on sims for conform paper
+
+# 31.01.2022
+-[ ] interaction coiba summary
+-[ ] ch 11 read and code
+-[ ] ch 11 lecture
+-[ ] pick up sims
+-[ ] outline tommorrow problems
+-[ ] Finish IJoP REview
+-[ ] finish server backup
+-[ ] zoe recipts
+-[ ] ch 11 read and presentation
+-[ ] fieldwork summary 
+-[ ] recipets for boats and field assistants
+-[ ] sloanea MS
+-[ ] julia EWA finish up stuff
+-[ ] brendan receipts
+
+YAML changes
+- add postdoc
+- sever adress 2nd field, is it final 2 fields (current and final) or working and archive
+
+ textutil -convert tex /Users/sifaka/Downloads/Tiedeman-Field_methods_RSE_12_2021.docx 
+ -stdout | pandoc -s -f html -t latex -o Tiedeman-Field_methods_RSE_12_2021.tex
+
+  textutil -convert html /Users/sifaka/Downloads/Tiedeman-Field_methods_RSE_12_2021.docx 
+  | pandoc -s -f html -t latex -o Tiedeman-Field_methods_RSE_12_2021.tex
+
+  pandoc /Users/sifaka/Downloads/Tiedeman-Field_methods_RSE_12_2021.docx -o /Users/sifaka/Downloads/Tiedeman-Field_methods_RSE_12_2021.tex
+
+
+

@@ -1,0 +1,56 @@
+# 01.02.2022
+I spent most of day fucking with C++ on computer at home. No avail.
+
+## Ari says 
+YAML changes
+- add postdoc
+- sever adress 2nd field, is it final 2 fields (current and final) or working and archive
+
+# 02.02.2022
+-[x] interaction coiba summary
+-[ ] pick up sims
+-[x] outline tommorrow problems
+-[ ] Finish IJoP REview
+-[ ] finish server backup
+-[ ] zoe recipts
+-[ ] ch 11 read and presentation
+-[ ] fieldwork summary 
+-[ ] recipets for boats and field assistants
+-[ ] sloanea MS
+-[ ] julia EWA finish up stuff
+-[ ] brendan receipts
+
+## Ari says 
+YAML changes
+- add postdoc
+- sever adress 2nd field, is it final 2 fields (current and final) or working and archive
+
+## Pandoc
+Code to convert .doc to .tex for kate.
+There is something calls antiword that seems useful and helps with formatting\
+pandoc /Users/sifaka/Downloads/Tiedeman-Field_methods_RSE_12_2021.docx -o /Users/sifaka/Downloads/Tiedeman-Field_methods_RSE_12_2021.tex
+
+do thermal trackers measure animals or environment and can that be used for acc/gps data. grooming snuggling
+
+gaussian proceses models to look at socail distance?
+
+predictor variable output of sleep model-- use the whole model.
+
+# 03.02.2022
+met with zoe she seems to nake good progress.
+
+# 04.02.2022
+worked on sims for multinom paper. it seems that middle entropy distributions are favored, which are more common as k increases.
+
+# 07.02.2022
+
+Read Stats Chapter and Prepped Lecture
+
+# 08.02.2022
+worked on entropy project multinom and did log graph for new simulations
+
+# 09.02.2022
+
+## 13.3 chaptwer in bunny ecology book for odd
+- range vs. occurence (where an animal went given known observTIONS) is very important and dependes on the question of interedt
+- often times there is a desire to check for asymptoting area over time. we actually want to see if/when it shifts
