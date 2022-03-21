@@ -1,0 +1,122 @@
+# 01.03.2022
+
+I worked on multinomial paper a bunch and shared it.
+Still need to make a brief presentation and comsider the entropy or acquisition curve graphs or proof.
+https://sharelatex.gwdg.de/project/621e256d0a4a89008e7d233f
+
+Met with Zoe and we talked about plans and her updates
+
+Met with Jake, He seemed to think the estiating body size task was impossible.
+I should talk with Hemal when he is back.
+U shared a leopard paper with them.
+
+Talked with Julia-- Here is a link to her stuff:
+https://www.overleaf.com/project/61c1c77b5878e0ea3a0d3330
+
+
+# 02.03.2022
+
+-[ ] finish server backup
+-[ ] fieldwork summary 
+-[ ] sloanea MS
+-[ ] julia EWA finish up stuff
+-[ ] coiba receipts
+-[ ] join sortee (need credit card)
+-[ ] bump snake paper forward
+-[ ] tza paper read through
+-[ ] in reach doc
+-[ ] MoU Follow up 
+-[x] shipping stone tools TO LEIPZIG
+
+9:00-10:02 ADMIN
+10:02-12:00 SL paper
+12:00-12:30 lunch and shipping stone tools
+12:30-1:30: Therapy
+1:30-2:00: inreach
+2:00-3:00 Lab meeting
+15:00 - 16:30 paper
+
+## Multinomial Paper
+Acquisition Curive Plots. I made these but these seem stupid if K > 2 as each curve dependes uon the distribution of the simplex.
+
+Started Working om
+
+#03.03.2021
+9:25-9:30 coffee getting ready
+9:30- prepping for presentation
+
+## Multinomial model paper
+- add multiple state traits in CSF to refsv
+- B+R allude to cultural transmission with multiple charachters and discuss covariance between multiple characters arising as it related to the evolution of indirect bias
+### questions for lab
+- is something wrong or unclear
+- is this enought to be astandalone paper?
+- did the table make sense or do you need it visually?
+- thoughts on I or We
+- acquisition curves?
+- would a formal derivation of this be useful or is it not necessary for the audience (i.e. that adding more buckets trims out all the ways a distribution could happen)
+- note about middling entropie being more common and their suitability in identifying
+- simuataion individuals have same od diff popsize
+### suggestions
+-talk about correlated traits, and hierarchical categorization, and also direct biases
+-too many lines in figure, make it fewer categories
+-no one said anything about acquisition curves
+-colors gradient? check otherwise
+-others said go with second option
+-hierarchical cognition literature
+- match to sample
+
+# 04.03.2022
+-[ ] finish server backup
+-[ ] fieldwork summary 
+-[ ] sloanea MS
+-[ ] julia EWA finish up stuff
+-[ ] coiba receipts
+-[ ] join sortee (need credit card)
+-[ ] bump snake paper forward
+-[ ] tza paper read through
+-[ ] in reach doc
+-[ ] MoU Follow up 
+-[x] shreya review 
+
+9:00-9:29: admin zoe convoes, review shreya paper, coffee
+9:29-10:10: xourse emails slack shit
+
+
+
+# 15.03.2022
+I have been bad at doing this. For the past week I have submitted that multinomial MS, worked on garmin inreach thing, and been making lots of progress on julia results.
+
+Today:
+9:00-9:29: fuck around, coffee, emails, back up tidelapse 03 to server
+9:29-10:10 :lab notebook
+10:10-12:15: julia models cmdstan and pee
+12:15-13:01: lunch and work on models
+13:01-14:02: zoe meeting
+14:02-14:15: bathroom and coffee
+-[ ] finish server backup
+-[ ] fieldwork summary 
+-[ ] sloanea MS
+-[ ] julia EWA finish up stuff
+	-[ ] modify all models for age/sex stuff
+	-[ ] run models on server
+-[ ] coiba receipts
+	-[ ] tape to paper
+	-[ ] spreadsheet
+	-[ ] email uni
+-[ ] bump snake paper forward
+	-[ ] find new journal and contact evelyn/claudio
+-[ ] tza paper read through
+-[ ] in reach doc
+-[ ] MoU Follow up
+-[x] email abut stats course
+	-[x] form
+	-[x] email students
+-[x] zoe meeting
+-[x] office number uni email
+
+## Julia paper
+I ran model with groups and interactions for age/sex class for individual learning and bias for individual learning.
+I need to add new initial attraction scores fo demonstrators.
+should psi vary for groups?
+
