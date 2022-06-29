@@ -1,0 +1,55 @@
+# 7 June 2022
+I have been very bad at lab notebooks. 
+
+## State of Fecal Transports
+-[ ] need pty to de import permit for gisela
+-[ ] need to follow up/ wait to hear back from others RE leipzig to konstanz poop transfer
+-[ ] need pty to de poop export
+-[ ] need pty to canada poop export
+-[ ] need de to canada hair transfer
+-[ ] follow up with jessica emails
+
+# 10 June 2022
+## State of Fecal Transports
+-[x] need pty to de import permit for gisela (email sent to freiburg)
+-[x] need to follow up/ wait to hear back from others RE leipzig to konstanz poop transfer
+-[ ] need pty to de poop export
+-[ ] need pty to canada poop export
+-[ ] need de to canada hair transfer
+-[x] follow up with jessica emails
+
+## State of Panama/Coiba Trip
+
+# 20 June 2022
+-[x] need to follow up/ wait to hear back from BW re leipzig poop
+-[ ] awaiting PTY followup email
+-[ ] need boat information from ernest
+-[x] order christian batteries and order coiba lithium batteries
+
+## 29 Jun 2022
+Poop samples arrived in Konstanz today and were handed off to Gisela. 
+
+i indexed files on hard drive of jpgs. code below
+```
+find /Volumes/Coiba\ Image\ Data/raw_data/R1 -type f -name "*.JPG"| cut -d/ -f2 | sort | uniq -c
+find /Volumes/Coiba\ Image\ Data/raw_data/R2 -type f -name "*.JPG"| cut -d/ -f2 | sort | uniq -c
+find /Volumes/Coiba\ Image\ Data/raw_data/R3 -type f -name "*.JPG"| cut -d/ -f2 | sort | uniq -c
+find /Volumes/Coiba\ Image\ Data/raw_data/R4 -type f -name "*.JPG"| cut -d/ -f2 | sort | uniq -c
+find /Volumes/Coiba\ Image\ Data/raw_data/R5 -type f -name "*.JPG"| cut -d/ -f2 | sort | uniq -c
+find /Volumes/Coiba\ Image\ Data/raw_data/R6 -type f -name "*.JPG"| cut -d/ -f2 | sort | uniq -c
+find /Volumes/Coiba\ Image\ Data/raw_data/R7 -type f -name "*.JPG"| cut -d/ -f2 | sort | uniq -c
+find /Volumes/Coiba\ Image\ Data/raw_data/R8 -type f -name "*.JPG"| cut -d/ -f2 | sort | uniq -c
+find /Volumes/Coiba\ Image\ Data/raw_data/R9 -type f -name "*.JPG"| cut -d/ -f2 | sort | uniq -c
+find /Volumes/Coiba\ Image\ Data/raw_data/R10 -type f -name "*.JPG"| cut -d/ -f2 | sort | uniq 
+```
+
+## 30 Jun 2022
+-[ ] send off panama forms
+-[ ] get dinner reervation
+-[ ] read over tza conflict paper
+-[ ] read over proc b reviewer comments
+-[x] email about meeting location stri
+-[ ] follow up on wildme
+-[ ] reviwer comments mee
+-[ ] look over amanda's grad students method
+-[x] organize gwen reimburse reciepts

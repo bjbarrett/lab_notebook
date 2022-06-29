@@ -1,0 +1,64 @@
+# 6 May 2022
+I have been very bad at lab notebooks. 
+
+## Amanda Melin Email
+
+Hi Amanda--
+
+I figure I would write a quick summary of my questions and our site to structure meeting on monday.
+
+## Background
+Aside from being tool-users there are many unique/interesting things about this Coiba population (particularly on Jicaron). There are 3 islands with capuchins on them (Coiba, Jicaron, and Rancheria). There are no terrestrial predators, they are hyper terrestrial (i.e. naps on the ground with infants at 6 PM and not infrequent tool use before and after sunrise/sunset). On Jicaron the are at VERY high population densities. Tool use on Jicaron seems almost entirely male biased (we have one observation of a random female not in the tool use group using tools), and it is localized to one group/site on coast. Groups seem tolerant (i.e. I have seen 2 groups at the same time along the coast that are not intergrouping or threatening each other. I also rarely hear lost calls for an island filled with monkeys.
+
+Males on Jicaron seem very tolerant and social (i.e. an adult male will have a coconut in his lap and let other adult males eat out of it), females are often solo and do seem not very social compared to Lomas. Individuals (and the group) are often spread far apart.
+
+On Coiba, the tool using group we found is comprised of male and female tool-users. They open up a lot more freshwater molluscs than the Jicaron population. 
+
+All coastal population exploit coastal resources, tool use helps with snails and almendras the most. They have been isolated from mainland for a minimum of 15k year with Jicaron being isolated potentially longer.
+
+## Genetic Collections
+These are unhabituated groups, but when we see them we do find poop-- we just often cannot link it to an individual. We have collected 81 DNA samples so far-- a combination of hair and feces. <= 5 mL of Feces are put in 5 mL of RNALater and stored at room temp. Hair is collected using traps with double sided tape baited with quail eggs, tweezered off, and stores at room temperature in an envelope. We get 2-20 hairs per trap, hoping we can extract DNA from the bulb as has been done with Sapajus. Jessica Lynch Alfaro has had some of our samples since 2020 to estimate divergence times, but has just finally gotten around to sending them off to a lab with a PhD student who was able to extract DNA from feces. They had no luck with hair, but might try later with less high stakes samples collected at BCI or a zoo. We have 21 samples stored in Leipzig at Linda Vigilant's lab, and can export to Germany relatively easily and get samples to Konstanz. However due to politics and personnel hiring and lab space, Linda has not been able to get anyone to analyze them. There are 29 samples in Panama and we will have more to ship come July.
+
+They have not yet had success with extracting DNA from hair strands, but if we can do this we could get very good sampling with enough person effort. Setting up hair traps with alot of people across a large area is possible, but requires time and person effort.
+
+## Questions
+1. What is taxonomic status of Coiban capuchins (this would be with Jessica Lynch Alfaro) and estimated divergence time from mainland. Also general questions about inbreeding.
+
+2. Do increased population density, resource limitation, and reduced intergroup conflict change the dispersal tendency in capuchins (i.e. to unbiased, or female biased)? Can we get signatures of dispersal tendency from DNA? Males seem more social, females less so in the Jicaron groups. If females disperse and males are philopatric, might this explain localization of a potentially adaptive tradition? Theory is all over the place with this and how this is affected is subtle, but decreased aggression, high pop density, lower infant mortality, and resource limitation can favor a shift in dispersal tendency. If we see a change in dispersal tendency, this would greatly affect the direction of our project.
+
+3. Do we see evidence of selection for traits related to terrestriality, tool-use, or coastal diets? This could be hand/limb morphology, selection for color vision that is conducive to terrestrial foraging in embedded leaf litter, cognitive traits, or digestive features. My pie in the sky dream is evidence of gene-culture coevolution and tool-use rapidly driving evolution of corresponding traits. Meg and I has questions about coastal diets (and the lipids and amino acids they produce) affecting cognitive expansion (as has been argued in hominin evolution).
+
+## Logistics
+Things here are challenging, 60 km form mainland, no infrastructure, working with tides, drug trafficking. We boat and backpack everything in and tent camp on Jicaron. Coiba is easier logistically. This affects what is feasible. We typically do two ~2 week field trips a year.
+
+
+# 10 May 2021
+Hi Amanda--
+
+I wanted to follow up on our conversation, as you mentioned to, and CC Meg.
+
+It sounded like you were interested in helping out with the project, either in terms of interpretation of results or setting us up with folks who could do the analysis. We discussed proceeding with getting me export permits from Germany to Canada (for samples with their origin in Panama), and Panama to Canada becuse we never know how these things go in terms of timelimnes and permits. You will look into Canadian Import Permits. I attached and old letter signed by a German Vet and old import/export permits we have. It sounds like our Panamanian vet letter got signed physically, but I need to see if I can track down a digital copy.
+
+We mentioned it might make sense to:
+
+1. Ship 5-10 recent high quality samples to Canada (fecal and hair if desired)
+2. Ship or analayze 5-10 recent, high quality samples to try and analyze in Konstanz (and that it might be worth getting a workflow set up in Gisela's lab with species for which FACS is known to work). You also mentioned potentially flying your lab manager Gwen out here to get the protocol running in Konstanz and to analyze samples in country.
+
+3. It sould be important to see how much we can seperate capuchin from bacterial DNA in our samples, before FACS analysis, and to make sure we can gt the microsat DNA for dispersal and divergence first. We do not want to waste samples trying to get FACS running, an not be able to use it for other simpler questions.
+4. Potentially look for opsins in fecal samples, given sufficient DNA quality.
+5. For selection questions if we do full genome sequencing succesfully, it would be worthwhile to hire a bioinformatician postdoc.
+6. Talk with Jessica Lynch about the divergence project and that you are likely going to have people help out with samples, try FACS, and join that.
+7. You have had success with hair samples in the past.
+
+One question--
+
+Currently, we have 21 hair samples and 3 fecal samples in Leipzig. Would it make sense to ship them down to Konstanz while you are here? 
+
+We have 15 hair and 15 fecal samples in Panama currently, and could start the process of getting them shipped here if needed. 
+
+My next planned shipment from Panama is in July. I could wait till then to ship things to Canada, or start earlier. Let me know you preference (but this may all be moot as I need to reapply for permits).
+
+Thanks!
+
+--Brendan
+
