@@ -43,9 +43,9 @@ find /Volumes/Coiba\ Image\ Data/raw_data/R9 -type f -name "*.JPG"| cut -d/ -f2 
 find /Volumes/Coiba\ Image\ Data/raw_data/R10 -type f -name "*.JPG"| cut -d/ -f2 | sort | uniq 
 ```
 
-## 30 Jun 2022
+## 29 Jun 2022
 -[ ] send off panama forms
--[ ] get dinner reervation
+-[x] get dinner reervation
 -[ ] read over tza conflict paper
 -[ ] read over proc b reviewer comments
 -[x] email about meeting location stri
@@ -53,3 +53,14 @@ find /Volumes/Coiba\ Image\ Data/raw_data/R10 -type f -name "*.JPG"| cut -d/ -f2
 -[ ] reviwer comments mee
 -[ ] look over amanda's grad students method
 -[x] organize gwen reimburse reciepts
+
+## 30 Jun 2022
+-[ ] send off panama forms
+-[ ] read over tza conflict paper
+-[ ] read over proc b reviewer comments
+-[x] follow up on wildme
+-[ ] reviwer comments mee
+-[x] look over amanda's grad students method
+-[x] zoe meet
+
+
