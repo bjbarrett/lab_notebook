@@ -33,8 +33,8 @@
 -[x] reserve second airbnb
 
 
-## 4 Julio 2022
--[ ] send off panama forms
+## 5 Julio 2022
+-[x] send off panama forms
 -[ ] read over tza conflict paper
 -[ ] read over proc b reviewer comments
 -[ ] reviwer comments mee
@@ -56,3 +56,27 @@
 -[ ] DMP
 -[x] reserve second airbnb
 -[ ] call trimble
+
+## 6 Julio 2022
+-[x] send off panama forms
+-[ ] read over tza conflict paper
+-[ ] read over proc b reviewer comments
+-[ ] reviwer comments mee
+
+### Coiba todo
+-[x] send off panama forms
+-[x] get tent repair stuff
+-[x] repair tent [still need to spray tarp and bottom of tent]
+-[ ] nemo dagger II footprint
+-[x] print tidal charts
+-[x] get GPS and Trimble set up
+-[x] call garmin for bb inreach
+-[x] email prospectives
+-[ ] email about radios
+-[x] batteries in cameras
+-[x] get list of what is needed from muelle to lucia
+-[x] not commerical form
+-[x] transferwise $$
+-[ ] DMP
+-[x] reserve second airbnb
+-[x] call trimble
