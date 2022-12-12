@@ -1,0 +1,90 @@
+## 4 Nov 2023
+-[ ] permit 2023 onward
+-[x] meg list
+-[x] read and reply margit bbc
+-[ x bbc reply
+-[ ] tamara meet
+-[ ] meredith meet
+-[ ] vids for urs
+-[ ] zoe draft read
+-[ ] zoe ethogram
+-[ ]
+
+### Meg needs from brendan
+-[x] BBC letter of support of hosting approved my meg on mpi letterhead (2017 is the data to fill in)
+-[ ] BBC Americas contract readover Margit emailed it recently, and I replied today
+-[ ] sccedule an hour or hour and a half meeting with me in near future. over lunch is ok too.
+-[ ] we should discuss my contract renewal in june, as i need it for permanant residency and kita spot (it should be ok with letter, but it depends on who is working on a given day)
+ 
+
+### Updates for Meg
+ -[ ] megadetector tiling that gets far away capuchins is up and working, we should be able to process data soon
+ -[ ] jaya and i went over her proposal. she applied to STRI and UNI-K fellowshi[s to work with us
+ -[ ] Natalia and Gens Cluster Grant got funded, so the model i sketched ot with them will be worked on later
+ -[ ] still working on emmy noether app
+ -[ ] odd draft will be on your desk soon
+ -[ ] teaching urs' course next week
+ -[ ] all my jobs i am applying for will ask for letters if i advance so you should be good
+ -[ ] lisa corewyn will collaborate with us on this howler paper
+
+## 7 Nov 2023
+-[ ] permit 2023 onward
+-[ ] tamara meet
+-[ ] meredith meet
+-[ ] vids for urs
+-[ ] zoe draft read
+-[ ] zoe ethogram
+-[ ] bachelor thesis ideas
+-[ ] odd draft read
+-[ ] 
+
+## 28 Nov 2023
+-[x] security github
+-[x] annika
+-[x] IMEI
+-[x] travel auth
+-[x] claudio chat
+-[x] order rucksack
+-[x] call taxman
+-[ ] reconyx 
+-[ ] utah job apply
+-[x] white out
+-[x] envelopes
+-[ ] post office
+-[ ] job bike
+-[x] s2s reimburse
+-[ ] Meredith SD cards
+-[ ] health insurance stuff
+
+### Utah
+I finalized CV, recs, and did full version of DEI
+
+## 29 Nov 2022
+
+-[x] reconyx [angie will]
+-[x] utah job apply
+    -[x] proofread DEI
+    -[x] cover letter
+-[x] post office
+-[ ] job bike
+-[ ] Meredith SD cards
+-[ ] health insurance stuff
+-[x] zoe meet
+-[x] gen and natalia meet
+-[ ] coiba_camtrap_ids_gps.csv fix (tool site) (anvil-- permanant anvil,debris accumulation, repearatley used) (pull first
+
+### Zoe meet
+- photo of monkey, cite pedro paper, graph of outcome at different distances, legend pivot around zero
+- zoe meet with karla and mike on thursday
+- add compass direction to kobo
+-
+
+### Gen and Natalia
+- encounter rate, prey herd density
+- 3rd prey cooperative type 
+- packer et al, cost of subduing, cost of persuing
+- meet in early feb for 4 days to tackle this
+- read packer paper
+
+## 30 nov 2022
+

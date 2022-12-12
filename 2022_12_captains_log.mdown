@@ -1,0 +1,27 @@
+## 6 Dec 2022
+
+-[ ] health insurance stuff
+-[ ] coiba_camtrap_ids_gps.csv fix (tool site) (anvil-- permanant anvil,debris accumulation, repearatley used) (pull first)
+-[ ] email evelyn w/ questions about knee
+-[ ] get registration template
+-[ ] reach out to james and juan
+-[ ] airbnbs
+-[ ] rental car
+
+## 13 Dec 2022
+
+-[ ] coiba_camtrap_ids_gps.csv fix (tool site) (anvil-- permanant anvil,debris accumulation, repearatley used) (pull first)
+-[x] airbnb santiago
+-[ ] rental car
+-[ ] sloanea
+-[ ] ODD Tac
+-[x] package label print
+-[ ] DFG stuff emmy noeter
+-[ ] finalize meeting with STRI folks
+-[ ] STRI registration
+-[x] parent email
+-[ ] STRI evac
+
+### Giles meeting
+- Talk about Pedro/James scheduling 28 to 6
+- Only Eliezer, not Jacop
