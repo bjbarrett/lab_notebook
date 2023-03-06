@@ -1,0 +1,16 @@
+## 01 to 03 Mar 2023
+-[ ] back up gps
+-[ ] game theory model natalia and gen, get equilibrium stability
+-[x] ohad
+-[x] lester draft
+-[x] lester code
+
+## 06 Mar 2023
+-[ ] back up gps
+-[ ] game theory model natalia and gen, get equilibrium stability
+-[ ] email zoe points
+-[ ] cam trap meeting
+-[ ] retreat questions
+-[ ] drop off tunbes
+-[ ] grid points
+-[ ] inreaches
