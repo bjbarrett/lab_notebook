@@ -1,0 +1,68 @@
+## 6 Feb 2023
+
+-[ ] health insurance stuff
+-[ ] coiba_camtrap_ids_gps.csv fix (tool site) (anvil-- permanant anvil,debris accumulation, repearatley used) (pull first)
+-[ ] prep lion GT
+-[ ] review
+-[ ] lester paper
+-[ ] catch up with odd
+
+### le roar
+https://onlinelibrary.wiley.com/doi/10.1002/evan.21364
+https://onlinelibrary.wiley.com/doi/full/10.1002/9781118924396.wbiea1655#wbiea1655-bib-0001
+https://journals.sagepub.com/doi/pdf/10.1177/053901887026001002
+https://www.sciencedirect.com/science/article/pii/S0022519305801560
+
+
+## 21 Feb 2023
+
+done earlier
+-[x] finished movement ecology review
+-[x] started putlining matalia and gen model
+
+### Odd meeting
+asked him to draw DAGS, i need to figure out how to interact IL and dyadic level varying effects.
+Perhaps key is to interact main effects...
+
+## currently to do
+-[ ] final read over odd draft
+-[ ] back up gps
+-[ ] rename files
+-[ ] game theory model natalia and gen, get equilibrium stability
+
+
+## 22 Feb 2023
+-[x] final read over odd draft
+-[ ] back up gps
+-[ ] rename files
+-[ ] game theory model natalia and gen, get equilibrium stability
+-[x] kate hr paperwork
+-[ ] permit resend
+-[ ] email genetics folks
+-[ ]ohad
+
+## 27 Feb 2023
+-[ ] back up gps
+-[ ] rename files
+-[ ] game theory model natalia and gen, get equilibrium stability
+-[x] permit resend
+-[x] email genetics folks
+-[ ] ohad
+-[x] perm rez
+-[ ] lester draft
+-[ ] lester code
+-[ ] sloanea hour
+
+## 28 Feb 2023
+-[ ] back up gps
+-[x] rename files
+-[ ] game theory model natalia and gen, get equilibrium stability
+-[x] permit resend
+-[x] email genetics folks
+-[ ] ohad
+-[x] perm rez
+-[ ] lester draft
+-[ ] lester code
+-[x] sloanea hour
+-[x] zoe howler
+
