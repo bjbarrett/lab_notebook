@@ -1,0 +1,11 @@
+# 31 May 2023
+
+## el nino papers
+
+
+for(i in 100:120){
+  plot(density(rgamma(10000,shape=d_akde$shape[[i]], rate=d_akde$rate[[i]] ) , xlim=c(0,10)) )
+  plot(density(rgamma(10000,shape=d_akde$shape[[i]], scale=d_akde$scale[[i]] ) , xlim=c(0,10)) , lty=2 )
+  points( d_akde$area[i] , 0.1 )
+  segments(  x0=d_akde$low[i], y0=0.1 , x1=d_akde$high[i] ,y1= 0.1 , col="blue")
+}

@@ -1,3 +1,23 @@
+## 01 Marz 2023
+-[ ] back up gps
+-[ ] game theory model natalia and gen, get equilibrium stability
+-[ ] ohad
+-[ ] lester draft
+-[ ] lester code
+-[ ] resend form
+
+### Grants
+- aventis: https://bridge.aventis-foundation.org/award/ 
+- ces transformation fund: https://docs.google.com/forms/d/e/1FAIpQLSciAM2cNEKk-7zUl-_8jfZnGI3TADyBJh1La-uZfvSRYRNJDg/viewform
+
+### panamanian illustrator
+- https://www.itsnikiwalsh.art/booksnikiwalsh
+- https://stri.si.edu/story/multilingual-storytelling
+
+### to read
+- https://arxiv.org/pdf/1803.06588.pdf
+- https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgad054/7054066
+
 ## 01 to 03 Mar 2023
 -[ ] back up gps
 -[ ] game theory model natalia and gen, get equilibrium stability
@@ -6,11 +26,68 @@
 -[x] lester code
 
 ## 06 Mar 2023
--[ ] back up gps
+-[x] back up gps
 -[ ] game theory model natalia and gen, get equilibrium stability
--[ ] email zoe points
--[ ] cam trap meeting
--[ ] retreat questions
--[ ] drop off tunbes
--[ ] grid points
--[ ] inreaches
+-[x] email zoe points
+-[x] cam trap meeting
+-[x] retreat questions
+-[x] drop off tunbes
+-[x] grid points
+-[x] inreaches
+
+## 13 Mar 2023
+-[ ] game theory model natalia and gen, get equilibrium stability
+-[ ] sloanea get posterior preds from models, make a cue model, add varying effects
+-[ ] sloanea make a cue model, add varying effects
+-[ ] sloanea add varying effects
+-[ ] get posterior from models, make a cue model, add varying effects
+-[ ] pedro pay
+-[ ] reciepts
+
+
+### Camera Trap Meeting
+targeted and untageted sampling, endogeneity of behavior, human effects, challenges
+
+
+## 14 Mar 2023
+
+I worked from home, mostly on reciepts all day.
+
+## 15 Mar 2023
+Tobin home sick. Kate not well. I am next.
+-[ ] game theory model natalia and gen, get equilibrium stability
+-[ ] sloanea get posterior preds from models, make a cue model, add varying effects
+-[ ] sloanea make a cue model, add varying effects
+-[ ] sloanea add varying effects
+-[ ] get posterior from models, make a cue model, add varying effects
+-[ ] pedro pay
+-[x] reciepts
+-[ ] email claudio video settings
+-[ ] zoe meeting
+-[ ] sex bias paper read this week
+
+
+## 23 Mar 2023
+-[ ] game theory model natalia and gen, get equilibrium stability
+-[ ] sloanea get posterior preds from models, make a cue model, add varying effects
+-[x] sloanea make a cue model, add varying effects
+-[ ] sloanea add varying effects
+-[x] get posterior from models, make a cue model, add varying effects
+-[ ] pedro pay
+-[x] email claudio video settings
+-[x] zoe meeting
+-[x] sex bias paper read this week
+
+## 24 Mar 2023
+-[ ] game theory model natalia and gen, get equilibrium stability
+-[x] sloanea get posterior preds from models, make a cue model, add varying effects
+-[x] sloanea add varying effects
+-[x] pedro pay
+-[ ] work on ngs grant
+-[x] boris
+-[x] rename cebus for boris today
+-[ ] passport app
+-[ ] harras HR
+-[x] exiftool
+-[ ] register as freelancer
+-[x] coiba meeting
